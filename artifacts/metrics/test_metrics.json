@@ -1,0 +1,25 @@
+{
+  "generated_at": "2026-11-23T02:18:41.132994+00:00",
+  "test_loss": 1.34513,
+  "accuracy": 0.65517,
+  "window_level_accuracy": 0.63403,
+  "top3_accuracy": 0.81379,
+  "top5_accuracy": 0.87586,
+  "precision_macro": 0.66587,
+  "recall_macro": 0.65812,
+  "f1_macro": 0.6332,
+  "precision_weighted": 0.66389,
+  "recall_weighted": 0.65517,
+  "f1_weighted": 0.63081,
+  "num_test_recordings": 145,
+  "num_test_windows": 429,
+  "num_classes": 39,
+  "best_epoch": 28,
+  "model_params": 248911,
+  "device_used": "cpu",
+  "split_counts": {
+    "train": 680,
+    "val": 146,
+    "test": 146
+  }
+}

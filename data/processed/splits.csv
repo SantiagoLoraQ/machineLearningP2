@@ -1,0 +1,973 @@
+id,especie,especie_carpeta,ruta_relativa,calidad,tipo_vocalizacion,tipo_vocalizacion_principal,duracion_seg,sample_rate,canales,split
+1064593,Asthenes dorbignyi,Asthenes_dorbignyi,Audios/Asthenes_dorbignyi/XC1064593.wav,C,song,song,10.36,48000,1,val
+1064594,Asthenes dorbignyi,Asthenes_dorbignyi,Audios/Asthenes_dorbignyi/XC1064594.wav,C,song,song,6.3,48000,1,train
+149956,Asthenes dorbignyi,Asthenes_dorbignyi,Audios/Asthenes_dorbignyi/XC149956.mp3,B,song,song,24.6,44100,1,train
+155964,Asthenes dorbignyi,Asthenes_dorbignyi,Audios/Asthenes_dorbignyi/XC155964.mp3,C,song,song,23.41,44100,1,train
+16224,Asthenes dorbignyi,Asthenes_dorbignyi,Audios/Asthenes_dorbignyi/XC16224.mp3,B,stuttersong,stuttersong,6.71,44100,1,train
+16225,Asthenes dorbignyi,Asthenes_dorbignyi,Audios/Asthenes_dorbignyi/XC16225.mp3,A,stuttersong,stuttersong,6.86,44100,1,train
+1631,Asthenes dorbignyi,Asthenes_dorbignyi,Audios/Asthenes_dorbignyi/XC1631.mp3,B,song,song,43.82,44100,1,train
+1642,Asthenes dorbignyi,Asthenes_dorbignyi,Audios/Asthenes_dorbignyi/XC1642.mp3,A,"song, trill songs",song,34.84,44100,1,train
+2151,Asthenes dorbignyi,Asthenes_dorbignyi,Audios/Asthenes_dorbignyi/XC2151.mp3,A,"song, trill songs",song,57.6,44100,1,train
+2152,Asthenes dorbignyi,Asthenes_dorbignyi,Audios/Asthenes_dorbignyi/XC2152.mp3,B,"call, , (alarm?) calls",call,10.97,44100,1,val
+2184,Asthenes dorbignyi,Asthenes_dorbignyi,Audios/Asthenes_dorbignyi/XC2184.mp3,B,"song, , long song",song,11.34,44100,1,train
+2485,Asthenes dorbignyi,Asthenes_dorbignyi,Audios/Asthenes_dorbignyi/XC2485.mp3,B,song,song,6.84,44100,1,val
+354590,Asthenes dorbignyi,Asthenes_dorbignyi,Audios/Asthenes_dorbignyi/XC354590.mp3,B,song,song,6.85,44100,2,train
+47583,Asthenes dorbignyi,Asthenes_dorbignyi,Audios/Asthenes_dorbignyi/XC47583.mp3,C,call,call,18.78,44100,1,train
+47584,Asthenes dorbignyi,Asthenes_dorbignyi,Audios/Asthenes_dorbignyi/XC47584.mp3,B,stuttersong,stuttersong,26.81,44100,1,train
+47585,Asthenes dorbignyi,Asthenes_dorbignyi,Audios/Asthenes_dorbignyi/XC47585.mp3,B,stuttersong,stuttersong,38.11,44100,1,test
+63135,Asthenes dorbignyi,Asthenes_dorbignyi,Audios/Asthenes_dorbignyi/XC63135.mp3,B,call,call,19.2,44100,1,test
+66185,Asthenes dorbignyi,Asthenes_dorbignyi,Audios/Asthenes_dorbignyi/XC66185.mp3,C,"daysong, stuttersong",daysong,24.24,44100,1,train
+778729,Asthenes dorbignyi,Asthenes_dorbignyi,Audios/Asthenes_dorbignyi/XC778729.mp3,B,song,song,16.93,44100,1,train
+778741,Asthenes dorbignyi,Asthenes_dorbignyi,Audios/Asthenes_dorbignyi/XC778741.mp3,B,"dawn song, song",song,196.29,44100,1,train
+778859,Asthenes dorbignyi,Asthenes_dorbignyi,Audios/Asthenes_dorbignyi/XC778859.mp3,B,song,song,19.96,44100,1,test
+988639,Asthenes dorbignyi,Asthenes_dorbignyi,Audios/Asthenes_dorbignyi/XC988639.wav,B,song,song,4.14,44100,2,val
+988640,Asthenes dorbignyi,Asthenes_dorbignyi,Audios/Asthenes_dorbignyi/XC988640.wav,B,"call, song",song,14.69,44100,2,train
+988648,Asthenes dorbignyi,Asthenes_dorbignyi,Audios/Asthenes_dorbignyi/XC988648.wav,B,song,song,6.44,44100,2,train
+988655,Asthenes dorbignyi,Asthenes_dorbignyi,Audios/Asthenes_dorbignyi/XC988655.wav,B,"call, song",song,61.33,44100,2,test
+989042,Asthenes dorbignyi,Asthenes_dorbignyi,Audios/Asthenes_dorbignyi/XC989042.wav,B,song,song,3.32,48000,2,train
+989053,Asthenes dorbignyi,Asthenes_dorbignyi,Audios/Asthenes_dorbignyi/XC989053.wav,A,call,call,10.14,48000,2,train
+1065029,Asthenes harterti,Asthenes_harterti,Audios/Asthenes_harterti/XC1065029.wav,B,call,call,26.68,48000,1,train
+145003,Asthenes harterti,Asthenes_harterti,Audios/Asthenes_harterti/XC145003.mp3,B,"call, song",song,72.11,44100,1,val
+150546,Asthenes harterti,Asthenes_harterti,Audios/Asthenes_harterti/XC150546.mp3,A,call,call,39.33,44100,1,train
+150547,Asthenes harterti,Asthenes_harterti,Audios/Asthenes_harterti/XC150547.mp3,A,call,call,19.29,44100,1,train
+190379,Asthenes harterti,Asthenes_harterti,Audios/Asthenes_harterti/XC190379.mp3,A,song,song,46.37,48000,1,train
+190380,Asthenes harterti,Asthenes_harterti,Audios/Asthenes_harterti/XC190380.mp3,A,song,song,50.21,48000,1,train
+190382,Asthenes harterti,Asthenes_harterti,Audios/Asthenes_harterti/XC190382.mp3,A,song,song,66.39,48000,1,test
+190383,Asthenes harterti,Asthenes_harterti,Audios/Asthenes_harterti/XC190383.mp3,A,call,call,68.74,48000,1,train
+1964,Asthenes harterti,Asthenes_harterti,Audios/Asthenes_harterti/XC1964.mp3,B,song,song,39.88,44100,1,val
+1971,Asthenes harterti,Asthenes_harterti,Audios/Asthenes_harterti/XC1971.mp3,A,"alarm call, alarm calls. same bird?",call,27.44,44100,1,train
+263275,Asthenes harterti,Asthenes_harterti,Audios/Asthenes_harterti/XC263275.mp3,A,song,song,46.67,44100,1,train
+354375,Asthenes harterti,Asthenes_harterti,Audios/Asthenes_harterti/XC354375.mp3,B,song,song,71.95,44100,2,test
+354384,Asthenes harterti,Asthenes_harterti,Audios/Asthenes_harterti/XC354384.mp3,B,song,song,115.93,44100,2,train
+471349,Asthenes harterti,Asthenes_harterti,Audios/Asthenes_harterti/XC471349.mp3,A,call,call,30.8,48000,2,train
+471350,Asthenes harterti,Asthenes_harterti,Audios/Asthenes_harterti/XC471350.mp3,A,call,call,59.53,48000,2,test
+471351,Asthenes harterti,Asthenes_harterti,Audios/Asthenes_harterti/XC471351.mp3,A,call,call,38.79,48000,2,train
+471352,Asthenes harterti,Asthenes_harterti,Audios/Asthenes_harterti/XC471352.mp3,A,song,song,59.77,48000,2,train
+597914,Asthenes harterti,Asthenes_harterti,Audios/Asthenes_harterti/XC597914.mp3,B,song,song,93.72,44100,1,train
+640895,Asthenes harterti,Asthenes_harterti,Audios/Asthenes_harterti/XC640895.mp3,A,song,song,28.03,44100,2,train
+683225,Asthenes harterti,Asthenes_harterti,Audios/Asthenes_harterti/XC683225.mp3,B,"song, subsong",song,35.56,44100,1,val
+683233,Asthenes harterti,Asthenes_harterti,Audios/Asthenes_harterti/XC683233.mp3,A,call,call,115.9,44100,1,test
+683243,Asthenes harterti,Asthenes_harterti,Audios/Asthenes_harterti/XC683243.mp3,B,"call, song",song,53.73,44100,1,train
+74166,Asthenes harterti,Asthenes_harterti,Audios/Asthenes_harterti/XC74166.mp3,A,song,song,20.0,44100,1,train
+778838,Asthenes harterti,Asthenes_harterti,Audios/Asthenes_harterti/XC778838.mp3,B,song,song,20.48,44100,1,train
+778847,Asthenes harterti,Asthenes_harterti,Audios/Asthenes_harterti/XC778847.mp3,B,call,call,33.59,44100,1,train
+778850,Asthenes harterti,Asthenes_harterti,Audios/Asthenes_harterti/XC778850.mp3,A,call,call,83.17,44100,1,val
+955513,Asthenes harterti,Asthenes_harterti,Audios/Asthenes_harterti/XC955513.wav,A,song,song,37.7,44100,2,train
+1052868,Atlapetes rufinucha,Atlapetes_rufinucha,Audios/Atlapetes_rufinucha/XC1052868.wav,A,song,song,66.14,44100,2,train
+1064678,Atlapetes rufinucha,Atlapetes_rufinucha,Audios/Atlapetes_rufinucha/XC1064678.wav,C,call,call,20.55,48000,1,val
+1065031,Atlapetes rufinucha,Atlapetes_rufinucha,Audios/Atlapetes_rufinucha/XC1065031.wav,C,call,call,14.28,48000,1,train
+1065151,Atlapetes rufinucha,Atlapetes_rufinucha,Audios/Atlapetes_rufinucha/XC1065151.wav,B,"call, song",song,39.88,48000,1,test
+1068119,Atlapetes rufinucha,Atlapetes_rufinucha,Audios/Atlapetes_rufinucha/XC1068119.wav,A,"dawn song, subsong",song,47.41,44100,2,train
+145038,Atlapetes rufinucha,Atlapetes_rufinucha,Audios/Atlapetes_rufinucha/XC145038.mp3,B,"call, song",song,57.53,44100,1,train
+149122,Atlapetes rufinucha,Atlapetes_rufinucha,Audios/Atlapetes_rufinucha/XC149122.mp3,A,song,song,77.7,44100,1,train
+16218,Atlapetes rufinucha,Atlapetes_rufinucha,Audios/Atlapetes_rufinucha/XC16218.mp3,A,song,song,11.86,44100,1,train
+296343,Atlapetes rufinucha,Atlapetes_rufinucha,Audios/Atlapetes_rufinucha/XC296343.mp3,A,call,call,19.5,44100,2,train
+3637,Atlapetes rufinucha,Atlapetes_rufinucha,Audios/Atlapetes_rufinucha/XC3637.mp3,B,song,song,16.19,44100,1,val
+44212,Atlapetes rufinucha,Atlapetes_rufinucha,Audios/Atlapetes_rufinucha/XC44212.mp3,C,call,call,7.68,44100,2,train
+47306,Atlapetes rufinucha,Atlapetes_rufinucha,Audios/Atlapetes_rufinucha/XC47306.mp3,B,"song, song 3 birds",song,61.91,44100,1,val
+505172,Atlapetes rufinucha,Atlapetes_rufinucha,Audios/Atlapetes_rufinucha/XC505172.mp3,B,song,song,20.47,48000,2,train
+650155,Atlapetes rufinucha,Atlapetes_rufinucha,Audios/Atlapetes_rufinucha/XC650155.mp3,B,"begging call, call",call,76.9,44100,1,test
+73114,Atlapetes rufinucha,Atlapetes_rufinucha,Audios/Atlapetes_rufinucha/XC73114.mp3,B,song,song,19.38,44100,1,test
+73115,Atlapetes rufinucha,Atlapetes_rufinucha,Audios/Atlapetes_rufinucha/XC73115.mp3,B,song,song,52.39,44100,1,val
+73116,Atlapetes rufinucha,Atlapetes_rufinucha,Audios/Atlapetes_rufinucha/XC73116.mp3,B,song,song,36.73,44100,1,train
+73117,Atlapetes rufinucha,Atlapetes_rufinucha,Audios/Atlapetes_rufinucha/XC73117.mp3,B,song,song,39.77,44100,1,train
+73118,Atlapetes rufinucha,Atlapetes_rufinucha,Audios/Atlapetes_rufinucha/XC73118.mp3,B,song,song,27.28,44100,1,train
+733380,Atlapetes rufinucha,Atlapetes_rufinucha,Audios/Atlapetes_rufinucha/XC733380.mp3,B,call,call,15.34,44100,1,train
+745380,Atlapetes rufinucha,Atlapetes_rufinucha,Audios/Atlapetes_rufinucha/XC745380.mp3,A,"call, subsong",call,37.93,48000,2,train
+871082,Atlapetes rufinucha,Atlapetes_rufinucha,Audios/Atlapetes_rufinucha/XC871082.wav,A,call,call,62.87,44100,2,train
+1180202,Campylorhynchus turdinus,Campylorhynchus_turdinus,Audios/Campylorhynchus_turdinus/XC1180202.wav,A,call,call,109.52,44100,2,test
+1180215,Campylorhynchus turdinus,Campylorhynchus_turdinus,Audios/Campylorhynchus_turdinus/XC1180215.wav,A,call,call,44.27,44100,2,train
+1180217,Campylorhynchus turdinus,Campylorhynchus_turdinus,Audios/Campylorhynchus_turdinus/XC1180217.wav,A,"call, subsong",call,18.51,44100,2,train
+153569,Campylorhynchus turdinus,Campylorhynchus_turdinus,Audios/Campylorhynchus_turdinus/XC153569.mp3,B,"call, song",song,31.1,44100,1,train
+153576,Campylorhynchus turdinus,Campylorhynchus_turdinus,Audios/Campylorhynchus_turdinus/XC153576.mp3,B,song,song,31.06,44100,1,train
+2203,Campylorhynchus turdinus,Campylorhynchus_turdinus,Audios/Campylorhynchus_turdinus/XC2203.mp3,A,"call, song",song,39.46,44100,1,train
+2226,Campylorhynchus turdinus,Campylorhynchus_turdinus,Audios/Campylorhynchus_turdinus/XC2226.mp3,B,song,song,28.78,44100,1,train
+2693,Campylorhynchus turdinus,Campylorhynchus_turdinus,Audios/Campylorhynchus_turdinus/XC2693.mp3,B,song,song,22.82,44100,1,train
+289542,Campylorhynchus turdinus,Campylorhynchus_turdinus,Audios/Campylorhynchus_turdinus/XC289542.mp3,B,song,song,8.25,44100,2,val
+350961,Campylorhynchus turdinus,Campylorhynchus_turdinus,Audios/Campylorhynchus_turdinus/XC350961.mp3,A,song,song,63.62,44100,2,train
+350962,Campylorhynchus turdinus,Campylorhynchus_turdinus,Audios/Campylorhynchus_turdinus/XC350962.mp3,A,song,song,28.38,44100,2,train
+443737,Campylorhynchus turdinus,Campylorhynchus_turdinus,Audios/Campylorhynchus_turdinus/XC443737.mp3,A,"call, song",song,18.22,16000,1,train
+604010,Campylorhynchus turdinus,Campylorhynchus_turdinus,Audios/Campylorhynchus_turdinus/XC604010.mp3,A,"call, imitation, song, mimicry/imitation",song,17.03,44100,1,test
+685376,Campylorhynchus turdinus,Campylorhynchus_turdinus,Audios/Campylorhynchus_turdinus/XC685376.mp3,A,song,song,12.57,44100,2,train
+702018,Campylorhynchus turdinus,Campylorhynchus_turdinus,Audios/Campylorhynchus_turdinus/XC702018.mp3,A,song,song,14.6,44100,2,test
+709976,Campylorhynchus turdinus,Campylorhynchus_turdinus,Audios/Campylorhynchus_turdinus/XC709976.mp3,A,"duet, song",song,283.46,48000,2,train
+709977,Campylorhynchus turdinus,Campylorhynchus_turdinus,Audios/Campylorhynchus_turdinus/XC709977.mp3,A,"call, duet, song",song,172.85,48000,2,train
+709979,Campylorhynchus turdinus,Campylorhynchus_turdinus,Audios/Campylorhynchus_turdinus/XC709979.mp3,A,"call, duet, song",song,43.85,48000,2,train
+709980,Campylorhynchus turdinus,Campylorhynchus_turdinus,Audios/Campylorhynchus_turdinus/XC709980.mp3,C,call,call,10.36,48000,2,train
+870771,Campylorhynchus turdinus,Campylorhynchus_turdinus,Audios/Campylorhynchus_turdinus/XC870771.mp3,C,"call, song",song,47.32,48000,2,val
+870772,Campylorhynchus turdinus,Campylorhynchus_turdinus,Audios/Campylorhynchus_turdinus/XC870772.mp3,A,call,call,43.81,48000,2,val
+148841,Cantorchilus guarayanus,Cantorchilus_guarayanus,Audios/Cantorchilus_guarayanus/XC148841.mp3,A,song,song,74.83,44100,1,train
+149533,Cantorchilus guarayanus,Cantorchilus_guarayanus,Audios/Cantorchilus_guarayanus/XC149533.mp3,A,song,song,77.56,44100,1,test
+1935,Cantorchilus guarayanus,Cantorchilus_guarayanus,Audios/Cantorchilus_guarayanus/XC1935.mp3,A,"call, dry gravelly calls. short calls",call,14.91,44100,1,train
+2190,Cantorchilus guarayanus,Cantorchilus_guarayanus,Audios/Cantorchilus_guarayanus/XC2190.mp3,A,"alarm call, alarm calls.",call,28.96,44100,1,train
+2191,Cantorchilus guarayanus,Cantorchilus_guarayanus,Audios/Cantorchilus_guarayanus/XC2191.mp3,A,"song, short songs",song,41.76,44100,1,train
+2224,Cantorchilus guarayanus,Cantorchilus_guarayanus,Audios/Cantorchilus_guarayanus/XC2224.mp3,A,"song, short songs",song,38.7,44100,1,train
+2627,Cantorchilus guarayanus,Cantorchilus_guarayanus,Audios/Cantorchilus_guarayanus/XC2627.mp3,A,"alarm call, song, alarm calls. song.",song,14.16,44100,1,test
+2639,Cantorchilus guarayanus,Cantorchilus_guarayanus,Audios/Cantorchilus_guarayanus/XC2639.mp3,A,alarm call,call,10.61,44100,1,val
+2660,Cantorchilus guarayanus,Cantorchilus_guarayanus,Audios/Cantorchilus_guarayanus/XC2660.mp3,A,alarm call,call,12.48,44100,1,test
+2661,Cantorchilus guarayanus,Cantorchilus_guarayanus,Audios/Cantorchilus_guarayanus/XC2661.mp3,A,"alarm call, call, alarm calls. dry gravelly calls.",call,19.04,44100,1,train
+2662,Cantorchilus guarayanus,Cantorchilus_guarayanus,Audios/Cantorchilus_guarayanus/XC2662.mp3,A,song,song,21.4,44100,1,train
+2690,Cantorchilus guarayanus,Cantorchilus_guarayanus,Audios/Cantorchilus_guarayanus/XC2690.mp3,A,alarm call,call,13.55,44100,1,val
+2712,Cantorchilus guarayanus,Cantorchilus_guarayanus,Audios/Cantorchilus_guarayanus/XC2712.mp3,A,song,song,18.97,44100,1,train
+296320,Cantorchilus guarayanus,Cantorchilus_guarayanus,Audios/Cantorchilus_guarayanus/XC296320.mp3,A,call,call,40.31,44100,2,train
+299439,Cantorchilus guarayanus,Cantorchilus_guarayanus,Audios/Cantorchilus_guarayanus/XC299439.mp3,A,song,song,13.23,44100,2,train
+426287,Cantorchilus guarayanus,Cantorchilus_guarayanus,Audios/Cantorchilus_guarayanus/XC426287.mp3,A,song,song,67.7,44100,2,train
+429287,Cantorchilus guarayanus,Cantorchilus_guarayanus,Audios/Cantorchilus_guarayanus/XC429287.mp3,A,call,call,51.19,48000,1,train
+429288,Cantorchilus guarayanus,Cantorchilus_guarayanus,Audios/Cantorchilus_guarayanus/XC429288.mp3,A,song,song,47.54,48000,1,train
+435633,Cantorchilus guarayanus,Cantorchilus_guarayanus,Audios/Cantorchilus_guarayanus/XC435633.mp3,A,alarm call,call,21.3,44100,2,train
+443427,Cantorchilus guarayanus,Cantorchilus_guarayanus,Audios/Cantorchilus_guarayanus/XC443427.mp3,A,call,call,28.61,16000,1,train
+702031,Cantorchilus guarayanus,Cantorchilus_guarayanus,Audios/Cantorchilus_guarayanus/XC702031.mp3,A,subsong,subsong,147.73,44100,2,train
+709904,Cantorchilus guarayanus,Cantorchilus_guarayanus,Audios/Cantorchilus_guarayanus/XC709904.mp3,A,"duet, song",song,104.87,48000,2,train
+709914,Cantorchilus guarayanus,Cantorchilus_guarayanus,Audios/Cantorchilus_guarayanus/XC709914.mp3,A,"call, song",song,366.04,48000,2,train
+864691,Cantorchilus guarayanus,Cantorchilus_guarayanus,Audios/Cantorchilus_guarayanus/XC864691.mp3,A,"call, duet, song",song,497.95,48000,2,train
+864692,Cantorchilus guarayanus,Cantorchilus_guarayanus,Audios/Cantorchilus_guarayanus/XC864692.mp3,A,call,call,30.15,48000,2,val
+864693,Cantorchilus guarayanus,Cantorchilus_guarayanus,Audios/Cantorchilus_guarayanus/XC864693.wav,A,"call, duet, song",song,16.87,48000,2,test
+864694,Cantorchilus guarayanus,Cantorchilus_guarayanus,Audios/Cantorchilus_guarayanus/XC864694.mp3,A,"call, duet, song",song,73.49,48000,2,val
+1065384,Chiroxiphia boliviana,Chiroxiphia_boliviana,Audios/Chiroxiphia_boliviana/XC1065384.wav,B,call,call,18.41,48000,1,train
+1546,Chiroxiphia boliviana,Chiroxiphia_boliviana,Audios/Chiroxiphia_boliviana/XC1546.mp3,A,"call, display calls",call,58.47,44100,1,train
+155972,Chiroxiphia boliviana,Chiroxiphia_boliviana,Audios/Chiroxiphia_boliviana/XC155972.mp3,A,call,call,38.92,44100,1,train
+298664,Chiroxiphia boliviana,Chiroxiphia_boliviana,Audios/Chiroxiphia_boliviana/XC298664.mp3,A,song,song,38.39,44100,2,train
+349136,Chiroxiphia boliviana,Chiroxiphia_boliviana,Audios/Chiroxiphia_boliviana/XC349136.mp3,B,"call, display vocalization",call,114.15,44100,1,train
+349137,Chiroxiphia boliviana,Chiroxiphia_boliviana,Audios/Chiroxiphia_boliviana/XC349137.mp3,B,call,call,27.82,44100,1,train
+351107,Chiroxiphia boliviana,Chiroxiphia_boliviana,Audios/Chiroxiphia_boliviana/XC351107.mp3,C,call,call,7.05,44100,2,test
+352269,Chiroxiphia boliviana,Chiroxiphia_boliviana,Audios/Chiroxiphia_boliviana/XC352269.mp3,B,call,call,65.37,44100,2,train
+352271,Chiroxiphia boliviana,Chiroxiphia_boliviana,Audios/Chiroxiphia_boliviana/XC352271.mp3,B,call,call,140.4,44100,2,test
+409931,Chiroxiphia boliviana,Chiroxiphia_boliviana,Audios/Chiroxiphia_boliviana/XC409931.mp3,A,song,song,22.47,22050,1,val
+43894,Chiroxiphia boliviana,Chiroxiphia_boliviana,Audios/Chiroxiphia_boliviana/XC43894.mp3,B,call,call,31.81,44100,2,train
+43895,Chiroxiphia boliviana,Chiroxiphia_boliviana,Audios/Chiroxiphia_boliviana/XC43895.mp3,B,call,call,10.21,44100,2,train
+43896,Chiroxiphia boliviana,Chiroxiphia_boliviana,Audios/Chiroxiphia_boliviana/XC43896.mp3,B,call,call,37.37,44100,2,test
+43897,Chiroxiphia boliviana,Chiroxiphia_boliviana,Audios/Chiroxiphia_boliviana/XC43897.mp3,B,call,call,49.15,44100,2,val
+43915,Chiroxiphia boliviana,Chiroxiphia_boliviana,Audios/Chiroxiphia_boliviana/XC43915.mp3,B,call,call,28.41,44100,2,val
+43923,Chiroxiphia boliviana,Chiroxiphia_boliviana,Audios/Chiroxiphia_boliviana/XC43923.mp3,B,call,call,3.09,44100,2,train
+44214,Chiroxiphia boliviana,Chiroxiphia_boliviana,Audios/Chiroxiphia_boliviana/XC44214.mp3,B,call,call,8.8,44100,2,train
+44215,Chiroxiphia boliviana,Chiroxiphia_boliviana,Audios/Chiroxiphia_boliviana/XC44215.mp3,A,call,call,11.55,44100,2,train
+44216,Chiroxiphia boliviana,Chiroxiphia_boliviana,Audios/Chiroxiphia_boliviana/XC44216.mp3,B,call,call,35.72,44100,2,train
+44226,Chiroxiphia boliviana,Chiroxiphia_boliviana,Audios/Chiroxiphia_boliviana/XC44226.mp3,A,song,song,19.57,44100,2,train
+44387,Chiroxiphia boliviana,Chiroxiphia_boliviana,Audios/Chiroxiphia_boliviana/XC44387.mp3,A,call,call,97.43,44100,2,train
+631876,Chiroxiphia boliviana,Chiroxiphia_boliviana,Audios/Chiroxiphia_boliviana/XC631876.mp3,B,call,call,53.58,44100,1,train
+693061,Chiroxiphia boliviana,Chiroxiphia_boliviana,Audios/Chiroxiphia_boliviana/XC693061.mp3,B,"call, song",song,126.75,44100,2,test
+693074,Chiroxiphia boliviana,Chiroxiphia_boliviana,Audios/Chiroxiphia_boliviana/XC693074.mp3,A,"call, song",song,68.96,44100,2,train
+706281,Chiroxiphia boliviana,Chiroxiphia_boliviana,Audios/Chiroxiphia_boliviana/XC706281.mp3,B,call,call,114.44,48000,2,train
+73355,Chiroxiphia boliviana,Chiroxiphia_boliviana,Audios/Chiroxiphia_boliviana/XC73355.mp3,A,song,song,27.69,44100,1,train
+778913,Chiroxiphia boliviana,Chiroxiphia_boliviana,Audios/Chiroxiphia_boliviana/XC778913.mp3,A,song,song,150.06,44100,1,val
+1065041,Cranioleuca albiceps,Cranioleuca_albiceps,Audios/Cranioleuca_albiceps/XC1065041.wav,B,"call, song",song,59.28,48000,1,train
+1065042,Cranioleuca albiceps,Cranioleuca_albiceps,Audios/Cranioleuca_albiceps/XC1065042.wav,B,"call, song",song,39.16,48000,1,train
+1065044,Cranioleuca albiceps,Cranioleuca_albiceps,Audios/Cranioleuca_albiceps/XC1065044.wav,B,"call, song",song,16.83,48000,1,train
+1065378,Cranioleuca albiceps,Cranioleuca_albiceps,Audios/Cranioleuca_albiceps/XC1065378.wav,B,"call, song",song,8.2,48000,1,train
+1065379,Cranioleuca albiceps,Cranioleuca_albiceps,Audios/Cranioleuca_albiceps/XC1065379.wav,B,"call, song",song,11.58,48000,1,train
+149123,Cranioleuca albiceps,Cranioleuca_albiceps,Audios/Cranioleuca_albiceps/XC149123.mp3,B,alarm call,call,60.54,44100,1,val
+150538,Cranioleuca albiceps,Cranioleuca_albiceps,Audios/Cranioleuca_albiceps/XC150538.mp3,B,alarm call,call,39.09,44100,1,train
+1601,Cranioleuca albiceps,Cranioleuca_albiceps,Audios/Cranioleuca_albiceps/XC1601.mp3,B,song,song,16.24,44100,1,train
+1602,Cranioleuca albiceps,Cranioleuca_albiceps,Audios/Cranioleuca_albiceps/XC1602.mp3,A,"call, song",song,30.48,44100,1,train
+188458,Cranioleuca albiceps,Cranioleuca_albiceps,Audios/Cranioleuca_albiceps/XC188458.mp3,B,call,call,42.36,44100,1,train
+190384,Cranioleuca albiceps,Cranioleuca_albiceps,Audios/Cranioleuca_albiceps/XC190384.mp3,A,song,song,12.48,48000,1,val
+190386,Cranioleuca albiceps,Cranioleuca_albiceps,Audios/Cranioleuca_albiceps/XC190386.mp3,A,song,song,27.53,48000,1,val
+460300,Cranioleuca albiceps,Cranioleuca_albiceps,Audios/Cranioleuca_albiceps/XC460300.mp3,A,"call, duet",call,11.74,48000,2,train
+460301,Cranioleuca albiceps,Cranioleuca_albiceps,Audios/Cranioleuca_albiceps/XC460301.mp3,A,"call, duet",call,28.11,48000,2,train
+638805,Cranioleuca albiceps,Cranioleuca_albiceps,Audios/Cranioleuca_albiceps/XC638805.mp3,A,"call, subsong",call,38.6,44100,2,train
+674073,Cranioleuca albiceps,Cranioleuca_albiceps,Audios/Cranioleuca_albiceps/XC674073.mp3,B,alarm call,call,46.01,44100,1,train
+674075,Cranioleuca albiceps,Cranioleuca_albiceps,Audios/Cranioleuca_albiceps/XC674075.mp3,B,"alarm call, subsong",call,16.93,44100,1,train
+683230,Cranioleuca albiceps,Cranioleuca_albiceps,Audios/Cranioleuca_albiceps/XC683230.mp3,B,alarm call,call,11.39,44100,1,train
+73462,Cranioleuca albiceps,Cranioleuca_albiceps,Audios/Cranioleuca_albiceps/XC73462.mp3,C,song,song,45.0,44100,1,train
+73463,Cranioleuca albiceps,Cranioleuca_albiceps,Audios/Cranioleuca_albiceps/XC73463.mp3,A,song,song,103.86,44100,1,test
+750886,Cranioleuca albiceps,Cranioleuca_albiceps,Audios/Cranioleuca_albiceps/XC750886.mp3,B,subsong,subsong,23.23,44100,1,val
+750889,Cranioleuca albiceps,Cranioleuca_albiceps,Audios/Cranioleuca_albiceps/XC750889.mp3,B,subsong,subsong,10.53,44100,1,test
+778918,Cranioleuca albiceps,Cranioleuca_albiceps,Audios/Cranioleuca_albiceps/XC778918.mp3,B,call,call,75.86,44100,1,train
+956987,Cranioleuca albiceps,Cranioleuca_albiceps,Audios/Cranioleuca_albiceps/XC956987.wav,A,"call, song, subsong",song,33.31,44100,2,train
+956988,Cranioleuca albiceps,Cranioleuca_albiceps,Audios/Cranioleuca_albiceps/XC956988.wav,A,call,call,35.11,44100,2,test
+1032880,Cyclarhis gujanensis,Cyclarhis_gujanensis,Audios/Cyclarhis_gujanensis/XC1032880.wav,A,subsong,subsong,70.92,44100,2,train
+124651,Cyclarhis gujanensis,Cyclarhis_gujanensis,Audios/Cyclarhis_gujanensis/XC124651.mp3,B,song,song,55.13,48000,1,train
+145442,Cyclarhis gujanensis,Cyclarhis_gujanensis,Audios/Cyclarhis_gujanensis/XC145442.mp3,C,song,song,80.39,44100,1,train
+150581,Cyclarhis gujanensis,Cyclarhis_gujanensis,Audios/Cyclarhis_gujanensis/XC150581.mp3,C,call,call,7.67,44100,1,train
+153573,Cyclarhis gujanensis,Cyclarhis_gujanensis,Audios/Cyclarhis_gujanensis/XC153573.mp3,B,call,call,8.58,44100,1,train
+155523,Cyclarhis gujanensis,Cyclarhis_gujanensis,Audios/Cyclarhis_gujanensis/XC155523.mp3,B,alarm call,call,4.33,44100,1,train
+16216,Cyclarhis gujanensis,Cyclarhis_gujanensis,Audios/Cyclarhis_gujanensis/XC16216.mp3,B,song,song,8.13,44100,1,train
+1702,Cyclarhis gujanensis,Cyclarhis_gujanensis,Audios/Cyclarhis_gujanensis/XC1702.mp3,A,song,song,46.34,44100,1,train
+1910,Cyclarhis gujanensis,Cyclarhis_gujanensis,Audios/Cyclarhis_gujanensis/XC1910.mp3,A,call,call,4.87,44100,1,val
+19955,Cyclarhis gujanensis,Cyclarhis_gujanensis,Audios/Cyclarhis_gujanensis/XC19955.mp3,A,song,song,26.0,44100,1,train
+2167,Cyclarhis gujanensis,Cyclarhis_gujanensis,Audios/Cyclarhis_gujanensis/XC2167.mp3,A,song,song,41.51,44100,1,train
+264109,Cyclarhis gujanensis,Cyclarhis_gujanensis,Audios/Cyclarhis_gujanensis/XC264109.mp3,A,song,song,107.43,48000,1,val
+63350,Cyclarhis gujanensis,Cyclarhis_gujanensis,Audios/Cyclarhis_gujanensis/XC63350.mp3,B,song,song,27.2,44100,1,train
+63351,Cyclarhis gujanensis,Cyclarhis_gujanensis,Audios/Cyclarhis_gujanensis/XC63351.mp3,B,song,song,41.79,16000,1,train
+707149,Cyclarhis gujanensis,Cyclarhis_gujanensis,Audios/Cyclarhis_gujanensis/XC707149.mp3,B,song,song,140.34,48000,2,test
+707162,Cyclarhis gujanensis,Cyclarhis_gujanensis,Audios/Cyclarhis_gujanensis/XC707162.mp3,B,"call, song",song,297.31,48000,2,train
+707164,Cyclarhis gujanensis,Cyclarhis_gujanensis,Audios/Cyclarhis_gujanensis/XC707164.mp3,B,song,song,83.61,48000,2,val
+707166,Cyclarhis gujanensis,Cyclarhis_gujanensis,Audios/Cyclarhis_gujanensis/XC707166.mp3,C,song,song,27.35,48000,2,train
+707522,Cyclarhis gujanensis,Cyclarhis_gujanensis,Audios/Cyclarhis_gujanensis/XC707522.mp3,B,song,song,297.31,48000,2,test
+707523,Cyclarhis gujanensis,Cyclarhis_gujanensis,Audios/Cyclarhis_gujanensis/XC707523.mp3,A,song,song,83.61,48000,2,test
+707525,Cyclarhis gujanensis,Cyclarhis_gujanensis,Audios/Cyclarhis_gujanensis/XC707525.mp3,C,song,song,27.35,48000,2,train
+732237,Cyclarhis gujanensis,Cyclarhis_gujanensis,Audios/Cyclarhis_gujanensis/XC732237.mp3,A,"call, dawn song",song,10.22,44100,2,test
+778954,Cyclarhis gujanensis,Cyclarhis_gujanensis,Audios/Cyclarhis_gujanensis/XC778954.mp3,A,song,song,40.1,44100,1,train
+861513,Cyclarhis gujanensis,Cyclarhis_gujanensis,Audios/Cyclarhis_gujanensis/XC861513.mp3,B,song,song,49.31,48000,2,train
+1919,Dendroplex picus,Dendroplex_picus,Audios/Dendroplex_picus/XC1919.mp3,B,"call, song",song,35.17,44100,1,val
+2314,Dendroplex picus,Dendroplex_picus,Audios/Dendroplex_picus/XC2314.mp3,B,song,song,23.12,44100,1,test
+2576,Dendroplex picus,Dendroplex_picus,Audios/Dendroplex_picus/XC2576.mp3,C,song,song,35.83,44100,1,train
+64392,Dendroplex picus,Dendroplex_picus,Audios/Dendroplex_picus/XC64392.mp3,B,song,song,53.3,16000,1,val
+64393,Dendroplex picus,Dendroplex_picus,Audios/Dendroplex_picus/XC64393.mp3,B,song,song,13.97,16000,1,test
+64394,Dendroplex picus,Dendroplex_picus,Audios/Dendroplex_picus/XC64394.mp3,B,song,song,6.78,16000,1,val
+709393,Dendroplex picus,Dendroplex_picus,Audios/Dendroplex_picus/XC709393.mp3,B,song,song,256.26,48000,2,train
+74328,Dendroplex picus,Dendroplex_picus,Audios/Dendroplex_picus/XC74328.mp3,A,song,song,18.32,44100,1,train
+74329,Dendroplex picus,Dendroplex_picus,Audios/Dendroplex_picus/XC74329.mp3,C,song,song,18.2,44100,1,train
+74330,Dendroplex picus,Dendroplex_picus,Audios/Dendroplex_picus/XC74330.mp3,B,song,song,8.98,44100,1,train
+74331,Dendroplex picus,Dendroplex_picus,Audios/Dendroplex_picus/XC74331.mp3,B,song,song,46.15,44100,1,train
+74335,Dendroplex picus,Dendroplex_picus,Audios/Dendroplex_picus/XC74335.mp3,B,song,song,83.15,44100,1,test
+833158,Dendroplex picus,Dendroplex_picus,Audios/Dendroplex_picus/XC833158.mp3,B,song,song,25.9,44100,2,train
+833164,Dendroplex picus,Dendroplex_picus,Audios/Dendroplex_picus/XC833164.mp3,B,song,song,34.02,44100,2,train
+833166,Dendroplex picus,Dendroplex_picus,Audios/Dendroplex_picus/XC833166.mp3,B,song,song,33.11,44100,2,train
+833167,Dendroplex picus,Dendroplex_picus,Audios/Dendroplex_picus/XC833167.wav,B,song,song,8.95,48000,2,train
+833169,Dendroplex picus,Dendroplex_picus,Audios/Dendroplex_picus/XC833169.wav,A,song,song,8.81,48000,2,train
+833170,Dendroplex picus,Dendroplex_picus,Audios/Dendroplex_picus/XC833170.wav,A,song,song,5.4,44100,2,train
+833171,Dendroplex picus,Dendroplex_picus,Audios/Dendroplex_picus/XC833171.wav,B,song,song,9.66,44100,2,val
+833172,Dendroplex picus,Dendroplex_picus,Audios/Dendroplex_picus/XC833172.wav,A,song,song,67.85,44100,2,train
+833312,Dendroplex picus,Dendroplex_picus,Audios/Dendroplex_picus/XC833312.wav,B,"song, wing-drum",song,34.63,48000,2,train
+864484,Dendroplex picus,Dendroplex_picus,Audios/Dendroplex_picus/XC864484.mp3,B,dawn song,song,59.76,48000,2,train
+864486,Dendroplex picus,Dendroplex_picus,Audios/Dendroplex_picus/XC864486.wav,A,vesper song,song,10.06,48000,2,train
+864489,Dendroplex picus,Dendroplex_picus,Audios/Dendroplex_picus/XC864489.mp3,C,vesper song,song,44.0,48000,2,test
+864492,Dendroplex picus,Dendroplex_picus,Audios/Dendroplex_picus/XC864492.mp3,B,song,song,87.9,48000,2,train
+1053278,Elaenia parvirostris,Elaenia_parvirostris,Audios/Elaenia_parvirostris/XC1053278.wav,C,"song, subsong",song,32.36,44100,2,train
+126666,Elaenia parvirostris,Elaenia_parvirostris,Audios/Elaenia_parvirostris/XC126666.mp3,B,call,call,61.76,44100,1,train
+126725,Elaenia parvirostris,Elaenia_parvirostris,Audios/Elaenia_parvirostris/XC126725.mp3,B,call,call,12.71,44100,1,val
+126974,Elaenia parvirostris,Elaenia_parvirostris,Audios/Elaenia_parvirostris/XC126974.mp3,B,call,call,27.45,44100,1,val
+1699,Elaenia parvirostris,Elaenia_parvirostris,Audios/Elaenia_parvirostris/XC1699.mp3,A,call,call,29.98,44100,1,train
+1700,Elaenia parvirostris,Elaenia_parvirostris,Audios/Elaenia_parvirostris/XC1700.mp3,A,call,call,46.3,44100,1,train
+1706,Elaenia parvirostris,Elaenia_parvirostris,Audios/Elaenia_parvirostris/XC1706.mp3,A,song,song,42.83,44100,1,val
+63415,Elaenia parvirostris,Elaenia_parvirostris,Audios/Elaenia_parvirostris/XC63415.mp3,B,song,song,34.74,44100,1,train
+635095,Elaenia parvirostris,Elaenia_parvirostris,Audios/Elaenia_parvirostris/XC635095.mp3,B,"call, chasing call",call,49.92,44100,1,train
+703792,Elaenia parvirostris,Elaenia_parvirostris,Audios/Elaenia_parvirostris/XC703792.mp3,B,call,call,7.71,48000,2,train
+703793,Elaenia parvirostris,Elaenia_parvirostris,Audios/Elaenia_parvirostris/XC703793.mp3,B,call,call,152.62,48000,2,train
+703795,Elaenia parvirostris,Elaenia_parvirostris,Audios/Elaenia_parvirostris/XC703795.mp3,B,call,call,199.53,48000,2,train
+703804,Elaenia parvirostris,Elaenia_parvirostris,Audios/Elaenia_parvirostris/XC703804.mp3,B,"call, interaction calls",call,70.37,48000,2,train
+703809,Elaenia parvirostris,Elaenia_parvirostris,Audios/Elaenia_parvirostris/XC703809.mp3,A,"call, interaction calls",call,29.71,48000,2,train
+703812,Elaenia parvirostris,Elaenia_parvirostris,Audios/Elaenia_parvirostris/XC703812.mp3,A,dawn song,song,127.12,48000,2,train
+703813,Elaenia parvirostris,Elaenia_parvirostris,Audios/Elaenia_parvirostris/XC703813.mp3,B,dawn song,song,173.4,48000,2,test
+703814,Elaenia parvirostris,Elaenia_parvirostris,Audios/Elaenia_parvirostris/XC703814.mp3,B,dawn song,song,84.35,48000,2,train
+703816,Elaenia parvirostris,Elaenia_parvirostris,Audios/Elaenia_parvirostris/XC703816.mp3,C,dawn song,song,55.36,48000,2,train
+703818,Elaenia parvirostris,Elaenia_parvirostris,Audios/Elaenia_parvirostris/XC703818.mp3,C,dawn song,song,36.97,48000,2,test
+703821,Elaenia parvirostris,Elaenia_parvirostris,Audios/Elaenia_parvirostris/XC703821.mp3,B,dawn song,song,163.97,48000,2,test
+703823,Elaenia parvirostris,Elaenia_parvirostris,Audios/Elaenia_parvirostris/XC703823.mp3,B,song,song,95.82,48000,2,train
+703825,Elaenia parvirostris,Elaenia_parvirostris,Audios/Elaenia_parvirostris/XC703825.mp3,C,song,song,39.92,48000,2,test
+703826,Elaenia parvirostris,Elaenia_parvirostris,Audios/Elaenia_parvirostris/XC703826.mp3,A,"call, song",song,204.84,48000,2,train
+1065066,Grallaria erythrotis,Grallaria_erythrotis,Audios/Grallaria_erythrotis/XC1065066.wav,B,song,song,62.77,48000,1,train
+149669,Grallaria erythrotis,Grallaria_erythrotis,Audios/Grallaria_erythrotis/XC149669.mp3,A,call,call,29.29,44100,1,test
+1594,Grallaria erythrotis,Grallaria_erythrotis,Audios/Grallaria_erythrotis/XC1594.mp3,A,song,song,54.92,44100,1,val
+2520,Grallaria erythrotis,Grallaria_erythrotis,Audios/Grallaria_erythrotis/XC2520.mp3,B,song,song,51.84,44100,1,train
+296344,Grallaria erythrotis,Grallaria_erythrotis,Audios/Grallaria_erythrotis/XC296344.mp3,A,song,song,69.68,44100,2,train
+296345,Grallaria erythrotis,Grallaria_erythrotis,Audios/Grallaria_erythrotis/XC296345.mp3,A,song,song,37.43,44100,2,train
+352257,Grallaria erythrotis,Grallaria_erythrotis,Audios/Grallaria_erythrotis/XC352257.mp3,B,song,song,107.82,44100,2,val
+471047,Grallaria erythrotis,Grallaria_erythrotis,Audios/Grallaria_erythrotis/XC471047.mp3,C,song,song,348.62,44100,1,train
+47639,Grallaria erythrotis,Grallaria_erythrotis,Audios/Grallaria_erythrotis/XC47639.mp3,A,call,call,20.04,44100,1,train
+47640,Grallaria erythrotis,Grallaria_erythrotis,Audios/Grallaria_erythrotis/XC47640.mp3,B,song,song,23.04,44100,1,val
+47641,Grallaria erythrotis,Grallaria_erythrotis,Audios/Grallaria_erythrotis/XC47641.mp3,B,call,call,38.35,44100,1,train
+631492,Grallaria erythrotis,Grallaria_erythrotis,Audios/Grallaria_erythrotis/XC631492.mp3,A,call,call,43.0,44100,2,train
+631500,Grallaria erythrotis,Grallaria_erythrotis,Audios/Grallaria_erythrotis/XC631500.mp3,A,song,song,38.0,44100,2,train
+640649,Grallaria erythrotis,Grallaria_erythrotis,Audios/Grallaria_erythrotis/XC640649.mp3,A,call,call,23.04,44100,2,train
+655903,Grallaria erythrotis,Grallaria_erythrotis,Audios/Grallaria_erythrotis/XC655903.mp3,B,call,call,111.43,44100,1,train
+655905,Grallaria erythrotis,Grallaria_erythrotis,Audios/Grallaria_erythrotis/XC655905.mp3,A,call,call,99.71,44100,1,test
+655910,Grallaria erythrotis,Grallaria_erythrotis,Audios/Grallaria_erythrotis/XC655910.mp3,A,call,call,32.21,44100,1,test
+73598,Grallaria erythrotis,Grallaria_erythrotis,Audios/Grallaria_erythrotis/XC73598.mp3,B,song,song,36.0,44100,1,train
+73599,Grallaria erythrotis,Grallaria_erythrotis,Audios/Grallaria_erythrotis/XC73599.mp3,B,call,call,19.41,44100,1,train
+73600,Grallaria erythrotis,Grallaria_erythrotis,Audios/Grallaria_erythrotis/XC73600.mp3,B,song,song,37.91,44100,1,test
+778831,Grallaria erythrotis,Grallaria_erythrotis,Audios/Grallaria_erythrotis/XC778831.mp3,B,song,song,141.6,44100,1,train
+778864,Grallaria erythrotis,Grallaria_erythrotis,Audios/Grallaria_erythrotis/XC778864.mp3,A,call,call,37.35,44100,1,train
+778866,Grallaria erythrotis,Grallaria_erythrotis,Audios/Grallaria_erythrotis/XC778866.mp3,A,call,call,12.17,44100,1,train
+778915,Grallaria erythrotis,Grallaria_erythrotis,Audios/Grallaria_erythrotis/XC778915.mp3,A,call,call,167.01,44100,1,val
+778920,Grallaria erythrotis,Grallaria_erythrotis,Audios/Grallaria_erythrotis/XC778920.mp3,B,call,call,23.75,44100,1,train
+778932,Grallaria erythrotis,Grallaria_erythrotis,Audios/Grallaria_erythrotis/XC778932.mp3,A,call,call,21.79,44100,1,train
+935082,Grallaria erythrotis,Grallaria_erythrotis,Audios/Grallaria_erythrotis/XC935082.mp3,B,song,song,31.04,44100,2,train
+1065187,Henicorhina leucophrys,Henicorhina_leucophrys,Audios/Henicorhina_leucophrys/XC1065187.wav,A,song,song,38.28,48000,1,train
+155981,Henicorhina leucophrys,Henicorhina_leucophrys,Audios/Henicorhina_leucophrys/XC155981.mp3,A,song,song,35.01,44100,1,train
+1619,Henicorhina leucophrys,Henicorhina_leucophrys,Audios/Henicorhina_leucophrys/XC1619.mp3,A,"song, short songs",song,82.75,44100,1,test
+1624,Henicorhina leucophrys,Henicorhina_leucophrys,Audios/Henicorhina_leucophrys/XC1624.mp3,A,"alarm call, alarm calls (pair)",call,13.89,44100,1,test
+2135,Henicorhina leucophrys,Henicorhina_leucophrys,Audios/Henicorhina_leucophrys/XC2135.mp3,C,"song, short songs.",song,27.05,44100,1,train
+296357,Henicorhina leucophrys,Henicorhina_leucophrys,Audios/Henicorhina_leucophrys/XC296357.mp3,A,song,song,10.7,44100,2,test
+352254,Henicorhina leucophrys,Henicorhina_leucophrys,Audios/Henicorhina_leucophrys/XC352254.mp3,B,song,song,8.14,44100,2,train
+353547,Henicorhina leucophrys,Henicorhina_leucophrys,Audios/Henicorhina_leucophrys/XC353547.mp3,B,song,song,57.13,44100,2,val
+353550,Henicorhina leucophrys,Henicorhina_leucophrys,Audios/Henicorhina_leucophrys/XC353550.mp3,B,song,song,141.44,44100,2,train
+43899,Henicorhina leucophrys,Henicorhina_leucophrys,Audios/Henicorhina_leucophrys/XC43899.mp3,A,song,song,18.28,44100,2,train
+43918,Henicorhina leucophrys,Henicorhina_leucophrys,Audios/Henicorhina_leucophrys/XC43918.mp3,B,song,song,10.53,44100,2,train
+460298,Henicorhina leucophrys,Henicorhina_leucophrys,Audios/Henicorhina_leucophrys/XC460298.mp3,C,"call, song",song,14.6,48000,2,train
+462294,Henicorhina leucophrys,Henicorhina_leucophrys,Audios/Henicorhina_leucophrys/XC462294.mp3,B,call,call,24.76,48000,2,train
+505789,Henicorhina leucophrys,Henicorhina_leucophrys,Audios/Henicorhina_leucophrys/XC505789.mp3,B,song,song,16.16,48000,2,val
+630640,Henicorhina leucophrys,Henicorhina_leucophrys,Audios/Henicorhina_leucophrys/XC630640.mp3,B,call,call,21.3,44100,2,train
+631887,Henicorhina leucophrys,Henicorhina_leucophrys,Audios/Henicorhina_leucophrys/XC631887.mp3,B,duet,duet,14.16,44100,1,test
+638692,Henicorhina leucophrys,Henicorhina_leucophrys,Audios/Henicorhina_leucophrys/XC638692.mp3,A,"call, subsong",call,24.0,44100,2,train
+655899,Henicorhina leucophrys,Henicorhina_leucophrys,Audios/Henicorhina_leucophrys/XC655899.mp3,B,duet,duet,11.24,44100,1,train
+655906,Henicorhina leucophrys,Henicorhina_leucophrys,Audios/Henicorhina_leucophrys/XC655906.mp3,B,"call, duet",call,21.37,44100,1,train
+674076,Henicorhina leucophrys,Henicorhina_leucophrys,Audios/Henicorhina_leucophrys/XC674076.mp3,A,alarm call,call,127.92,44100,1,train
+778927,Henicorhina leucophrys,Henicorhina_leucophrys,Audios/Henicorhina_leucophrys/XC778927.mp3,A,song,song,13.2,44100,1,train
+778931,Henicorhina leucophrys,Henicorhina_leucophrys,Audios/Henicorhina_leucophrys/XC778931.mp3,A,song,song,44.51,44100,1,val
+1065292,Myiothlypis bivittata,Myiothlypis_bivittata,Audios/Myiothlypis_bivittata/XC1065292.wav,B,call,call,45.58,48000,1,train
+1541,Myiothlypis bivittata,Myiothlypis_bivittata,Audios/Myiothlypis_bivittata/XC1541.mp3,A,"duet, song",song,32.4,44100,1,train
+288780,Myiothlypis bivittata,Myiothlypis_bivittata,Audios/Myiothlypis_bivittata/XC288780.mp3,A,song,song,35.47,44100,2,val
+289848,Myiothlypis bivittata,Myiothlypis_bivittata,Audios/Myiothlypis_bivittata/XC289848.mp3,B,song,song,12.57,44100,2,train
+289853,Myiothlypis bivittata,Myiothlypis_bivittata,Audios/Myiothlypis_bivittata/XC289853.mp3,B,song,song,13.31,44100,2,train
+395787,Myiothlypis bivittata,Myiothlypis_bivittata,Audios/Myiothlypis_bivittata/XC395787.mp3,B,song,song,34.49,44100,1,train
+395788,Myiothlypis bivittata,Myiothlypis_bivittata,Audios/Myiothlypis_bivittata/XC395788.mp3,B,song,song,12.18,44100,1,test
+628863,Myiothlypis bivittata,Myiothlypis_bivittata,Audios/Myiothlypis_bivittata/XC628863.mp3,A,call,call,41.33,44100,1,val
+628869,Myiothlypis bivittata,Myiothlypis_bivittata,Audios/Myiothlypis_bivittata/XC628869.mp3,B,"call, duet",call,85.71,44100,1,train
+628874,Myiothlypis bivittata,Myiothlypis_bivittata,Audios/Myiothlypis_bivittata/XC628874.mp3,B,"call, song",song,78.18,44100,1,train
+63175,Myiothlypis bivittata,Myiothlypis_bivittata,Audios/Myiothlypis_bivittata/XC63175.mp3,B,song,song,52.5,44100,1,train
+63176,Myiothlypis bivittata,Myiothlypis_bivittata,Audios/Myiothlypis_bivittata/XC63176.mp3,B,song,song,21.43,32000,1,train
+631870,Myiothlypis bivittata,Myiothlypis_bivittata,Audios/Myiothlypis_bivittata/XC631870.mp3,A,song,song,16.25,44100,1,train
+708978,Myiothlypis bivittata,Myiothlypis_bivittata,Audios/Myiothlypis_bivittata/XC708978.mp3,B,song,song,95.42,48000,2,train
+708979,Myiothlypis bivittata,Myiothlypis_bivittata,Audios/Myiothlypis_bivittata/XC708979.mp3,B,"duet, song",song,133.48,48000,2,train
+708980,Myiothlypis bivittata,Myiothlypis_bivittata,Audios/Myiothlypis_bivittata/XC708980.mp3,A,"duet, song",song,305.08,48000,2,test
+708981,Myiothlypis bivittata,Myiothlypis_bivittata,Audios/Myiothlypis_bivittata/XC708981.mp3,A,"duet, song",song,92.34,48000,2,val
+708982,Myiothlypis bivittata,Myiothlypis_bivittata,Audios/Myiothlypis_bivittata/XC708982.mp3,B,"call, duet, song",song,75.45,48000,2,train
+708985,Myiothlypis bivittata,Myiothlypis_bivittata,Audios/Myiothlypis_bivittata/XC708985.mp3,C,dawn song,song,204.44,48000,2,train
+864269,Myiothlypis bivittata,Myiothlypis_bivittata,Audios/Myiothlypis_bivittata/XC864269.wav,B,song,song,25.62,48000,2,test
+864270,Myiothlypis bivittata,Myiothlypis_bivittata,Audios/Myiothlypis_bivittata/XC864270.mp3,B,song,song,95.24,48000,2,val
+864271,Myiothlypis bivittata,Myiothlypis_bivittata,Audios/Myiothlypis_bivittata/XC864271.mp3,A,"duet, song",song,25.66,48000,2,train
+864272,Myiothlypis bivittata,Myiothlypis_bivittata,Audios/Myiothlypis_bivittata/XC864272.wav,A,call,call,18.43,48000,2,train
+1065188,Myiothlypis signata,Myiothlypis_signata,Audios/Myiothlypis_signata/XC1065188.wav,B,song,song,27.13,48000,1,val
+1553,Myiothlypis signata,Myiothlypis_signata,Audios/Myiothlypis_signata/XC1553.mp3,A,call,call,22.93,44100,1,val
+1558,Myiothlypis signata,Myiothlypis_signata,Audios/Myiothlypis_signata/XC1558.mp3,B,"call, song, songs, (alarm) calls",song,49.91,44100,1,train
+16191,Myiothlypis signata,Myiothlypis_signata,Audios/Myiothlypis_signata/XC16191.mp3,A,"call, song, song calls",song,46.32,44100,1,train
+471113,Myiothlypis signata,Myiothlypis_signata,Audios/Myiothlypis_signata/XC471113.mp3,B,song,song,87.55,48000,2,test
+47318,Myiothlypis signata,Myiothlypis_signata,Audios/Myiothlypis_signata/XC47318.mp3,B,"call, calls of excited group",call,132.51,44100,1,train
+47319,Myiothlypis signata,Myiothlypis_signata,Audios/Myiothlypis_signata/XC47319.mp3,C,"duet, song",song,38.17,44100,1,train
+505144,Myiothlypis signata,Myiothlypis_signata,Audios/Myiothlypis_signata/XC505144.mp3,A,song,song,21.8,48000,2,train
+631455,Myiothlypis signata,Myiothlypis_signata,Audios/Myiothlypis_signata/XC631455.mp3,A,song,song,21.0,44100,2,train
+631457,Myiothlypis signata,Myiothlypis_signata,Audios/Myiothlypis_signata/XC631457.mp3,A,song,song,7.4,44100,2,train
+631496,Myiothlypis signata,Myiothlypis_signata,Audios/Myiothlypis_signata/XC631496.mp3,A,song,song,8.0,44100,2,train
+650173,Myiothlypis signata,Myiothlypis_signata,Audios/Myiothlypis_signata/XC650173.mp3,B,call,call,17.51,44100,1,train
+655897,Myiothlypis signata,Myiothlypis_signata,Audios/Myiothlypis_signata/XC655897.mp3,B,"alarm call, begging call",call,133.84,44100,1,train
+65601,Myiothlypis signata,Myiothlypis_signata,Audios/Myiothlypis_signata/XC65601.mp3,A,"call, song",song,61.06,44100,1,train
+73218,Myiothlypis signata,Myiothlypis_signata,Audios/Myiothlypis_signata/XC73218.mp3,B,song,song,118.09,44100,1,test
+73219,Myiothlypis signata,Myiothlypis_signata,Audios/Myiothlypis_signata/XC73219.mp3,B,song,song,88.71,44100,1,test
+744767,Myiothlypis signata,Myiothlypis_signata,Audios/Myiothlypis_signata/XC744767.mp3,A,"call, song",song,19.22,48000,2,train
+750890,Myiothlypis signata,Myiothlypis_signata,Audios/Myiothlypis_signata/XC750890.mp3,B,call,call,5.54,44100,1,train
+778832,Myiothlypis signata,Myiothlypis_signata,Audios/Myiothlypis_signata/XC778832.mp3,B,duet,duet,34.59,44100,1,train
+778833,Myiothlypis signata,Myiothlypis_signata,Audios/Myiothlypis_signata/XC778833.mp3,B,duet,duet,96.05,44100,1,train
+778869,Myiothlypis signata,Myiothlypis_signata,Audios/Myiothlypis_signata/XC778869.mp3,A,duet,duet,96.18,44100,1,test
+778890,Myiothlypis signata,Myiothlypis_signata,Audios/Myiothlypis_signata/XC778890.mp3,B,duet,duet,39.57,44100,1,val
+778929,Myiothlypis signata,Myiothlypis_signata,Audios/Myiothlypis_signata/XC778929.mp3,A,call,call,91.16,44100,1,train
+1012103,Myrmoborus myotherinus,Myrmoborus_myotherinus,Audios/Myrmoborus_myotherinus/XC1012103.wav,A,call,call,26.08,44100,2,val
+1065327,Myrmoborus myotherinus,Myrmoborus_myotherinus,Audios/Myrmoborus_myotherinus/XC1065327.wav,B,song,song,48.0,48000,1,train
+2540,Myrmoborus myotherinus,Myrmoborus_myotherinus,Audios/Myrmoborus_myotherinus/XC2540.mp3,A,alarm call,call,13.44,44100,1,test
+2542,Myrmoborus myotherinus,Myrmoborus_myotherinus,Audios/Myrmoborus_myotherinus/XC2542.mp3,B,song,song,49.31,44100,1,train
+310263,Myrmoborus myotherinus,Myrmoborus_myotherinus,Audios/Myrmoborus_myotherinus/XC310263.mp3,B,song,song,43.18,44100,1,train
+395786,Myrmoborus myotherinus,Myrmoborus_myotherinus,Audios/Myrmoborus_myotherinus/XC395786.mp3,B,song,song,77.51,44100,1,train
+399419,Myrmoborus myotherinus,Myrmoborus_myotherinus,Audios/Myrmoborus_myotherinus/XC399419.mp3,A,song,song,26.1,44100,1,train
+399423,Myrmoborus myotherinus,Myrmoborus_myotherinus,Audios/Myrmoborus_myotherinus/XC399423.mp3,B,song,song,46.62,44100,1,train
+497044,Myrmoborus myotherinus,Myrmoborus_myotherinus,Audios/Myrmoborus_myotherinus/XC497044.mp3,B,song,song,29.12,48000,2,train
+63751,Myrmoborus myotherinus,Myrmoborus_myotherinus,Audios/Myrmoborus_myotherinus/XC63751.mp3,B,song,song,48.83,44100,1,test
+675878,Myrmoborus myotherinus,Myrmoborus_myotherinus,Audios/Myrmoborus_myotherinus/XC675878.mp3,A,"call, contact calls",call,21.08,44100,2,train
+675879,Myrmoborus myotherinus,Myrmoborus_myotherinus,Audios/Myrmoborus_myotherinus/XC675879.mp3,A,"call, contact calls",call,41.72,44100,2,train
+685208,Myrmoborus myotherinus,Myrmoborus_myotherinus,Audios/Myrmoborus_myotherinus/XC685208.mp3,A,song,song,26.31,44100,2,train
+695244,Myrmoborus myotherinus,Myrmoborus_myotherinus,Audios/Myrmoborus_myotherinus/XC695244.mp3,A,song,song,45.15,44100,2,train
+73858,Myrmoborus myotherinus,Myrmoborus_myotherinus,Audios/Myrmoborus_myotherinus/XC73858.mp3,C,call,call,43.51,44100,1,train
+73859,Myrmoborus myotherinus,Myrmoborus_myotherinus,Audios/Myrmoborus_myotherinus/XC73859.mp3,C,call,call,18.36,44100,1,train
+73861,Myrmoborus myotherinus,Myrmoborus_myotherinus,Audios/Myrmoborus_myotherinus/XC73861.mp3,A,song,song,89.94,44100,1,train
+858642,Myrmoborus myotherinus,Myrmoborus_myotherinus,Audios/Myrmoborus_myotherinus/XC858642.mp3,A,song,song,86.95,48000,2,test
+858643,Myrmoborus myotherinus,Myrmoborus_myotherinus,Audios/Myrmoborus_myotherinus/XC858643.mp3,A,song,song,66.5,48000,2,train
+858644,Myrmoborus myotherinus,Myrmoborus_myotherinus,Audios/Myrmoborus_myotherinus/XC858644.mp3,C,call,call,62.73,48000,2,val
+858645,Myrmoborus myotherinus,Myrmoborus_myotherinus,Audios/Myrmoborus_myotherinus/XC858645.mp3,A,"call, song",song,286.6,48000,2,train
+858646,Myrmoborus myotherinus,Myrmoborus_myotherinus,Audios/Myrmoborus_myotherinus/XC858646.mp3,B,song,song,212.91,48000,2,val
+858651,Myrmoborus myotherinus,Myrmoborus_myotherinus,Audios/Myrmoborus_myotherinus/XC858651.mp3,C,song,song,22.89,48000,2,test
+146785,Myrmophylax atrothorax,Myrmophylax_atrothorax,Audios/Myrmophylax_atrothorax/XC146785.mp3,A,call,call,31.92,48000,1,val
+1864,Myrmophylax atrothorax,Myrmophylax_atrothorax,Audios/Myrmophylax_atrothorax/XC1864.mp3,A,song,song,46.64,44100,1,train
+2269,Myrmophylax atrothorax,Myrmophylax_atrothorax,Audios/Myrmophylax_atrothorax/XC2269.mp3,A,alarm call,call,19.2,44100,1,train
+435485,Myrmophylax atrothorax,Myrmophylax_atrothorax,Audios/Myrmophylax_atrothorax/XC435485.mp3,A,call,call,45.4,44100,2,train
+435487,Myrmophylax atrothorax,Myrmophylax_atrothorax,Audios/Myrmophylax_atrothorax/XC435487.mp3,A,song,song,38.46,44100,2,train
+471411,Myrmophylax atrothorax,Myrmophylax_atrothorax,Audios/Myrmophylax_atrothorax/XC471411.mp3,A,song,song,43.53,44100,1,train
+471412,Myrmophylax atrothorax,Myrmophylax_atrothorax,Audios/Myrmophylax_atrothorax/XC471412.mp3,A,song,song,103.06,44100,1,test
+497209,Myrmophylax atrothorax,Myrmophylax_atrothorax,Audios/Myrmophylax_atrothorax/XC497209.mp3,A,"call, song",song,13.13,48000,2,test
+606102,Myrmophylax atrothorax,Myrmophylax_atrothorax,Audios/Myrmophylax_atrothorax/XC606102.mp3,A,song,song,45.0,48000,2,test
+615153,Myrmophylax atrothorax,Myrmophylax_atrothorax,Audios/Myrmophylax_atrothorax/XC615153.mp3,A,song,song,3.6,44100,2,val
+63701,Myrmophylax atrothorax,Myrmophylax_atrothorax,Audios/Myrmophylax_atrothorax/XC63701.mp3,A,song,song,28.23,16000,1,test
+63702,Myrmophylax atrothorax,Myrmophylax_atrothorax,Audios/Myrmophylax_atrothorax/XC63702.mp3,A,song,song,51.0,16000,1,train
+63703,Myrmophylax atrothorax,Myrmophylax_atrothorax,Audios/Myrmophylax_atrothorax/XC63703.mp3,A,song,song,27.3,16000,1,train
+654611,Myrmophylax atrothorax,Myrmophylax_atrothorax,Audios/Myrmophylax_atrothorax/XC654611.mp3,A,call,call,19.64,44100,2,train
+654904,Myrmophylax atrothorax,Myrmophylax_atrothorax,Audios/Myrmophylax_atrothorax/XC654904.mp3,A,"call, natural call",call,29.5,44100,2,train
+654907,Myrmophylax atrothorax,Myrmophylax_atrothorax,Audios/Myrmophylax_atrothorax/XC654907.mp3,A,call,call,38.99,44100,2,val
+654909,Myrmophylax atrothorax,Myrmophylax_atrothorax,Audios/Myrmophylax_atrothorax/XC654909.mp3,A,song,song,27.72,44100,2,train
+655520,Myrmophylax atrothorax,Myrmophylax_atrothorax,Audios/Myrmophylax_atrothorax/XC655520.mp3,A,"call, subsong",call,30.74,44100,2,train
+674271,Myrmophylax atrothorax,Myrmophylax_atrothorax,Audios/Myrmophylax_atrothorax/XC674271.mp3,A,call,call,34.76,44100,2,train
+73863,Myrmophylax atrothorax,Myrmophylax_atrothorax,Audios/Myrmophylax_atrothorax/XC73863.mp3,A,song,song,85.0,44100,1,train
+835310,Myrmophylax atrothorax,Myrmophylax_atrothorax,Audios/Myrmophylax_atrothorax/XC835310.wav,A,song,song,62.61,44100,2,train
+858652,Myrmophylax atrothorax,Myrmophylax_atrothorax,Audios/Myrmophylax_atrothorax/XC858652.mp3,A,"call, song",song,329.78,48000,2,val
+858654,Myrmophylax atrothorax,Myrmophylax_atrothorax,Audios/Myrmophylax_atrothorax/XC858654.mp3,A,song,song,182.35,48000,2,train
+858656,Myrmophylax atrothorax,Myrmophylax_atrothorax,Audios/Myrmophylax_atrothorax/XC858656.mp3,A,"call, song",song,70.68,48000,2,train
+858658,Myrmophylax atrothorax,Myrmophylax_atrothorax,Audios/Myrmophylax_atrothorax/XC858658.mp3,A,"duet, song",song,187.42,48000,2,train
+858659,Myrmophylax atrothorax,Myrmophylax_atrothorax,Audios/Myrmophylax_atrothorax/XC858659.mp3,A,"call, duet, song",song,168.09,48000,2,train
+982886,Myrmophylax atrothorax,Myrmophylax_atrothorax,Audios/Myrmophylax_atrothorax/XC982886.wav,A,"call, song, subsong",song,64.7,44100,2,train
+149971,Patagioenas plumbea,Patagioenas_plumbea,Audios/Patagioenas_plumbea/XC149971.mp3,A,song,song,80.46,44100,1,train
+155976,Patagioenas plumbea,Patagioenas_plumbea,Audios/Patagioenas_plumbea/XC155976.mp3,B,call,call,37.94,44100,1,test
+2306,Patagioenas plumbea,Patagioenas_plumbea,Audios/Patagioenas_plumbea/XC2306.mp3,A,song,song,11.6,44100,1,train
+297688,Patagioenas plumbea,Patagioenas_plumbea,Audios/Patagioenas_plumbea/XC297688.mp3,B,song,song,42.81,44100,1,train
+305476,Patagioenas plumbea,Patagioenas_plumbea,Audios/Patagioenas_plumbea/XC305476.mp3,A,call,call,10.95,44100,2,train
+351188,Patagioenas plumbea,Patagioenas_plumbea,Audios/Patagioenas_plumbea/XC351188.mp3,B,song,song,11.25,44100,2,train
+43921,Patagioenas plumbea,Patagioenas_plumbea,Audios/Patagioenas_plumbea/XC43921.mp3,B,song,song,22.47,44100,2,train
+44180,Patagioenas plumbea,Patagioenas_plumbea,Audios/Patagioenas_plumbea/XC44180.mp3,A,song,song,5.87,44100,2,train
+44401,Patagioenas plumbea,Patagioenas_plumbea,Audios/Patagioenas_plumbea/XC44401.mp3,B,"song, wing clap, then song",song,13.88,44100,2,train
+44404,Patagioenas plumbea,Patagioenas_plumbea,Audios/Patagioenas_plumbea/XC44404.mp3,B,song,song,11.6,44100,2,test
+44419,Patagioenas plumbea,Patagioenas_plumbea,Audios/Patagioenas_plumbea/XC44419.mp3,C,song,song,65.75,44100,2,train
+63296,Patagioenas plumbea,Patagioenas_plumbea,Audios/Patagioenas_plumbea/XC63296.mp3,B,song,song,10.14,24000,1,train
+673478,Patagioenas plumbea,Patagioenas_plumbea,Audios/Patagioenas_plumbea/XC673478.mp3,A,song,song,39.26,44100,2,train
+707540,Patagioenas plumbea,Patagioenas_plumbea,Audios/Patagioenas_plumbea/XC707540.mp3,A,song,song,103.4,48000,2,train
+707541,Patagioenas plumbea,Patagioenas_plumbea,Audios/Patagioenas_plumbea/XC707541.mp3,A,song,song,59.06,48000,2,train
+707542,Patagioenas plumbea,Patagioenas_plumbea,Audios/Patagioenas_plumbea/XC707542.mp3,B,"call, song",song,321.45,48000,2,train
+73445,Patagioenas plumbea,Patagioenas_plumbea,Audios/Patagioenas_plumbea/XC73445.mp3,B,song,song,26.0,44100,1,val
+73446,Patagioenas plumbea,Patagioenas_plumbea,Audios/Patagioenas_plumbea/XC73446.mp3,B,song,song,20.58,44100,1,train
+861517,Patagioenas plumbea,Patagioenas_plumbea,Audios/Patagioenas_plumbea/XC861517.mp3,A,"call, song",song,176.02,48000,2,val
+861518,Patagioenas plumbea,Patagioenas_plumbea,Audios/Patagioenas_plumbea/XC861518.mp3,A,"call, song",song,223.9,48000,2,test
+861519,Patagioenas plumbea,Patagioenas_plumbea,Audios/Patagioenas_plumbea/XC861519.wav,A,song,song,35.22,48000,2,train
+861521,Patagioenas plumbea,Patagioenas_plumbea,Audios/Patagioenas_plumbea/XC861521.mp3,B,"call, song",song,163.35,48000,2,val
+861522,Patagioenas plumbea,Patagioenas_plumbea,Audios/Patagioenas_plumbea/XC861522.mp3,B,song,song,39.62,48000,2,val
+861524,Patagioenas plumbea,Patagioenas_plumbea,Audios/Patagioenas_plumbea/XC861524.mp3,B,call,call,51.09,48000,2,train
+861525,Patagioenas plumbea,Patagioenas_plumbea,Audios/Patagioenas_plumbea/XC861525.mp3,A,"call, song",song,437.73,48000,2,train
+864106,Patagioenas plumbea,Patagioenas_plumbea,Audios/Patagioenas_plumbea/XC864106.wav,A,"call, song",song,46.06,44100,2,test
+1065200,Pheugopedius genibarbis,Pheugopedius_genibarbis,Audios/Pheugopedius_genibarbis/XC1065200.wav,B,call,call,22.38,48000,1,train
+1911,Pheugopedius genibarbis,Pheugopedius_genibarbis,Audios/Pheugopedius_genibarbis/XC1911.mp3,A,song,song,11.75,44100,1,train
+2287,Pheugopedius genibarbis,Pheugopedius_genibarbis,Audios/Pheugopedius_genibarbis/XC2287.mp3,A,vocalizations,vocalizations,11.99,44100,1,val
+2528,Pheugopedius genibarbis,Pheugopedius_genibarbis,Audios/Pheugopedius_genibarbis/XC2528.mp3,C,vocalizations,vocalizations,6.84,44100,1,train
+2535,Pheugopedius genibarbis,Pheugopedius_genibarbis,Audios/Pheugopedius_genibarbis/XC2535.mp3,C,vocalizations,vocalizations,12.11,44100,1,train
+2541,Pheugopedius genibarbis,Pheugopedius_genibarbis,Audios/Pheugopedius_genibarbis/XC2541.mp3,A,vocalizations,vocalizations,13.44,44100,1,train
+289847,Pheugopedius genibarbis,Pheugopedius_genibarbis,Audios/Pheugopedius_genibarbis/XC289847.mp3,B,song,song,31.4,44100,2,train
+289855,Pheugopedius genibarbis,Pheugopedius_genibarbis,Audios/Pheugopedius_genibarbis/XC289855.mp3,B,song,song,6.0,44100,2,val
+299302,Pheugopedius genibarbis,Pheugopedius_genibarbis,Audios/Pheugopedius_genibarbis/XC299302.mp3,C,call,call,23.88,44100,1,train
+44391,Pheugopedius genibarbis,Pheugopedius_genibarbis,Audios/Pheugopedius_genibarbis/XC44391.mp3,B,"call, scolds",call,160.09,44100,2,test
+471058,Pheugopedius genibarbis,Pheugopedius_genibarbis,Audios/Pheugopedius_genibarbis/XC471058.mp3,B,song,song,78.41,44100,1,train
+578211,Pheugopedius genibarbis,Pheugopedius_genibarbis,Audios/Pheugopedius_genibarbis/XC578211.mp3,B,uncertain,uncertain,9.0,22050,1,train
+631873,Pheugopedius genibarbis,Pheugopedius_genibarbis,Audios/Pheugopedius_genibarbis/XC631873.mp3,B,call,call,55.8,44100,1,test
+64272,Pheugopedius genibarbis,Pheugopedius_genibarbis,Audios/Pheugopedius_genibarbis/XC64272.mp3,B,call,call,15.47,44100,1,train
+64273,Pheugopedius genibarbis,Pheugopedius_genibarbis,Audios/Pheugopedius_genibarbis/XC64273.mp3,B,song,song,29.57,44100,1,train
+64274,Pheugopedius genibarbis,Pheugopedius_genibarbis,Audios/Pheugopedius_genibarbis/XC64274.mp3,A,song,song,91.71,44100,1,test
+64275,Pheugopedius genibarbis,Pheugopedius_genibarbis,Audios/Pheugopedius_genibarbis/XC64275.mp3,B,call,call,41.31,16000,1,train
+674530,Pheugopedius genibarbis,Pheugopedius_genibarbis,Audios/Pheugopedius_genibarbis/XC674530.mp3,A,"call, duet, song",song,20.58,44100,2,val
+693261,Pheugopedius genibarbis,Pheugopedius_genibarbis,Audios/Pheugopedius_genibarbis/XC693261.mp3,A,call,call,38.15,44100,2,train
+709949,Pheugopedius genibarbis,Pheugopedius_genibarbis,Audios/Pheugopedius_genibarbis/XC709949.mp3,B,song,song,84.35,48000,2,val
+709951,Pheugopedius genibarbis,Pheugopedius_genibarbis,Audios/Pheugopedius_genibarbis/XC709951.mp3,C,"call, song, song phrase or call",song,88.89,48000,2,train
+709952,Pheugopedius genibarbis,Pheugopedius_genibarbis,Audios/Pheugopedius_genibarbis/XC709952.mp3,A,"call, duet, song",song,265.52,48000,2,train
+74271,Pheugopedius genibarbis,Pheugopedius_genibarbis,Audios/Pheugopedius_genibarbis/XC74271.mp3,B,song,song,29.66,44100,1,test
+870698,Pheugopedius genibarbis,Pheugopedius_genibarbis,Audios/Pheugopedius_genibarbis/XC870698.mp3,B,call,call,67.4,48000,2,train
+870699,Pheugopedius genibarbis,Pheugopedius_genibarbis,Audios/Pheugopedius_genibarbis/XC870699.mp3,B,call,call,62.04,48000,2,train
+870700,Pheugopedius genibarbis,Pheugopedius_genibarbis,Audios/Pheugopedius_genibarbis/XC870700.mp3,A,song,song,78.7,48000,2,train
+935040,Pheugopedius genibarbis,Pheugopedius_genibarbis,Audios/Pheugopedius_genibarbis/XC935040.mp3,B,song,song,41.88,44100,2,train
+1053072,Phytotoma rutila,Phytotoma_rutila,Audios/Phytotoma_rutila/XC1053072.wav,A,song,song,98.8,44100,2,val
+1064602,Phytotoma rutila,Phytotoma_rutila,Audios/Phytotoma_rutila/XC1064602.wav,A,song,song,64.78,48000,1,train
+1064603,Phytotoma rutila,Phytotoma_rutila,Audios/Phytotoma_rutila/XC1064603.wav,A,song,song,49.07,48000,1,test
+1760,Phytotoma rutila,Phytotoma_rutila,Audios/Phytotoma_rutila/XC1760.mp3,B,song,song,142.42,44100,1,train
+19538,Phytotoma rutila,Phytotoma_rutila,Audios/Phytotoma_rutila/XC19538.mp3,C,"call, song",song,13.82,44100,1,val
+289550,Phytotoma rutila,Phytotoma_rutila,Audios/Phytotoma_rutila/XC289550.mp3,C,song,song,3.15,44100,2,train
+403229,Phytotoma rutila,Phytotoma_rutila,Audios/Phytotoma_rutila/XC403229.mp3,B,song,song,38.96,48000,2,test
+471339,Phytotoma rutila,Phytotoma_rutila,Audios/Phytotoma_rutila/XC471339.mp3,A,call,call,139.52,48000,2,train
+471340,Phytotoma rutila,Phytotoma_rutila,Audios/Phytotoma_rutila/XC471340.mp3,A,call,call,11.19,48000,2,train
+47776,Phytotoma rutila,Phytotoma_rutila,Audios/Phytotoma_rutila/XC47776.mp3,B,call,call,10.22,44100,1,train
+63867,Phytotoma rutila,Phytotoma_rutila,Audios/Phytotoma_rutila/XC63867.mp3,B,call,call,22.01,44100,1,train
+683250,Phytotoma rutila,Phytotoma_rutila,Audios/Phytotoma_rutila/XC683250.mp3,C,subsong,subsong,12.54,44100,1,val
+707553,Phytotoma rutila,Phytotoma_rutila,Audios/Phytotoma_rutila/XC707553.mp3,B,song,song,37.24,48000,2,train
+707554,Phytotoma rutila,Phytotoma_rutila,Audios/Phytotoma_rutila/XC707554.mp3,B,song,song,71.27,48000,2,train
+707556,Phytotoma rutila,Phytotoma_rutila,Audios/Phytotoma_rutila/XC707556.mp3,B,song,song,161.71,48000,2,train
+707558,Phytotoma rutila,Phytotoma_rutila,Audios/Phytotoma_rutila/XC707558.mp3,B,song,song,78.62,48000,2,test
+707559,Phytotoma rutila,Phytotoma_rutila,Audios/Phytotoma_rutila/XC707559.mp3,B,song,song,60.02,48000,2,train
+735491,Phytotoma rutila,Phytotoma_rutila,Audios/Phytotoma_rutila/XC735491.mp3,B,song,song,91.76,44100,1,train
+735493,Phytotoma rutila,Phytotoma_rutila,Audios/Phytotoma_rutila/XC735493.mp3,B,song,song,59.87,44100,1,train
+988642,Phytotoma rutila,Phytotoma_rutila,Audios/Phytotoma_rutila/XC988642.wav,B,call,call,11.3,44100,2,train
+989065,Phytotoma rutila,Phytotoma_rutila,Audios/Phytotoma_rutila/XC989065.wav,A,call,call,15.75,48000,2,train
+1065189,Psarocolius atrovirens,Psarocolius_atrovirens,Audios/Psarocolius_atrovirens/XC1065189.wav,B,song,song,36.42,48000,1,val
+146963,Psarocolius atrovirens,Psarocolius_atrovirens,Audios/Psarocolius_atrovirens/XC146963.mp3,A,song,song,89.48,48000,1,train
+155980,Psarocolius atrovirens,Psarocolius_atrovirens,Audios/Psarocolius_atrovirens/XC155980.mp3,B,song,song,13.7,44100,1,train
+1604,Psarocolius atrovirens,Psarocolius_atrovirens,Audios/Psarocolius_atrovirens/XC1604.mp3,A,"song, unusual song",song,26.06,44100,1,test
+2088,Psarocolius atrovirens,Psarocolius_atrovirens,Audios/Psarocolius_atrovirens/XC2088.mp3,B,call,call,12.03,44100,1,val
+289851,Psarocolius atrovirens,Psarocolius_atrovirens,Audios/Psarocolius_atrovirens/XC289851.mp3,B,song,song,34.19,44100,2,train
+354505,Psarocolius atrovirens,Psarocolius_atrovirens,Audios/Psarocolius_atrovirens/XC354505.mp3,A,song,song,39.26,44100,2,val
+44392,Psarocolius atrovirens,Psarocolius_atrovirens,Audios/Psarocolius_atrovirens/XC44392.mp3,B,song,song,14.64,44100,2,train
+607889,Psarocolius atrovirens,Psarocolius_atrovirens,Audios/Psarocolius_atrovirens/XC607889.mp3,A,call,call,47.0,44100,2,train
+607901,Psarocolius atrovirens,Psarocolius_atrovirens,Audios/Psarocolius_atrovirens/XC607901.mp3,A,"call, song",song,46.19,44100,2,train
+607902,Psarocolius atrovirens,Psarocolius_atrovirens,Audios/Psarocolius_atrovirens/XC607902.mp3,A,song,song,59.51,44100,2,train
+627066,Psarocolius atrovirens,Psarocolius_atrovirens,Audios/Psarocolius_atrovirens/XC627066.mp3,B,song,song,4.16,44100,1,train
+627067,Psarocolius atrovirens,Psarocolius_atrovirens,Audios/Psarocolius_atrovirens/XC627067.mp3,B,song,song,85.26,44100,1,train
+664784,Psarocolius atrovirens,Psarocolius_atrovirens,Audios/Psarocolius_atrovirens/XC664784.mp3,A,call,call,31.29,44100,1,train
+706719,Psarocolius atrovirens,Psarocolius_atrovirens,Audios/Psarocolius_atrovirens/XC706719.mp3,B,song,song,188.7,48000,2,train
+706723,Psarocolius atrovirens,Psarocolius_atrovirens,Audios/Psarocolius_atrovirens/XC706723.mp3,A,song,song,119.94,48000,2,test
+706726,Psarocolius atrovirens,Psarocolius_atrovirens,Audios/Psarocolius_atrovirens/XC706726.mp3,C,song,song,34.46,48000,2,train
+706729,Psarocolius atrovirens,Psarocolius_atrovirens,Audios/Psarocolius_atrovirens/XC706729.mp3,A,call,call,93.49,48000,2,train
+74125,Psarocolius atrovirens,Psarocolius_atrovirens,Audios/Psarocolius_atrovirens/XC74125.mp3,A,song,song,16.37,44100,1,train
+74126,Psarocolius atrovirens,Psarocolius_atrovirens,Audios/Psarocolius_atrovirens/XC74126.mp3,A,song,song,60.44,44100,1,test
+74127,Psarocolius atrovirens,Psarocolius_atrovirens,Audios/Psarocolius_atrovirens/XC74127.mp3,A,song,song,82.23,44100,1,val
+949786,Psarocolius atrovirens,Psarocolius_atrovirens,Audios/Psarocolius_atrovirens/XC949786.wav,A,song,song,34.96,44100,2,train
+139509,Psittacara mitratus,Psittacara_mitratus,Audios/Psittacara_mitratus/XC139509.mp3,B,call,call,7.53,44100,1,train
+139510,Psittacara mitratus,Psittacara_mitratus,Audios/Psittacara_mitratus/XC139510.mp3,B,call,call,21.09,44100,1,val
+2041,Psittacara mitratus,Psittacara_mitratus,Audios/Psittacara_mitratus/XC2041.mp3,A,flight call,call,29.2,44100,1,train
+2169,Psittacara mitratus,Psittacara_mitratus,Audios/Psittacara_mitratus/XC2169.mp3,A,flight call,call,26.98,44100,1,val
+2174,Psittacara mitratus,Psittacara_mitratus,Audios/Psittacara_mitratus/XC2174.mp3,A,"call, calls, perched, then flying off.",call,39.89,44100,1,test
+2598,Psittacara mitratus,Psittacara_mitratus,Audios/Psittacara_mitratus/XC2598.mp3,B,"call, calls, perched",call,39.49,44100,1,train
+289838,Psittacara mitratus,Psittacara_mitratus,Audios/Psittacara_mitratus/XC289838.mp3,B,call,call,31.29,44100,2,train
+296365,Psittacara mitratus,Psittacara_mitratus,Audios/Psittacara_mitratus/XC296365.mp3,A,call,call,19.29,44100,2,train
+350953,Psittacara mitratus,Psittacara_mitratus,Audios/Psittacara_mitratus/XC350953.mp3,A,"call, flight call",call,361.01,44100,2,train
+350954,Psittacara mitratus,Psittacara_mitratus,Audios/Psittacara_mitratus/XC350954.mp3,A,"call, flight call",call,56.98,44100,2,train
+350956,Psittacara mitratus,Psittacara_mitratus,Audios/Psittacara_mitratus/XC350956.mp3,A,call,call,265.6,44100,2,train
+350958,Psittacara mitratus,Psittacara_mitratus,Audios/Psittacara_mitratus/XC350958.mp3,A,call,call,71.35,44100,2,train
+351187,Psittacara mitratus,Psittacara_mitratus,Audios/Psittacara_mitratus/XC351187.mp3,B,call,call,279.51,44100,2,test
+47084,Psittacara mitratus,Psittacara_mitratus,Audios/Psittacara_mitratus/XC47084.mp3,A,"flight call, flight calls from flock",call,33.18,44100,1,train
+628870,Psittacara mitratus,Psittacara_mitratus,Audios/Psittacara_mitratus/XC628870.mp3,B,flight call,call,14.35,44100,1,train
+631874,Psittacara mitratus,Psittacara_mitratus,Audios/Psittacara_mitratus/XC631874.mp3,B,call,call,171.48,44100,1,test
+631875,Psittacara mitratus,Psittacara_mitratus,Audios/Psittacara_mitratus/XC631875.mp3,B,flight call,call,22.65,44100,1,val
+707071,Psittacara mitratus,Psittacara_mitratus,Audios/Psittacara_mitratus/XC707071.mp3,B,call,call,102.76,48000,2,train
+707074,Psittacara mitratus,Psittacara_mitratus,Audios/Psittacara_mitratus/XC707074.mp3,A,call,call,31.26,48000,2,train
+707076,Psittacara mitratus,Psittacara_mitratus,Audios/Psittacara_mitratus/XC707076.mp3,A,call,call,21.54,48000,2,val
+707078,Psittacara mitratus,Psittacara_mitratus,Audios/Psittacara_mitratus/XC707078.mp3,A,call,call,261.34,48000,2,train
+707080,Psittacara mitratus,Psittacara_mitratus,Audios/Psittacara_mitratus/XC707080.mp3,B,call,call,166.58,48000,2,train
+707082,Psittacara mitratus,Psittacara_mitratus,Audios/Psittacara_mitratus/XC707082.mp3,B,call,call,35.34,48000,2,train
+707083,Psittacara mitratus,Psittacara_mitratus,Audios/Psittacara_mitratus/XC707083.mp3,A,call,call,30.61,48000,2,test
+707086,Psittacara mitratus,Psittacara_mitratus,Audios/Psittacara_mitratus/XC707086.mp3,B,call,call,20.15,48000,2,train
+735475,Psittacara mitratus,Psittacara_mitratus,Audios/Psittacara_mitratus/XC735475.mp3,B,call,call,30.83,44100,1,train
+735480,Psittacara mitratus,Psittacara_mitratus,Audios/Psittacara_mitratus/XC735480.mp3,B,call,call,91.27,44100,1,train
+155510,Pyriglena maura,Pyriglena_maura,Audios/Pyriglena_maura/XC155510.mp3,A,"call, song",song,98.09,44100,1,train
+155526,Pyriglena maura,Pyriglena_maura,Audios/Pyriglena_maura/XC155526.mp3,B,song,song,33.48,44100,1,test
+1625,Pyriglena maura,Pyriglena_maura,Audios/Pyriglena_maura/XC1625.mp3,A,song,song,36.69,44100,1,test
+1896,Pyriglena maura,Pyriglena_maura,Audios/Pyriglena_maura/XC1896.mp3,A,alarm call,call,35.36,44100,1,train
+1940,Pyriglena maura,Pyriglena_maura,Audios/Pyriglena_maura/XC1940.mp3,A,song,song,52.63,44100,1,train
+2647,Pyriglena maura,Pyriglena_maura,Audios/Pyriglena_maura/XC2647.mp3,A,song,song,58.21,44100,1,train
+2652,Pyriglena maura,Pyriglena_maura,Audios/Pyriglena_maura/XC2652.mp3,A,alarm call,call,15.56,44100,1,train
+2734,Pyriglena maura,Pyriglena_maura,Audios/Pyriglena_maura/XC2734.mp3,C,"alarm call, alarm calls.",call,31.47,44100,1,train
+289858,Pyriglena maura,Pyriglena_maura,Audios/Pyriglena_maura/XC289858.mp3,B,song,song,26.99,44100,2,train
+296325,Pyriglena maura,Pyriglena_maura,Audios/Pyriglena_maura/XC296325.mp3,A,call,call,20.86,44100,2,train
+296326,Pyriglena maura,Pyriglena_maura,Audios/Pyriglena_maura/XC296326.mp3,A,call,call,13.18,44100,2,train
+297690,Pyriglena maura,Pyriglena_maura,Audios/Pyriglena_maura/XC297690.mp3,C,song,song,66.33,44100,2,val
+396048,Pyriglena maura,Pyriglena_maura,Audios/Pyriglena_maura/XC396048.mp3,C,song,song,23.7,44100,1,train
+456902,Pyriglena maura,Pyriglena_maura,Audios/Pyriglena_maura/XC456902.mp3,A,song,song,30.38,48000,2,test
+471112,Pyriglena maura,Pyriglena_maura,Audios/Pyriglena_maura/XC471112.mp3,A,song,song,64.34,48000,2,train
+627071,Pyriglena maura,Pyriglena_maura,Audios/Pyriglena_maura/XC627071.mp3,A,"alarm call, call, song",song,322.43,44100,1,train
+63959,Pyriglena maura,Pyriglena_maura,Audios/Pyriglena_maura/XC63959.mp3,B,call,call,34.5,16000,1,val
+63960,Pyriglena maura,Pyriglena_maura,Audios/Pyriglena_maura/XC63960.mp3,B,call,call,81.0,16000,1,val
+654886,Pyriglena maura,Pyriglena_maura,Audios/Pyriglena_maura/XC654886.mp3,B,song,song,14.81,44100,2,val
+703838,Pyriglena maura,Pyriglena_maura,Audios/Pyriglena_maura/XC703838.mp3,B,"duet, song",song,62.71,48000,2,train
+703839,Pyriglena maura,Pyriglena_maura,Audios/Pyriglena_maura/XC703839.mp3,A,"call, duet, song",song,89.4,48000,2,train
+703841,Pyriglena maura,Pyriglena_maura,Audios/Pyriglena_maura/XC703841.mp3,C,call,call,38.59,48000,2,train
+732280,Pyriglena maura,Pyriglena_maura,Audios/Pyriglena_maura/XC732280.mp3,A,"call, song",song,18.19,44100,2,train
+859178,Pyriglena maura,Pyriglena_maura,Audios/Pyriglena_maura/XC859178.mp3,B,song,song,72.53,48000,2,train
+859179,Pyriglena maura,Pyriglena_maura,Audios/Pyriglena_maura/XC859179.mp3,A,song,song,116.28,48000,2,train
+1065201,Pyrrhura molinae,Pyrrhura_molinae,Audios/Pyrrhura_molinae/XC1065201.wav,C,flight call,call,5.31,48000,1,train
+1163896,Pyrrhura molinae,Pyrrhura_molinae,Audios/Pyrrhura_molinae/XC1163896.wav,A,"call, song, subsong",song,28.66,44100,2,train
+146862,Pyrrhura molinae,Pyrrhura_molinae,Audios/Pyrrhura_molinae/XC146862.mp3,A,call,call,33.05,48000,1,test
+146863,Pyrrhura molinae,Pyrrhura_molinae,Audios/Pyrrhura_molinae/XC146863.mp3,A,call,call,8.58,48000,1,val
+149661,Pyrrhura molinae,Pyrrhura_molinae,Audios/Pyrrhura_molinae/XC149661.mp3,B,call,call,19.99,44100,1,test
+1587,Pyrrhura molinae,Pyrrhura_molinae,Audios/Pyrrhura_molinae/XC1587.mp3,A,"call, calls, perched",call,47.08,44100,1,train
+16169,Pyrrhura molinae,Pyrrhura_molinae,Audios/Pyrrhura_molinae/XC16169.mp3,B,call,call,9.55,44100,1,train
+16170,Pyrrhura molinae,Pyrrhura_molinae,Audios/Pyrrhura_molinae/XC16170.mp3,B,"flight call, flight calls of a flock",call,19.47,44100,1,train
+2202,Pyrrhura molinae,Pyrrhura_molinae,Audios/Pyrrhura_molinae/XC2202.mp3,A,"chattering in top of tree, then flying off.",chattering in top of tree,56.45,44100,1,val
+289844,Pyrrhura molinae,Pyrrhura_molinae,Audios/Pyrrhura_molinae/XC289844.mp3,B,call,call,37.08,44100,2,test
+296330,Pyrrhura molinae,Pyrrhura_molinae,Audios/Pyrrhura_molinae/XC296330.mp3,A,call,call,4.29,44100,2,train
+351132,Pyrrhura molinae,Pyrrhura_molinae,Audios/Pyrrhura_molinae/XC351132.mp3,A,call,call,14.5,44100,2,train
+351186,Pyrrhura molinae,Pyrrhura_molinae,Audios/Pyrrhura_molinae/XC351186.mp3,A,call,call,64.31,44100,2,train
+44436,Pyrrhura molinae,Pyrrhura_molinae,Audios/Pyrrhura_molinae/XC44436.mp3,C,call,call,28.67,44100,2,train
+47123,Pyrrhura molinae,Pyrrhura_molinae,Audios/Pyrrhura_molinae/XC47123.mp3,B,"flight call, flight calls small groups",call,26.44,44100,1,train
+628861,Pyrrhura molinae,Pyrrhura_molinae,Audios/Pyrrhura_molinae/XC628861.mp3,B,"call, take-off calls",call,9.62,44100,1,train
+628868,Pyrrhura molinae,Pyrrhura_molinae,Audios/Pyrrhura_molinae/XC628868.mp3,B,call,call,44.1,44100,1,val
+706849,Pyrrhura molinae,Pyrrhura_molinae,Audios/Pyrrhura_molinae/XC706849.mp3,B,call,call,8.01,48000,2,train
+706851,Pyrrhura molinae,Pyrrhura_molinae,Audios/Pyrrhura_molinae/XC706851.mp3,B,call,call,4.14,48000,2,train
+706852,Pyrrhura molinae,Pyrrhura_molinae,Audios/Pyrrhura_molinae/XC706852.mp3,C,call,call,13.6,48000,2,train
+706854,Pyrrhura molinae,Pyrrhura_molinae,Audios/Pyrrhura_molinae/XC706854.mp3,C,call,call,29.2,48000,2,train
+733389,Pyrrhura molinae,Pyrrhura_molinae,Audios/Pyrrhura_molinae/XC733389.mp3,B,begging call,call,68.39,44100,1,val
+735473,Pyrrhura molinae,Pyrrhura_molinae,Audios/Pyrrhura_molinae/XC735473.mp3,B,"begging call, call, flight call",call,139.64,44100,1,train
+861209,Pyrrhura molinae,Pyrrhura_molinae,Audios/Pyrrhura_molinae/XC861209.wav,C,call,call,6.11,48000,2,train
+861211,Pyrrhura molinae,Pyrrhura_molinae,Audios/Pyrrhura_molinae/XC861211.wav,B,call,call,7.7,48000,2,test
+864628,Pyrrhura molinae,Pyrrhura_molinae,Audios/Pyrrhura_molinae/XC864628.wav,A,"call, song, subsong",song,111.11,44100,2,train
+924066,Pyrrhura molinae,Pyrrhura_molinae,Audios/Pyrrhura_molinae/XC924066.wav,A,call,call,81.35,48000,2,train
+1065360,Saltator aurantiirostris,Saltator_aurantiirostris,Audios/Saltator_aurantiirostris/XC1065360.wav,B,song,song,43.1,48000,1,train
+126975,Saltator aurantiirostris,Saltator_aurantiirostris,Audios/Saltator_aurantiirostris/XC126975.mp3,A,song,song,96.01,44100,1,train
+145047,Saltator aurantiirostris,Saltator_aurantiirostris,Audios/Saltator_aurantiirostris/XC145047.mp3,B,song,song,51.81,44100,1,train
+151244,Saltator aurantiirostris,Saltator_aurantiirostris,Audios/Saltator_aurantiirostris/XC151244.mp3,B,song,song,53.64,44100,1,val
+1611,Saltator aurantiirostris,Saltator_aurantiirostris,Audios/Saltator_aurantiirostris/XC1611.mp3,A,"alarm call, song, alarm calls and song.",song,25.12,44100,1,train
+1632,Saltator aurantiirostris,Saltator_aurantiirostris,Audios/Saltator_aurantiirostris/XC1632.mp3,A,song,song,29.9,44100,1,train
+1976,Saltator aurantiirostris,Saltator_aurantiirostris,Audios/Saltator_aurantiirostris/XC1976.mp3,A,"call, song",song,65.71,44100,1,train
+2155,Saltator aurantiirostris,Saltator_aurantiirostris,Audios/Saltator_aurantiirostris/XC2155.mp3,B,song,song,53.07,44100,1,train
+2156,Saltator aurantiirostris,Saltator_aurantiirostris,Audios/Saltator_aurantiirostris/XC2156.mp3,A,song,song,8.03,44100,1,train
+2157,Saltator aurantiirostris,Saltator_aurantiirostris,Audios/Saltator_aurantiirostris/XC2157.mp3,B,"call, calls while feeding & begging?",call,16.11,44100,1,train
+2164,Saltator aurantiirostris,Saltator_aurantiirostris,Audios/Saltator_aurantiirostris/XC2164.mp3,A,song,song,44.19,44100,1,train
+289546,Saltator aurantiirostris,Saltator_aurantiirostris,Audios/Saltator_aurantiirostris/XC289546.mp3,B,song,song,20.01,44100,2,val
+296366,Saltator aurantiirostris,Saltator_aurantiirostris,Audios/Saltator_aurantiirostris/XC296366.mp3,A,song,song,26.26,44100,2,test
+296367,Saltator aurantiirostris,Saltator_aurantiirostris,Audios/Saltator_aurantiirostris/XC296367.mp3,A,song,song,23.92,44100,2,train
+351771,Saltator aurantiirostris,Saltator_aurantiirostris,Audios/Saltator_aurantiirostris/XC351771.mp3,B,song,song,67.49,44100,2,train
+352010,Saltator aurantiirostris,Saltator_aurantiirostris,Audios/Saltator_aurantiirostris/XC352010.mp3,A,song,song,118.48,44100,2,val
+445903,Saltator aurantiirostris,Saltator_aurantiirostris,Audios/Saltator_aurantiirostris/XC445903.mp3,B,song,song,44.33,22050,1,val
+47484,Saltator aurantiirostris,Saltator_aurantiirostris,Audios/Saltator_aurantiirostris/XC47484.mp3,B,song,song,88.53,44100,1,train
+47485,Saltator aurantiirostris,Saltator_aurantiirostris,Audios/Saltator_aurantiirostris/XC47485.mp3,B,song,song,18.78,44100,1,test
+635086,Saltator aurantiirostris,Saltator_aurantiirostris,Audios/Saltator_aurantiirostris/XC635086.mp3,B,song,song,65.57,44100,1,train
+663425,Saltator aurantiirostris,Saltator_aurantiirostris,Audios/Saltator_aurantiirostris/XC663425.mp3,A,song,song,38.31,44100,2,train
+685107,Saltator aurantiirostris,Saltator_aurantiirostris,Audios/Saltator_aurantiirostris/XC685107.mp3,B,song,song,38.79,44100,1,test
+698340,Saltator aurantiirostris,Saltator_aurantiirostris,Audios/Saltator_aurantiirostris/XC698340.mp3,B,song,song,13.29,48000,1,train
+707728,Saltator aurantiirostris,Saltator_aurantiirostris,Audios/Saltator_aurantiirostris/XC707728.mp3,B,song,song,83.49,48000,2,train
+707730,Saltator aurantiirostris,Saltator_aurantiirostris,Audios/Saltator_aurantiirostris/XC707730.mp3,A,song,song,101.54,48000,2,test
+707731,Saltator aurantiirostris,Saltator_aurantiirostris,Audios/Saltator_aurantiirostris/XC707731.mp3,B,call,call,8.29,48000,2,train
+707733,Saltator aurantiirostris,Saltator_aurantiirostris,Audios/Saltator_aurantiirostris/XC707733.mp3,B,dawn song,song,244.24,48000,2,train
+1012305,Sciaphylax hemimelaena,Sciaphylax_hemimelaena,Audios/Sciaphylax_hemimelaena/XC1012305.wav,A,call,call,20.91,44100,2,train
+1156101,Sciaphylax hemimelaena,Sciaphylax_hemimelaena,Audios/Sciaphylax_hemimelaena/XC1156101.wav,A,"call, subsong",call,56.03,44100,2,train
+2337,Sciaphylax hemimelaena,Sciaphylax_hemimelaena,Audios/Sciaphylax_hemimelaena/XC2337.mp3,C,"duet, song, one duet",song,27.22,44100,1,train
+2543,Sciaphylax hemimelaena,Sciaphylax_hemimelaena,Audios/Sciaphylax_hemimelaena/XC2543.mp3,C,alarm call,call,15.14,44100,1,train
+2574,Sciaphylax hemimelaena,Sciaphylax_hemimelaena,Audios/Sciaphylax_hemimelaena/XC2574.mp3,A,song,song,44.71,44100,1,train
+305879,Sciaphylax hemimelaena,Sciaphylax_hemimelaena,Audios/Sciaphylax_hemimelaena/XC305879.mp3,A,song,song,65.15,44100,2,train
+395780,Sciaphylax hemimelaena,Sciaphylax_hemimelaena,Audios/Sciaphylax_hemimelaena/XC395780.mp3,B,song,song,31.18,44100,1,test
+398534,Sciaphylax hemimelaena,Sciaphylax_hemimelaena,Audios/Sciaphylax_hemimelaena/XC398534.mp3,B,call,call,10.59,44100,1,train
+470980,Sciaphylax hemimelaena,Sciaphylax_hemimelaena,Audios/Sciaphylax_hemimelaena/XC470980.mp3,B,"call, song",song,77.86,22050,1,train
+471405,Sciaphylax hemimelaena,Sciaphylax_hemimelaena,Audios/Sciaphylax_hemimelaena/XC471405.mp3,C,call,call,12.71,44100,1,test
+471406,Sciaphylax hemimelaena,Sciaphylax_hemimelaena,Audios/Sciaphylax_hemimelaena/XC471406.mp3,A,call,call,31.72,44100,1,train
+471407,Sciaphylax hemimelaena,Sciaphylax_hemimelaena,Audios/Sciaphylax_hemimelaena/XC471407.mp3,B,song,song,51.89,44100,1,train
+471408,Sciaphylax hemimelaena,Sciaphylax_hemimelaena,Audios/Sciaphylax_hemimelaena/XC471408.mp3,B,song,song,51.13,44100,1,test
+471409,Sciaphylax hemimelaena,Sciaphylax_hemimelaena,Audios/Sciaphylax_hemimelaena/XC471409.mp3,A,song,song,40.29,44100,1,train
+471410,Sciaphylax hemimelaena,Sciaphylax_hemimelaena,Audios/Sciaphylax_hemimelaena/XC471410.mp3,A,song,song,149.17,44100,1,train
+63723,Sciaphylax hemimelaena,Sciaphylax_hemimelaena,Audios/Sciaphylax_hemimelaena/XC63723.mp3,B,song,song,39.65,44100,1,val
+63726,Sciaphylax hemimelaena,Sciaphylax_hemimelaena,Audios/Sciaphylax_hemimelaena/XC63726.mp3,B,call,call,23.76,22050,1,train
+63728,Sciaphylax hemimelaena,Sciaphylax_hemimelaena,Audios/Sciaphylax_hemimelaena/XC63728.mp3,A,song,song,40.25,24000,1,train
+639311,Sciaphylax hemimelaena,Sciaphylax_hemimelaena,Audios/Sciaphylax_hemimelaena/XC639311.mp3,A,song,song,48.7,44100,2,train
+673457,Sciaphylax hemimelaena,Sciaphylax_hemimelaena,Audios/Sciaphylax_hemimelaena/XC673457.mp3,A,song,song,36.92,44100,2,train
+684881,Sciaphylax hemimelaena,Sciaphylax_hemimelaena,Audios/Sciaphylax_hemimelaena/XC684881.mp3,A,"call, song",song,11.2,44100,2,val
+702340,Sciaphylax hemimelaena,Sciaphylax_hemimelaena,Audios/Sciaphylax_hemimelaena/XC702340.mp3,B,song,song,17.6,48000,1,train
+858660,Sciaphylax hemimelaena,Sciaphylax_hemimelaena,Audios/Sciaphylax_hemimelaena/XC858660.mp3,B,song,song,99.14,48000,2,test
+858662,Sciaphylax hemimelaena,Sciaphylax_hemimelaena,Audios/Sciaphylax_hemimelaena/XC858662.mp3,A,song,song,93.02,48000,2,val
+858663,Sciaphylax hemimelaena,Sciaphylax_hemimelaena,Audios/Sciaphylax_hemimelaena/XC858663.mp3,A,"duet, song",song,181.91,48000,2,train
+858664,Sciaphylax hemimelaena,Sciaphylax_hemimelaena,Audios/Sciaphylax_hemimelaena/XC858664.mp3,A,"call, duet, song",song,154.28,48000,2,train
+858666,Sciaphylax hemimelaena,Sciaphylax_hemimelaena,Audios/Sciaphylax_hemimelaena/XC858666.mp3,A,song,song,121.76,48000,2,val
+1023382,Scytalopus bolivianus,Scytalopus_bolivianus,Audios/Scytalopus_bolivianus/XC1023382.wav,B,song,song,20.14,44100,2,train
+1065202,Scytalopus bolivianus,Scytalopus_bolivianus,Audios/Scytalopus_bolivianus/XC1065202.wav,B,song,song,93.92,48000,1,val
+1065203,Scytalopus bolivianus,Scytalopus_bolivianus,Audios/Scytalopus_bolivianus/XC1065203.wav,B,song,song,58.42,48000,1,train
+1065204,Scytalopus bolivianus,Scytalopus_bolivianus,Audios/Scytalopus_bolivianus/XC1065204.wav,B,song,song,60.5,48000,1,train
+1065205,Scytalopus bolivianus,Scytalopus_bolivianus,Audios/Scytalopus_bolivianus/XC1065205.wav,B,song,song,57.7,48000,1,test
+1548,Scytalopus bolivianus,Scytalopus_bolivianus,Audios/Scytalopus_bolivianus/XC1548.mp3,A,"song, last part of song",song,9.87,44100,1,test
+1549,Scytalopus bolivianus,Scytalopus_bolivianus,Audios/Scytalopus_bolivianus/XC1549.mp3,A,"call, series of calls",call,40.92,44100,1,train
+1838,Scytalopus bolivianus,Scytalopus_bolivianus,Audios/Scytalopus_bolivianus/XC1838.mp3,A,song,song,41.94,44100,1,val
+289863,Scytalopus bolivianus,Scytalopus_bolivianus,Audios/Scytalopus_bolivianus/XC289863.mp3,B,song,song,41.61,44100,2,train
+296353,Scytalopus bolivianus,Scytalopus_bolivianus,Audios/Scytalopus_bolivianus/XC296353.mp3,A,song,song,12.75,44100,2,train
+351137,Scytalopus bolivianus,Scytalopus_bolivianus,Audios/Scytalopus_bolivianus/XC351137.mp3,B,song,song,71.77,44100,2,train
+354390,Scytalopus bolivianus,Scytalopus_bolivianus,Audios/Scytalopus_bolivianus/XC354390.mp3,B,"call, squeaky call",call,108.21,44100,2,train
+43904,Scytalopus bolivianus,Scytalopus_bolivianus,Audios/Scytalopus_bolivianus/XC43904.mp3,B,song,song,97.43,44100,2,train
+43905,Scytalopus bolivianus,Scytalopus_bolivianus,Audios/Scytalopus_bolivianus/XC43905.mp3,B,song,song,98.09,44100,2,train
+43906,Scytalopus bolivianus,Scytalopus_bolivianus,Audios/Scytalopus_bolivianus/XC43906.mp3,C,song,song,112.51,44100,2,train
+43907,Scytalopus bolivianus,Scytalopus_bolivianus,Audios/Scytalopus_bolivianus/XC43907.mp3,B,song,song,51.69,44100,2,val
+631888,Scytalopus bolivianus,Scytalopus_bolivianus,Audios/Scytalopus_bolivianus/XC631888.mp3,C,song,song,80.46,44100,1,train
+635075,Scytalopus bolivianus,Scytalopus_bolivianus,Audios/Scytalopus_bolivianus/XC635075.mp3,B,song,song,13.43,44100,1,test
+650158,Scytalopus bolivianus,Scytalopus_bolivianus,Audios/Scytalopus_bolivianus/XC650158.mp3,A,call,call,17.61,44100,1,train
+655904,Scytalopus bolivianus,Scytalopus_bolivianus,Audios/Scytalopus_bolivianus/XC655904.mp3,A,subsong,subsong,6.01,44100,1,train
+708292,Scytalopus bolivianus,Scytalopus_bolivianus,Audios/Scytalopus_bolivianus/XC708292.mp3,B,song,song,30.91,48000,2,test
+708304,Scytalopus bolivianus,Scytalopus_bolivianus,Audios/Scytalopus_bolivianus/XC708304.mp3,C,call,call,88.79,48000,2,train
+738229,Scytalopus bolivianus,Scytalopus_bolivianus,Audios/Scytalopus_bolivianus/XC738229.mp3,C,song,song,8.73,44100,1,train
+1065069,Scytalopus parvirostris,Scytalopus_parvirostris,Audios/Scytalopus_parvirostris/XC1065069.wav,B,song,song,7.88,48000,1,train
+1065071,Scytalopus parvirostris,Scytalopus_parvirostris,Audios/Scytalopus_parvirostris/XC1065071.wav,B,song,song,7.27,48000,1,train
+1067425,Scytalopus parvirostris,Scytalopus_parvirostris,Audios/Scytalopus_parvirostris/XC1067425.wav,A,song,song,13.69,44100,2,test
+188459,Scytalopus parvirostris,Scytalopus_parvirostris,Audios/Scytalopus_parvirostris/XC188459.mp3,A,call,call,21.43,44100,1,train
+1977,Scytalopus parvirostris,Scytalopus_parvirostris,Audios/Scytalopus_parvirostris/XC1977.mp3,A,song,song,15.45,44100,1,train
+1978,Scytalopus parvirostris,Scytalopus_parvirostris,Audios/Scytalopus_parvirostris/XC1978.mp3,A,alarm call,call,5.22,44100,1,train
+2030,Scytalopus parvirostris,Scytalopus_parvirostris,Audios/Scytalopus_parvirostris/XC2030.mp3,A,song,song,13.67,44100,1,test
+2060,Scytalopus parvirostris,Scytalopus_parvirostris,Audios/Scytalopus_parvirostris/XC2060.mp3,B,alarm call,call,33.41,44100,1,train
+2516,Scytalopus parvirostris,Scytalopus_parvirostris,Audios/Scytalopus_parvirostris/XC2516.mp3,B,song,song,11.93,44100,1,train
+2519,Scytalopus parvirostris,Scytalopus_parvirostris,Audios/Scytalopus_parvirostris/XC2519.mp3,A,"alarm call, trills. alarm calls.",call,34.72,44100,1,test
+296339,Scytalopus parvirostris,Scytalopus_parvirostris,Audios/Scytalopus_parvirostris/XC296339.mp3,A,call,call,19.11,44100,2,train
+296361,Scytalopus parvirostris,Scytalopus_parvirostris,Audios/Scytalopus_parvirostris/XC296361.mp3,A,song,song,14.68,44100,2,train
+349109,Scytalopus parvirostris,Scytalopus_parvirostris,Audios/Scytalopus_parvirostris/XC349109.mp3,B,song,song,71.22,44100,1,val
+354164,Scytalopus parvirostris,Scytalopus_parvirostris,Audios/Scytalopus_parvirostris/XC354164.mp3,A,song,song,24.61,44100,2,train
+471049,Scytalopus parvirostris,Scytalopus_parvirostris,Audios/Scytalopus_parvirostris/XC471049.mp3,A,"call, song",song,42.51,44100,1,train
+471078,Scytalopus parvirostris,Scytalopus_parvirostris,Audios/Scytalopus_parvirostris/XC471078.mp3,A,alarm call,call,11.53,44100,1,train
+505140,Scytalopus parvirostris,Scytalopus_parvirostris,Audios/Scytalopus_parvirostris/XC505140.mp3,B,"call, song, subsong",song,33.8,48000,2,train
+631451,Scytalopus parvirostris,Scytalopus_parvirostris,Audios/Scytalopus_parvirostris/XC631451.mp3,A,uncertain,uncertain,8.43,44100,2,val
+631493,Scytalopus parvirostris,Scytalopus_parvirostris,Audios/Scytalopus_parvirostris/XC631493.mp3,A,call,call,7.3,44100,2,test
+655168,Scytalopus parvirostris,Scytalopus_parvirostris,Audios/Scytalopus_parvirostris/XC655168.mp3,A,alarm call,call,2.83,44100,1,train
+674082,Scytalopus parvirostris,Scytalopus_parvirostris,Audios/Scytalopus_parvirostris/XC674082.mp3,B,call,call,14.29,44100,1,train
+683226,Scytalopus parvirostris,Scytalopus_parvirostris,Audios/Scytalopus_parvirostris/XC683226.mp3,B,call,call,57.23,44100,1,val
+683242,Scytalopus parvirostris,Scytalopus_parvirostris,Audios/Scytalopus_parvirostris/XC683242.mp3,A,alarm call,call,72.12,44100,1,train
+685115,Scytalopus parvirostris,Scytalopus_parvirostris,Audios/Scytalopus_parvirostris/XC685115.mp3,B,"call, song",song,102.53,44100,1,train
+733391,Scytalopus parvirostris,Scytalopus_parvirostris,Audios/Scytalopus_parvirostris/XC733391.mp3,B,"call, song",song,48.17,44100,1,train
+956017,Scytalopus parvirostris,Scytalopus_parvirostris,Audios/Scytalopus_parvirostris/XC956017.wav,A,call,call,29.14,44100,2,train
+956980,Scytalopus parvirostris,Scytalopus_parvirostris,Audios/Scytalopus_parvirostris/XC956980.wav,A,song,song,20.03,44100,2,val
+1064685,Scytalopus schulenbergi,Scytalopus_schulenbergi,Audios/Scytalopus_schulenbergi/XC1064685.wav,B,call,call,6.3,48000,1,train
+1065191,Scytalopus schulenbergi,Scytalopus_schulenbergi,Audios/Scytalopus_schulenbergi/XC1065191.wav,A,call,call,13.75,48000,1,train
+1065192,Scytalopus schulenbergi,Scytalopus_schulenbergi,Audios/Scytalopus_schulenbergi/XC1065192.wav,A,call,call,19.51,48000,1,train
+1065193,Scytalopus schulenbergi,Scytalopus_schulenbergi,Audios/Scytalopus_schulenbergi/XC1065193.wav,A,call,call,10.49,48000,1,train
+1141944,Scytalopus schulenbergi,Scytalopus_schulenbergi,Audios/Scytalopus_schulenbergi/XC1141944.wav,B,song,song,24.59,48000,2,test
+1141983,Scytalopus schulenbergi,Scytalopus_schulenbergi,Audios/Scytalopus_schulenbergi/XC1141983.wav,A,song,song,24.59,48000,2,train
+1184411,Scytalopus schulenbergi,Scytalopus_schulenbergi,Audios/Scytalopus_schulenbergi/XC1184411.wav,B,song,song,20.11,44100,1,train
+1184412,Scytalopus schulenbergi,Scytalopus_schulenbergi,Audios/Scytalopus_schulenbergi/XC1184412.wav,B,song,song,18.21,44100,1,train
+1184414,Scytalopus schulenbergi,Scytalopus_schulenbergi,Audios/Scytalopus_schulenbergi/XC1184414.wav,A,scold,scold,24.42,44100,1,train
+1184421,Scytalopus schulenbergi,Scytalopus_schulenbergi,Audios/Scytalopus_schulenbergi/XC1184421.mp3,B,"call, pair",call,48.78,44100,1,train
+1184422,Scytalopus schulenbergi,Scytalopus_schulenbergi,Audios/Scytalopus_schulenbergi/XC1184422.mp3,A,"female call, female song",song,33.71,44100,1,val
+1184428,Scytalopus schulenbergi,Scytalopus_schulenbergi,Audios/Scytalopus_schulenbergi/XC1184428.mp3,B,call,call,10.05,44100,1,train
+1184429,Scytalopus schulenbergi,Scytalopus_schulenbergi,Audios/Scytalopus_schulenbergi/XC1184429.mp3,B,scold,scold,31.65,44100,1,test
+1184431,Scytalopus schulenbergi,Scytalopus_schulenbergi,Audios/Scytalopus_schulenbergi/XC1184431.mp3,A,song,song,17.86,44100,1,train
+1184432,Scytalopus schulenbergi,Scytalopus_schulenbergi,Audios/Scytalopus_schulenbergi/XC1184432.mp3,B,end of song,song,12.47,44100,1,val
+1184435,Scytalopus schulenbergi,Scytalopus_schulenbergi,Audios/Scytalopus_schulenbergi/XC1184435.mp3,B,song,song,14.54,44100,1,val
+1184436,Scytalopus schulenbergi,Scytalopus_schulenbergi,Audios/Scytalopus_schulenbergi/XC1184436.mp3,B,song,song,7.59,44100,1,train
+1184437,Scytalopus schulenbergi,Scytalopus_schulenbergi,Audios/Scytalopus_schulenbergi/XC1184437.mp3,B,end of song,song,8.56,44100,1,train
+145029,Scytalopus schulenbergi,Scytalopus_schulenbergi,Audios/Scytalopus_schulenbergi/XC145029.mp3,B,song,song,11.12,44100,1,train
+145031,Scytalopus schulenbergi,Scytalopus_schulenbergi,Audios/Scytalopus_schulenbergi/XC145031.mp3,A,song,song,15.19,44100,1,train
+150484,Scytalopus schulenbergi,Scytalopus_schulenbergi,Audios/Scytalopus_schulenbergi/XC150484.mp3,A,song,song,29.47,44100,1,test
+296375,Scytalopus schulenbergi,Scytalopus_schulenbergi,Audios/Scytalopus_schulenbergi/XC296375.mp3,A,call,call,26.2,44100,2,test
+3503,Scytalopus schulenbergi,Scytalopus_schulenbergi,Audios/Scytalopus_schulenbergi/XC3503.mp3,A,"call, calls (two kinds).",call,49.63,44100,1,train
+3634,Scytalopus schulenbergi,Scytalopus_schulenbergi,Audios/Scytalopus_schulenbergi/XC3634.mp3,A,"call, song",song,45.03,44100,1,train
+3635,Scytalopus schulenbergi,Scytalopus_schulenbergi,Audios/Scytalopus_schulenbergi/XC3635.mp3,A,long series. alarm?,long series. alarm?,76.07,44100,1,val
+3636,Scytalopus schulenbergi,Scytalopus_schulenbergi,Audios/Scytalopus_schulenbergi/XC3636.mp3,A,"alarm call, alarm calls.",call,21.49,44100,1,train
+780206,Scytalopus schulenbergi,Scytalopus_schulenbergi,Audios/Scytalopus_schulenbergi/XC780206.mp3,A,song,song,12.34,44100,1,train
+1166264,Scytalopus zimmeri,Scytalopus_zimmeri,Audios/Scytalopus_zimmeri/XC1166264.wav,C,call,call,2.48,44100,1,train
+1166265,Scytalopus zimmeri,Scytalopus_zimmeri,Audios/Scytalopus_zimmeri/XC1166265.wav,C,song,song,7.44,44100,1,train
+1166267,Scytalopus zimmeri,Scytalopus_zimmeri,Audios/Scytalopus_zimmeri/XC1166267.wav,B,song,song,252.47,44100,1,train
+1166268,Scytalopus zimmeri,Scytalopus_zimmeri,Audios/Scytalopus_zimmeri/XC1166268.wav,B,song,song,147.49,44100,1,val
+1166271,Scytalopus zimmeri,Scytalopus_zimmeri,Audios/Scytalopus_zimmeri/XC1166271.wav,B,"call, probably a female",call,68.05,44100,1,train
+1166273,Scytalopus zimmeri,Scytalopus_zimmeri,Audios/Scytalopus_zimmeri/XC1166273.wav,A,song,song,22.0,44100,1,val
+1166274,Scytalopus zimmeri,Scytalopus_zimmeri,Audios/Scytalopus_zimmeri/XC1166274.wav,B,song,song,59.19,44100,1,train
+16290,Scytalopus zimmeri,Scytalopus_zimmeri,Audios/Scytalopus_zimmeri/XC16290.mp3,B,"duet, duet of a pair",duet,23.15,44100,1,val
+16291,Scytalopus zimmeri,Scytalopus_zimmeri,Audios/Scytalopus_zimmeri/XC16291.mp3,A,"call, song, calls of a pair after pb of song",song,113.45,44100,1,train
+16292,Scytalopus zimmeri,Scytalopus_zimmeri,Audios/Scytalopus_zimmeri/XC16292.mp3,B,"song, song after pb",song,7.92,44100,1,train
+16294,Scytalopus zimmeri,Scytalopus_zimmeri,Audios/Scytalopus_zimmeri/XC16294.mp3,C,"call, song, brzk call and song, after pb",song,20.25,44100,1,train
+16296,Scytalopus zimmeri,Scytalopus_zimmeri,Audios/Scytalopus_zimmeri/XC16296.mp3,A,"call, call after pb",call,29.29,44100,1,val
+16297,Scytalopus zimmeri,Scytalopus_zimmeri,Audios/Scytalopus_zimmeri/XC16297.mp3,C,"call, calls juv f",call,80.7,44100,1,train
+16298,Scytalopus zimmeri,Scytalopus_zimmeri,Audios/Scytalopus_zimmeri/XC16298.mp3,B,"call, calls (natural)",call,18.08,44100,1,train
+16300,Scytalopus zimmeri,Scytalopus_zimmeri,Audios/Scytalopus_zimmeri/XC16300.mp3,B,"song, song (natural)",song,37.8,44100,1,train
+16302,Scytalopus zimmeri,Scytalopus_zimmeri,Audios/Scytalopus_zimmeri/XC16302.mp3,B,"call, call (natural), apparently a female",call,22.7,44100,1,test
+16303,Scytalopus zimmeri,Scytalopus_zimmeri,Audios/Scytalopus_zimmeri/XC16303.mp3,B,song,song,10.04,44100,1,train
+3497,Scytalopus zimmeri,Scytalopus_zimmeri,Audios/Scytalopus_zimmeri/XC3497.mp3,A,"song, song (abbreviated version)",song,19.45,44100,1,train
+3498,Scytalopus zimmeri,Scytalopus_zimmeri,Audios/Scytalopus_zimmeri/XC3498.mp3,A,song,song,27.73,44100,1,train
+3499,Scytalopus zimmeri,Scytalopus_zimmeri,Audios/Scytalopus_zimmeri/XC3499.mp3,A,song,song,29.01,44100,1,train
+3616,Scytalopus zimmeri,Scytalopus_zimmeri,Audios/Scytalopus_zimmeri/XC3616.mp3,B,"call, song, calls. song in background.",song,8.95,44100,1,test
+3630,Scytalopus zimmeri,Scytalopus_zimmeri,Audios/Scytalopus_zimmeri/XC3630.mp3,A,call,call,56.7,44100,1,test
+3631,Scytalopus zimmeri,Scytalopus_zimmeri,Audios/Scytalopus_zimmeri/XC3631.mp3,A,"song, song-like vocalization",song,11.92,44100,1,train
+3641,Scytalopus zimmeri,Scytalopus_zimmeri,Audios/Scytalopus_zimmeri/XC3641.mp3,A,call,call,17.93,44100,1,train
+663487,Scytalopus zimmeri,Scytalopus_zimmeri,Audios/Scytalopus_zimmeri/XC663487.mp3,B,song,song,24.09,44100,2,test
+663489,Scytalopus zimmeri,Scytalopus_zimmeri,Audios/Scytalopus_zimmeri/XC663489.mp3,A,song,song,57.49,44100,2,train
+1031800,Sittasomus griseicapillus,Sittasomus_griseicapillus,Audios/Sittasomus_griseicapillus/XC1031800.wav,B,dusk calls,call,41.16,44100,2,train
+1065399,Sittasomus griseicapillus,Sittasomus_griseicapillus,Audios/Sittasomus_griseicapillus/XC1065399.wav,B,song,song,20.43,48000,1,val
+1535,Sittasomus griseicapillus,Sittasomus_griseicapillus,Audios/Sittasomus_griseicapillus/XC1535.mp3,A,song,song,7.62,44100,1,train
+1661,Sittasomus griseicapillus,Sittasomus_griseicapillus,Audios/Sittasomus_griseicapillus/XC1661.mp3,B,song,song,27.13,44100,1,train
+1676,Sittasomus griseicapillus,Sittasomus_griseicapillus,Audios/Sittasomus_griseicapillus/XC1676.mp3,A,rattles,rattles,70.24,44100,1,test
+2659,Sittasomus griseicapillus,Sittasomus_griseicapillus,Audios/Sittasomus_griseicapillus/XC2659.mp3,A,song,song,6.79,44100,1,test
+474855,Sittasomus griseicapillus,Sittasomus_griseicapillus,Audios/Sittasomus_griseicapillus/XC474855.mp3,B,"call, song",song,37.06,48000,2,train
+497388,Sittasomus griseicapillus,Sittasomus_griseicapillus,Audios/Sittasomus_griseicapillus/XC497388.mp3,B,"call, song",song,48.8,48000,2,train
+497402,Sittasomus griseicapillus,Sittasomus_griseicapillus,Audios/Sittasomus_griseicapillus/XC497402.mp3,C,song,song,28.37,48000,2,train
+630658,Sittasomus griseicapillus,Sittasomus_griseicapillus,Audios/Sittasomus_griseicapillus/XC630658.mp3,B,"call, song",song,5.1,44100,2,test
+631203,Sittasomus griseicapillus,Sittasomus_griseicapillus,Audios/Sittasomus_griseicapillus/XC631203.mp3,A,"call, song, dusk song",song,28.1,44100,2,train
+631884,Sittasomus griseicapillus,Sittasomus_griseicapillus,Audios/Sittasomus_griseicapillus/XC631884.mp3,C,song,song,5.52,44100,1,train
+635079,Sittasomus griseicapillus,Sittasomus_griseicapillus,Audios/Sittasomus_griseicapillus/XC635079.mp3,B,subsong,subsong,93.59,44100,1,train
+64194,Sittasomus griseicapillus,Sittasomus_griseicapillus,Audios/Sittasomus_griseicapillus/XC64194.mp3,B,song,song,6.96,24000,1,train
+64195,Sittasomus griseicapillus,Sittasomus_griseicapillus,Audios/Sittasomus_griseicapillus/XC64195.mp3,B,call,call,44.84,16000,1,val
+685616,Sittasomus griseicapillus,Sittasomus_griseicapillus,Audios/Sittasomus_griseicapillus/XC685616.mp3,A,subsong,subsong,38.97,44100,2,train
+709387,Sittasomus griseicapillus,Sittasomus_griseicapillus,Audios/Sittasomus_griseicapillus/XC709387.mp3,B,song,song,256.39,48000,2,train
+709388,Sittasomus griseicapillus,Sittasomus_griseicapillus,Audios/Sittasomus_griseicapillus/XC709388.mp3,C,dawn song,song,87.1,48000,2,test
+709392,Sittasomus griseicapillus,Sittasomus_griseicapillus,Audios/Sittasomus_griseicapillus/XC709392.mp3,C,song,song,11.15,48000,2,val
+732235,Sittasomus griseicapillus,Sittasomus_griseicapillus,Audios/Sittasomus_griseicapillus/XC732235.mp3,A,"dawn song, song, subsong, dusk song",song,67.74,44100,2,train
+740190,Sittasomus griseicapillus,Sittasomus_griseicapillus,Audios/Sittasomus_griseicapillus/XC740190.mp3,C,song,song,9.59,44100,1,train
+760930,Sittasomus griseicapillus,Sittasomus_griseicapillus,Audios/Sittasomus_griseicapillus/XC760930.wav,A,song,song,30.65,48000,2,train
+775612,Sittasomus griseicapillus,Sittasomus_griseicapillus,Audios/Sittasomus_griseicapillus/XC775612.wav,A,song,song,40.09,48000,2,train
+864466,Sittasomus griseicapillus,Sittasomus_griseicapillus,Audios/Sittasomus_griseicapillus/XC864466.wav,C,song,song,9.34,48000,2,val
+864469,Sittasomus griseicapillus,Sittasomus_griseicapillus,Audios/Sittasomus_griseicapillus/XC864469.wav,B,song,song,8.26,48000,2,train
+1065411,Stigmatura budytoides,Stigmatura_budytoides,Audios/Stigmatura_budytoides/XC1065411.wav,A,song,song,15.76,48000,1,test
+126675,Stigmatura budytoides,Stigmatura_budytoides,Audios/Stigmatura_budytoides/XC126675.mp3,B,song,song,80.53,44100,1,val
+145048,Stigmatura budytoides,Stigmatura_budytoides,Audios/Stigmatura_budytoides/XC145048.mp3,B,call,call,57.5,44100,1,val
+145419,Stigmatura budytoides,Stigmatura_budytoides,Audios/Stigmatura_budytoides/XC145419.mp3,B,call,call,26.24,44100,1,train
+149660,Stigmatura budytoides,Stigmatura_budytoides,Audios/Stigmatura_budytoides/XC149660.mp3,C,song,song,10.49,44100,1,train
+149664,Stigmatura budytoides,Stigmatura_budytoides,Audios/Stigmatura_budytoides/XC149664.mp3,B,call,call,50.16,44100,1,train
+151247,Stigmatura budytoides,Stigmatura_budytoides,Audios/Stigmatura_budytoides/XC151247.mp3,C,song,song,32.12,44100,1,train
+16164,Stigmatura budytoides,Stigmatura_budytoides,Audios/Stigmatura_budytoides/XC16164.mp3,A,"duet, song",song,17.06,44100,1,train
+189900,Stigmatura budytoides,Stigmatura_budytoides,Audios/Stigmatura_budytoides/XC189900.mp3,A,song,song,13.46,48000,1,test
+19553,Stigmatura budytoides,Stigmatura_budytoides,Audios/Stigmatura_budytoides/XC19553.mp3,B,"duet, after playback",duet,22.52,44100,1,train
+47791,Stigmatura budytoides,Stigmatura_budytoides,Audios/Stigmatura_budytoides/XC47791.mp3,B,"duet, song",song,18.78,44100,1,train
+635090,Stigmatura budytoides,Stigmatura_budytoides,Audios/Stigmatura_budytoides/XC635090.mp3,B,duet,duet,21.32,44100,1,train
+638260,Stigmatura budytoides,Stigmatura_budytoides,Audios/Stigmatura_budytoides/XC638260.mp3,B,duet,duet,18.5,44100,1,val
+64203,Stigmatura budytoides,Stigmatura_budytoides,Audios/Stigmatura_budytoides/XC64203.mp3,B,song,song,9.83,44100,1,train
+708842,Stigmatura budytoides,Stigmatura_budytoides,Audios/Stigmatura_budytoides/XC708842.mp3,A,"duet, song",song,236.88,48000,2,train
+708843,Stigmatura budytoides,Stigmatura_budytoides,Audios/Stigmatura_budytoides/XC708843.mp3,B,"duet, song",song,223.79,48000,2,train
+708858,Stigmatura budytoides,Stigmatura_budytoides,Audios/Stigmatura_budytoides/XC708858.mp3,B,"duet, song",song,25.84,48000,2,test
+708860,Stigmatura budytoides,Stigmatura_budytoides,Audios/Stigmatura_budytoides/XC708860.mp3,B,"duet, song",song,20.71,48000,2,train
+708861,Stigmatura budytoides,Stigmatura_budytoides,Audios/Stigmatura_budytoides/XC708861.mp3,B,"duet, song",song,15.81,48000,2,train
+708863,Stigmatura budytoides,Stigmatura_budytoides,Audios/Stigmatura_budytoides/XC708863.mp3,B,"duet, song",song,52.82,48000,2,train
+708864,Stigmatura budytoides,Stigmatura_budytoides,Audios/Stigmatura_budytoides/XC708864.mp3,B,"duet, song",song,497.57,48000,2,train
+732446,Stigmatura budytoides,Stigmatura_budytoides,Audios/Stigmatura_budytoides/XC732446.mp3,B,subsong,subsong,46.47,44100,2,val
+732465,Stigmatura budytoides,Stigmatura_budytoides,Audios/Stigmatura_budytoides/XC732465.mp3,A,"duet, song",song,10.07,44100,2,train
+778742,Stigmatura budytoides,Stigmatura_budytoides,Audios/Stigmatura_budytoides/XC778742.mp3,B,pair chatter,pair chatter,18.63,44100,1,train
+150803,Taraba major,Taraba_major,Audios/Taraba_major/XC150803.mp3,B,"call, song",song,54.17,44100,1,val
+155508,Taraba major,Taraba_major,Audios/Taraba_major/XC155508.mp3,B,call,call,31.72,44100,1,train
+2201,Taraba major,Taraba_major,Audios/Taraba_major/XC2201.mp3,A,song,song,70.37,44100,1,train
+2233,Taraba major,Taraba_major,Audios/Taraba_major/XC2233.mp3,A,call,call,23.49,44100,1,train
+2621,Taraba major,Taraba_major,Audios/Taraba_major/XC2621.mp3,A,alarm call,call,21.57,44100,1,train
+2642,Taraba major,Taraba_major,Audios/Taraba_major/XC2642.mp3,B,call,call,14.22,44100,1,train
+296323,Taraba major,Taraba_major,Audios/Taraba_major/XC296323.mp3,B,song,song,10.52,44100,2,train
+313944,Taraba major,Taraba_major,Audios/Taraba_major/XC313944.mp3,C,song,song,50.17,44100,1,train
+435483,Taraba major,Taraba_major,Audios/Taraba_major/XC435483.mp3,A,song,song,10.54,44100,2,test
+435484,Taraba major,Taraba_major,Audios/Taraba_major/XC435484.mp3,B,song,song,90.68,44100,2,train
+443428,Taraba major,Taraba_major,Audios/Taraba_major/XC443428.mp3,B,song,song,42.8,16000,1,train
+489684,Taraba major,Taraba_major,Audios/Taraba_major/XC489684.mp3,A,"alarm call, call",call,31.11,48000,2,train
+497521,Taraba major,Taraba_major,Audios/Taraba_major/XC497521.mp3,B,call,call,33.34,48000,2,train
+602849,Taraba major,Taraba_major,Audios/Taraba_major/XC602849.mp3,B,song,song,38.06,48000,1,test
+64234,Taraba major,Taraba_major,Audios/Taraba_major/XC64234.mp3,B,song,song,10.96,24000,1,train
+663386,Taraba major,Taraba_major,Audios/Taraba_major/XC663386.mp3,A,call,call,17.06,44100,2,train
+692590,Taraba major,Taraba_major,Audios/Taraba_major/XC692590.mp3,A,song,song,72.9,44100,2,test
+702203,Taraba major,Taraba_major,Audios/Taraba_major/XC702203.mp3,B,song,song,220.58,48000,2,train
+702209,Taraba major,Taraba_major,Audios/Taraba_major/XC702209.mp3,A,call,call,19.95,48000,2,val
+702211,Taraba major,Taraba_major,Audios/Taraba_major/XC702211.mp3,A,song,song,127.7,48000,2,train
+74204,Taraba major,Taraba_major,Audios/Taraba_major/XC74204.mp3,B,call,call,47.67,44100,1,val
+74207,Taraba major,Taraba_major,Audios/Taraba_major/XC74207.mp3,A,song,song,98.06,44100,1,train
+74208,Taraba major,Taraba_major,Audios/Taraba_major/XC74208.mp3,B,song,song,67.27,44100,1,test
+74209,Taraba major,Taraba_major,Audios/Taraba_major/XC74209.mp3,B,song,song,47.71,44100,1,train
+858769,Taraba major,Taraba_major,Audios/Taraba_major/XC858769.mp3,B,song,song,92.3,48000,2,train
+858770,Taraba major,Taraba_major,Audios/Taraba_major/XC858770.mp3,C,song,song,50.49,48000,2,val
+1012121,Thamnophilus aethiops,Thamnophilus_aethiops,Audios/Thamnophilus_aethiops/XC1012121.wav,A,"call, song",song,98.62,44100,2,val
+1012123,Thamnophilus aethiops,Thamnophilus_aethiops,Audios/Thamnophilus_aethiops/XC1012123.wav,A,song,song,41.39,44100,2,train
+1027647,Thamnophilus aethiops,Thamnophilus_aethiops,Audios/Thamnophilus_aethiops/XC1027647.wav,A,call,call,27.45,44100,2,train
+1891,Thamnophilus aethiops,Thamnophilus_aethiops,Audios/Thamnophilus_aethiops/XC1891.mp3,B,song,song,15.94,44100,1,train
+1892,Thamnophilus aethiops,Thamnophilus_aethiops,Audios/Thamnophilus_aethiops/XC1892.mp3,C,song,song,33.2,44100,1,val
+2464,Thamnophilus aethiops,Thamnophilus_aethiops,Audios/Thamnophilus_aethiops/XC2464.mp3,C,song,song,32.16,44100,1,train
+2544,Thamnophilus aethiops,Thamnophilus_aethiops,Audios/Thamnophilus_aethiops/XC2544.mp3,C,call,call,4.36,44100,1,train
+2547,Thamnophilus aethiops,Thamnophilus_aethiops,Audios/Thamnophilus_aethiops/XC2547.mp3,C,song,song,41.99,44100,1,train
+2548,Thamnophilus aethiops,Thamnophilus_aethiops,Audios/Thamnophilus_aethiops/XC2548.mp3,C,"call, (alarm) calls",call,12.37,44100,1,train
+391418,Thamnophilus aethiops,Thamnophilus_aethiops,Audios/Thamnophilus_aethiops/XC391418.mp3,B,song,song,19.71,48000,2,train
+399313,Thamnophilus aethiops,Thamnophilus_aethiops,Audios/Thamnophilus_aethiops/XC399313.mp3,C,song,song,38.69,44100,1,train
+399417,Thamnophilus aethiops,Thamnophilus_aethiops,Audios/Thamnophilus_aethiops/XC399417.mp3,B,song,song,80.18,44100,1,val
+514773,Thamnophilus aethiops,Thamnophilus_aethiops,Audios/Thamnophilus_aethiops/XC514773.mp3,A,song,song,14.76,48000,2,train
+64253,Thamnophilus aethiops,Thamnophilus_aethiops,Audios/Thamnophilus_aethiops/XC64253.mp3,C,song,song,40.76,16000,1,train
+676371,Thamnophilus aethiops,Thamnophilus_aethiops,Audios/Thamnophilus_aethiops/XC676371.mp3,A,song,song,17.99,44100,2,test
+684885,Thamnophilus aethiops,Thamnophilus_aethiops,Audios/Thamnophilus_aethiops/XC684885.mp3,B,"call, song",song,32.07,44100,2,test
+684887,Thamnophilus aethiops,Thamnophilus_aethiops,Audios/Thamnophilus_aethiops/XC684887.mp3,B,"call, song",song,45.19,44100,2,test
+688167,Thamnophilus aethiops,Thamnophilus_aethiops,Audios/Thamnophilus_aethiops/XC688167.mp3,A,"call, subsong, family group",call,88.51,44100,2,train
+688168,Thamnophilus aethiops,Thamnophilus_aethiops,Audios/Thamnophilus_aethiops/XC688168.mp3,B,"call, subsong, family group",call,26.63,44100,2,train
+688169,Thamnophilus aethiops,Thamnophilus_aethiops,Audios/Thamnophilus_aethiops/XC688169.mp3,A,"call, song, subsong, family group",song,23.43,44100,2,train
+858775,Thamnophilus aethiops,Thamnophilus_aethiops,Audios/Thamnophilus_aethiops/XC858775.mp3,B,song,song,178.34,48000,2,train
+858778,Thamnophilus aethiops,Thamnophilus_aethiops,Audios/Thamnophilus_aethiops/XC858778.mp3,C,song,song,96.4,48000,2,test
+858781,Thamnophilus aethiops,Thamnophilus_aethiops,Audios/Thamnophilus_aethiops/XC858781.mp3,B,"call, song",song,173.61,48000,2,train
+858783,Thamnophilus aethiops,Thamnophilus_aethiops,Audios/Thamnophilus_aethiops/XC858783.mp3,C,song,song,143.02,48000,2,train
+145051,Thamnophilus caerulescens,Thamnophilus_caerulescens,Audios/Thamnophilus_caerulescens/XC145051.mp3,B,song,song,73.37,44100,1,test
+145449,Thamnophilus caerulescens,Thamnophilus_caerulescens,Audios/Thamnophilus_caerulescens/XC145449.mp3,B,call,call,39.67,44100,1,val
+149114,Thamnophilus caerulescens,Thamnophilus_caerulescens,Audios/Thamnophilus_caerulescens/XC149114.mp3,A,song,song,34.89,44100,1,train
+16268,Thamnophilus caerulescens,Thamnophilus_caerulescens,Audios/Thamnophilus_caerulescens/XC16268.mp3,B,song,song,30.88,44100,1,train
+16269,Thamnophilus caerulescens,Thamnophilus_caerulescens,Audios/Thamnophilus_caerulescens/XC16269.mp3,B,call,call,10.87,44100,1,train
+16270,Thamnophilus caerulescens,Thamnophilus_caerulescens,Audios/Thamnophilus_caerulescens/XC16270.mp3,B,call,call,8.81,44100,1,val
+16271,Thamnophilus caerulescens,Thamnophilus_caerulescens,Audios/Thamnophilus_caerulescens/XC16271.mp3,B,call,call,7.74,44100,1,train
+16272,Thamnophilus caerulescens,Thamnophilus_caerulescens,Audios/Thamnophilus_caerulescens/XC16272.mp3,C,"call, excited calls",call,8.56,44100,1,train
+1693,Thamnophilus caerulescens,Thamnophilus_caerulescens,Audios/Thamnophilus_caerulescens/XC1693.mp3,C,"call, song, calls. song",song,24.78,44100,1,train
+1705,Thamnophilus caerulescens,Thamnophilus_caerulescens,Audios/Thamnophilus_caerulescens/XC1705.mp3,B,song,song,43.02,44100,1,train
+2078,Thamnophilus caerulescens,Thamnophilus_caerulescens,Audios/Thamnophilus_caerulescens/XC2078.mp3,B,song,song,25.91,44100,1,train
+2173,Thamnophilus caerulescens,Thamnophilus_caerulescens,Audios/Thamnophilus_caerulescens/XC2173.mp3,A,song,song,36.45,44100,1,train
+2181,Thamnophilus caerulescens,Thamnophilus_caerulescens,Audios/Thamnophilus_caerulescens/XC2181.mp3,A,call,call,11.26,44100,1,train
+351776,Thamnophilus caerulescens,Thamnophilus_caerulescens,Audios/Thamnophilus_caerulescens/XC351776.mp3,B,call,call,44.9,44100,2,train
+353629,Thamnophilus caerulescens,Thamnophilus_caerulescens,Audios/Thamnophilus_caerulescens/XC353629.mp3,B,song,song,89.91,44100,2,test
+43916,Thamnophilus caerulescens,Thamnophilus_caerulescens,Audios/Thamnophilus_caerulescens/XC43916.mp3,C,call,call,105.13,44100,2,train
+43922,Thamnophilus caerulescens,Thamnophilus_caerulescens,Audios/Thamnophilus_caerulescens/XC43922.mp3,C,song,song,17.6,44100,2,train
+43925,Thamnophilus caerulescens,Thamnophilus_caerulescens,Audios/Thamnophilus_caerulescens/XC43925.mp3,C,song,song,33.97,44100,2,train
+43926,Thamnophilus caerulescens,Thamnophilus_caerulescens,Audios/Thamnophilus_caerulescens/XC43926.mp3,C,"call, call of female",call,6.87,44100,2,val
+630641,Thamnophilus caerulescens,Thamnophilus_caerulescens,Audios/Thamnophilus_caerulescens/XC630641.mp3,A,call,call,17.4,44100,2,test
+630659,Thamnophilus caerulescens,Thamnophilus_caerulescens,Audios/Thamnophilus_caerulescens/XC630659.mp3,B,call,call,39.5,44100,2,train
+631580,Thamnophilus caerulescens,Thamnophilus_caerulescens,Audios/Thamnophilus_caerulescens/XC631580.mp3,B,duet,duet,27.02,44100,2,train
+635077,Thamnophilus caerulescens,Thamnophilus_caerulescens,Audios/Thamnophilus_caerulescens/XC635077.mp3,C,song,song,9.93,44100,1,train
+674077,Thamnophilus caerulescens,Thamnophilus_caerulescens,Audios/Thamnophilus_caerulescens/XC674077.mp3,B,call,call,49.53,44100,1,train
+732452,Thamnophilus caerulescens,Thamnophilus_caerulescens,Audios/Thamnophilus_caerulescens/XC732452.mp3,B,call,call,41.22,44100,2,val
+1064588,Troglodytes aedon,Troglodytes_aedon,Audios/Troglodytes_aedon/XC1064588.wav,A,song,song,27.12,48000,1,train
+125086,Troglodytes aedon,Troglodytes_aedon,Audios/Troglodytes_aedon/XC125086.mp3,B,song,song,61.79,44100,1,train
+150495,Troglodytes aedon,Troglodytes_aedon,Audios/Troglodytes_aedon/XC150495.mp3,B,song,song,15.71,44100,1,train
+151256,Troglodytes aedon,Troglodytes_aedon,Audios/Troglodytes_aedon/XC151256.mp3,B,song,song,48.16,44100,1,train
+16177,Troglodytes aedon,Troglodytes_aedon,Audios/Troglodytes_aedon/XC16177.mp3,B,alarm call,call,7.24,44100,1,train
+16178,Troglodytes aedon,Troglodytes_aedon,Audios/Troglodytes_aedon/XC16178.mp3,A,song,song,11.41,44100,1,train
+1634,Troglodytes aedon,Troglodytes_aedon,Audios/Troglodytes_aedon/XC1634.mp3,A,song,song,53.27,44100,1,train
+1641,Troglodytes aedon,Troglodytes_aedon,Audios/Troglodytes_aedon/XC1641.mp3,A,"call, song",song,38.61,44100,1,train
+1649,Troglodytes aedon,Troglodytes_aedon,Audios/Troglodytes_aedon/XC1649.mp3,A,song,song,17.78,44100,1,train
+1975,Troglodytes aedon,Troglodytes_aedon,Audios/Troglodytes_aedon/XC1975.mp3,B,song,song,65.97,44100,1,train
+2053,Troglodytes aedon,Troglodytes_aedon,Audios/Troglodytes_aedon/XC2053.mp3,B,alarm call,call,39.51,44100,1,test
+2458,Troglodytes aedon,Troglodytes_aedon,Audios/Troglodytes_aedon/XC2458.mp3,A,song,song,18.88,44100,1,train
+296777,Troglodytes aedon,Troglodytes_aedon,Audios/Troglodytes_aedon/XC296777.mp3,C,song,song,26.68,44100,1,test
+296870,Troglodytes aedon,Troglodytes_aedon,Audios/Troglodytes_aedon/XC296870.mp3,B,song,song,25.32,44100,1,train
+299538,Troglodytes aedon,Troglodytes_aedon,Audios/Troglodytes_aedon/XC299538.mp3,B,song,song,59.34,44100,2,val
+354514,Troglodytes aedon,Troglodytes_aedon,Audios/Troglodytes_aedon/XC354514.mp3,B,song,song,80.88,44100,2,val
+627063,Troglodytes aedon,Troglodytes_aedon,Audios/Troglodytes_aedon/XC627063.mp3,A,song,song,20.74,44100,1,train
+64299,Troglodytes aedon,Troglodytes_aedon,Audios/Troglodytes_aedon/XC64299.mp3,B,song,song,28.59,44100,1,train
+709927,Troglodytes aedon,Troglodytes_aedon,Audios/Troglodytes_aedon/XC709927.mp3,C,song,song,60.93,48000,2,test
+709931,Troglodytes aedon,Troglodytes_aedon,Audios/Troglodytes_aedon/XC709931.mp3,B,song,song,43.36,48000,2,train
+709938,Troglodytes aedon,Troglodytes_aedon,Audios/Troglodytes_aedon/XC709938.mp3,B,song,song,208.66,48000,2,train
+709939,Troglodytes aedon,Troglodytes_aedon,Audios/Troglodytes_aedon/XC709939.mp3,C,song,song,55.29,48000,2,val
+864695,Troglodytes aedon,Troglodytes_aedon,Audios/Troglodytes_aedon/XC864695.mp3,C,"call, dawn song",song,97.65,48000,2,val
+864696,Troglodytes aedon,Troglodytes_aedon,Audios/Troglodytes_aedon/XC864696.mp3,C,dawn song,song,97.49,48000,2,test
+864697,Troglodytes aedon,Troglodytes_aedon,Audios/Troglodytes_aedon/XC864697.mp3,C,"call, song",song,36.87,48000,2,train
+1064089,Turdus hauxwelli,Turdus_hauxwelli,Audios/Turdus_hauxwelli/XC1064089.wav,C,call,call,35.83,48000,1,train
+146782,Turdus hauxwelli,Turdus_hauxwelli,Audios/Turdus_hauxwelli/XC146782.mp3,B,call,call,36.18,48000,1,train
+146783,Turdus hauxwelli,Turdus_hauxwelli,Audios/Turdus_hauxwelli/XC146783.mp3,A,song,song,119.65,48000,1,train
+146784,Turdus hauxwelli,Turdus_hauxwelli,Audios/Turdus_hauxwelli/XC146784.mp3,A,song,song,67.08,48000,1,train
+149546,Turdus hauxwelli,Turdus_hauxwelli,Audios/Turdus_hauxwelli/XC149546.mp3,C,"call, flight call",call,9.37,44100,1,test
+164766,Turdus hauxwelli,Turdus_hauxwelli,Audios/Turdus_hauxwelli/XC164766.mp3,B,song,song,67.2,44100,1,val
+164767,Turdus hauxwelli,Turdus_hauxwelli,Audios/Turdus_hauxwelli/XC164767.mp3,B,song,song,155.88,44100,1,train
+2211,Turdus hauxwelli,Turdus_hauxwelli,Audios/Turdus_hauxwelli/XC2211.mp3,B,song,song,4.8,44100,1,train
+2218,Turdus hauxwelli,Turdus_hauxwelli,Audios/Turdus_hauxwelli/XC2218.mp3,A,"call, (alarm) calls",call,7.51,44100,1,train
+2223,Turdus hauxwelli,Turdus_hauxwelli,Audios/Turdus_hauxwelli/XC2223.mp3,A,song,song,63.95,44100,1,val
+429292,Turdus hauxwelli,Turdus_hauxwelli,Audios/Turdus_hauxwelli/XC429292.mp3,A,"call, song",song,70.39,48000,1,train
+505949,Turdus hauxwelli,Turdus_hauxwelli,Audios/Turdus_hauxwelli/XC505949.mp3,B,song,song,44.0,48000,2,train
+675409,Turdus hauxwelli,Turdus_hauxwelli,Audios/Turdus_hauxwelli/XC675409.mp3,A,call,call,32.44,44100,2,train
+675410,Turdus hauxwelli,Turdus_hauxwelli,Audios/Turdus_hauxwelli/XC675410.mp3,A,song,song,40.34,44100,2,train
+708362,Turdus hauxwelli,Turdus_hauxwelli,Audios/Turdus_hauxwelli/XC708362.mp3,C,song,song,118.53,48000,2,train
+708364,Turdus hauxwelli,Turdus_hauxwelli,Audios/Turdus_hauxwelli/XC708364.mp3,B,song,song,227.9,48000,2,train
+708366,Turdus hauxwelli,Turdus_hauxwelli,Audios/Turdus_hauxwelli/XC708366.mp3,B,song,song,200.34,48000,2,train
+708367,Turdus hauxwelli,Turdus_hauxwelli,Audios/Turdus_hauxwelli/XC708367.mp3,A,"song, vesper calling",song,498.51,48000,2,test
+708368,Turdus hauxwelli,Turdus_hauxwelli,Audios/Turdus_hauxwelli/XC708368.mp3,C,"call, song",song,129.08,48000,2,val
+708370,Turdus hauxwelli,Turdus_hauxwelli,Audios/Turdus_hauxwelli/XC708370.mp3,B,"call, song",song,390.31,48000,2,train
+708371,Turdus hauxwelli,Turdus_hauxwelli,Audios/Turdus_hauxwelli/XC708371.mp3,B,song,song,139.29,48000,2,val
+708478,Turdus hauxwelli,Turdus_hauxwelli,Audios/Turdus_hauxwelli/XC708478.mp3,C,song,song,251.95,48000,2,train
+833406,Turdus hauxwelli,Turdus_hauxwelli,Audios/Turdus_hauxwelli/XC833406.wav,B,song,song,68.0,44100,2,train
+835102,Turdus hauxwelli,Turdus_hauxwelli,Audios/Turdus_hauxwelli/XC835102.wav,A,song,song,55.92,48000,2,test
+1157077,Turdus leucomelas,Turdus_leucomelas,Audios/Turdus_leucomelas/XC1157077.wav,A,"call, song, subsong",song,47.41,44100,2,test
+1157084,Turdus leucomelas,Turdus_leucomelas,Audios/Turdus_leucomelas/XC1157084.wav,A,call,call,36.01,44100,2,train
+1907,Turdus leucomelas,Turdus_leucomelas,Audios/Turdus_leucomelas/XC1907.mp3,A,call,call,36.87,44100,1,val
+297410,Turdus leucomelas,Turdus_leucomelas,Audios/Turdus_leucomelas/XC297410.mp3,B,call,call,52.04,48000,1,val
+387386,Turdus leucomelas,Turdus_leucomelas,Audios/Turdus_leucomelas/XC387386.mp3,B,"flight call, song",song,74.37,44100,1,train
+64353,Turdus leucomelas,Turdus_leucomelas,Audios/Turdus_leucomelas/XC64353.mp3,B,song,song,56.93,16000,1,train
+693263,Turdus leucomelas,Turdus_leucomelas,Audios/Turdus_leucomelas/XC693263.mp3,A,call,call,32.28,44100,2,train
+693585,Turdus leucomelas,Turdus_leucomelas,Audios/Turdus_leucomelas/XC693585.mp3,B,song,song,31.0,44100,2,test
+708459,Turdus leucomelas,Turdus_leucomelas,Audios/Turdus_leucomelas/XC708459.mp3,B,"call, song",song,205.94,48000,2,train
+708461,Turdus leucomelas,Turdus_leucomelas,Audios/Turdus_leucomelas/XC708461.mp3,B,song,song,33.13,48000,2,train
+708462,Turdus leucomelas,Turdus_leucomelas,Audios/Turdus_leucomelas/XC708462.mp3,B,song,song,80.34,48000,2,train
+708463,Turdus leucomelas,Turdus_leucomelas,Audios/Turdus_leucomelas/XC708463.mp3,B,"call, song",song,23.66,48000,2,train
+708466,Turdus leucomelas,Turdus_leucomelas,Audios/Turdus_leucomelas/XC708466.mp3,A,call,call,39.13,48000,2,train
+708467,Turdus leucomelas,Turdus_leucomelas,Audios/Turdus_leucomelas/XC708467.mp3,C,vesper calling,call,116.27,48000,2,train
+708468,Turdus leucomelas,Turdus_leucomelas,Audios/Turdus_leucomelas/XC708468.mp3,C,dawn song,song,116.01,48000,2,val
+708469,Turdus leucomelas,Turdus_leucomelas,Audios/Turdus_leucomelas/XC708469.mp3,C,"song, vesper song",song,40.04,48000,2,train
+708470,Turdus leucomelas,Turdus_leucomelas,Audios/Turdus_leucomelas/XC708470.mp3,C,"song, vesper song",song,101.51,48000,2,test
+74304,Turdus leucomelas,Turdus_leucomelas,Audios/Turdus_leucomelas/XC74304.mp3,B,song,song,38.93,44100,1,train
+862912,Turdus leucomelas,Turdus_leucomelas,Audios/Turdus_leucomelas/XC862912.mp3,B,song,song,154.46,48000,2,test
+862913,Turdus leucomelas,Turdus_leucomelas,Audios/Turdus_leucomelas/XC862913.mp3,C,call,call,45.64,48000,2,train
+862914,Turdus leucomelas,Turdus_leucomelas,Audios/Turdus_leucomelas/XC862914.mp3,C,"call, song",song,339.6,48000,2,train
+870862,Turdus leucomelas,Turdus_leucomelas,Audios/Turdus_leucomelas/XC870862.wav,C,call,call,73.55,44100,2,train
+150508,Xiphorhynchus guttatus,Xiphorhynchus_guttatus,Audios/Xiphorhynchus_guttatus/XC150508.mp3,B,song,song,69.37,44100,1,train
+150532,Xiphorhynchus guttatus,Xiphorhynchus_guttatus,Audios/Xiphorhynchus_guttatus/XC150532.mp3,B,call,call,11.58,44100,1,train
+1756,Xiphorhynchus guttatus,Xiphorhynchus_guttatus,Audios/Xiphorhynchus_guttatus/XC1756.mp3,A,song,song,48.32,44100,1,val
+198637,Xiphorhynchus guttatus,Xiphorhynchus_guttatus,Audios/Xiphorhynchus_guttatus/XC198637.mp3,B,song,song,25.03,44100,1,train
+2279,Xiphorhynchus guttatus,Xiphorhynchus_guttatus,Audios/Xiphorhynchus_guttatus/XC2279.mp3,A,alarm call,call,11.33,44100,1,train
+2289,Xiphorhynchus guttatus,Xiphorhynchus_guttatus,Audios/Xiphorhynchus_guttatus/XC2289.mp3,A,call,call,5.88,44100,1,train
+2297,Xiphorhynchus guttatus,Xiphorhynchus_guttatus,Audios/Xiphorhynchus_guttatus/XC2297.mp3,A,song,song,89.59,44100,1,train
+2371,Xiphorhynchus guttatus,Xiphorhynchus_guttatus,Audios/Xiphorhynchus_guttatus/XC2371.mp3,A,call,call,5.72,44100,1,train
+2702,Xiphorhynchus guttatus,Xiphorhynchus_guttatus,Audios/Xiphorhynchus_guttatus/XC2702.mp3,B,song,song,48.67,44100,1,train
+2737,Xiphorhynchus guttatus,Xiphorhynchus_guttatus,Audios/Xiphorhynchus_guttatus/XC2737.mp3,A,call,call,4.54,44100,1,train
+399422,Xiphorhynchus guttatus,Xiphorhynchus_guttatus,Audios/Xiphorhynchus_guttatus/XC399422.mp3,A,call,call,56.16,44100,1,test
+441215,Xiphorhynchus guttatus,Xiphorhynchus_guttatus,Audios/Xiphorhynchus_guttatus/XC441215.mp3,B,song,song,49.05,22050,1,train
+441330,Xiphorhynchus guttatus,Xiphorhynchus_guttatus,Audios/Xiphorhynchus_guttatus/XC441330.mp3,B,"call, song",song,102.19,22050,1,val
+471090,Xiphorhynchus guttatus,Xiphorhynchus_guttatus,Audios/Xiphorhynchus_guttatus/XC471090.mp3,B,song,song,82.45,44100,1,test
+64386,Xiphorhynchus guttatus,Xiphorhynchus_guttatus,Audios/Xiphorhynchus_guttatus/XC64386.mp3,B,song,song,52.6,16000,1,val
+673865,Xiphorhynchus guttatus,Xiphorhynchus_guttatus,Audios/Xiphorhynchus_guttatus/XC673865.mp3,A,call,call,11.48,44100,2,train
+685471,Xiphorhynchus guttatus,Xiphorhynchus_guttatus,Audios/Xiphorhynchus_guttatus/XC685471.mp3,A,dawn song,song,8.0,44100,2,train
+686137,Xiphorhynchus guttatus,Xiphorhynchus_guttatus,Audios/Xiphorhynchus_guttatus/XC686137.mp3,A,dawn song,song,16.0,44100,2,val
+708992,Xiphorhynchus guttatus,Xiphorhynchus_guttatus,Audios/Xiphorhynchus_guttatus/XC708992.mp3,A,"call, song, short songs/long calls",song,261.22,48000,2,train
+708993,Xiphorhynchus guttatus,Xiphorhynchus_guttatus,Audios/Xiphorhynchus_guttatus/XC708993.mp3,A,call,call,15.35,48000,2,train
+708995,Xiphorhynchus guttatus,Xiphorhynchus_guttatus,Audios/Xiphorhynchus_guttatus/XC708995.mp3,B,dawn song,song,241.31,48000,2,train
+708999,Xiphorhynchus guttatus,Xiphorhynchus_guttatus,Audios/Xiphorhynchus_guttatus/XC708999.mp3,B,"call, song, short songs/long calls",song,106.37,48000,2,train
+709003,Xiphorhynchus guttatus,Xiphorhynchus_guttatus,Audios/Xiphorhynchus_guttatus/XC709003.mp3,A,"call, song, short songs/long calls",song,710.46,48000,2,test
+74326,Xiphorhynchus guttatus,Xiphorhynchus_guttatus,Audios/Xiphorhynchus_guttatus/XC74326.mp3,A,song,song,11.41,44100,1,train
+864424,Xiphorhynchus guttatus,Xiphorhynchus_guttatus,Audios/Xiphorhynchus_guttatus/XC864424.mp3,B,"call, song, vesper calling",song,329.33,48000,2,test
+864425,Xiphorhynchus guttatus,Xiphorhynchus_guttatus,Audios/Xiphorhynchus_guttatus/XC864425.mp3,B,short song (long call),song,91.8,48000,2,train
+1065062,Zonotrichia capensis,Zonotrichia_capensis,Audios/Zonotrichia_capensis/XC1065062.wav,B,song,song,19.56,48000,1,train
+145049,Zonotrichia capensis,Zonotrichia_capensis,Audios/Zonotrichia_capensis/XC145049.mp3,B,call,call,17.72,44100,1,train
+149126,Zonotrichia capensis,Zonotrichia_capensis,Audios/Zonotrichia_capensis/XC149126.mp3,A,call,call,18.32,44100,1,test
+155966,Zonotrichia capensis,Zonotrichia_capensis,Audios/Zonotrichia_capensis/XC155966.mp3,B,call,call,39.61,44100,1,test
+1610,Zonotrichia capensis,Zonotrichia_capensis,Audios/Zonotrichia_capensis/XC1610.mp3,A,call,call,29.06,44100,1,train
+1725,Zonotrichia capensis,Zonotrichia_capensis,Audios/Zonotrichia_capensis/XC1725.mp3,A,call,call,12.37,44100,1,train
+1837,Zonotrichia capensis,Zonotrichia_capensis,Audios/Zonotrichia_capensis/XC1837.mp3,A,song,song,21.72,44100,1,train
+1973,Zonotrichia capensis,Zonotrichia_capensis,Audios/Zonotrichia_capensis/XC1973.mp3,B,song,song,61.34,44100,1,train
+2047,Zonotrichia capensis,Zonotrichia_capensis,Audios/Zonotrichia_capensis/XC2047.mp3,A,song,song,24.54,44100,1,val
+289911,Zonotrichia capensis,Zonotrichia_capensis,Audios/Zonotrichia_capensis/XC289911.mp3,B,call,call,18.57,44100,2,test
+354495,Zonotrichia capensis,Zonotrichia_capensis,Audios/Zonotrichia_capensis/XC354495.mp3,A,song,song,42.81,44100,2,train
+471035,Zonotrichia capensis,Zonotrichia_capensis,Audios/Zonotrichia_capensis/XC471035.mp3,A,song,song,7.85,44100,1,train
+635087,Zonotrichia capensis,Zonotrichia_capensis,Audios/Zonotrichia_capensis/XC635087.mp3,A,song,song,86.62,44100,1,test
+635094,Zonotrichia capensis,Zonotrichia_capensis,Audios/Zonotrichia_capensis/XC635094.mp3,B,"call, song",song,13.36,44100,1,train
+655912,Zonotrichia capensis,Zonotrichia_capensis,Audios/Zonotrichia_capensis/XC655912.mp3,A,subsong,subsong,35.14,44100,1,train
+663493,Zonotrichia capensis,Zonotrichia_capensis,Audios/Zonotrichia_capensis/XC663493.mp3,A,call,call,26.26,44100,2,train
+671418,Zonotrichia capensis,Zonotrichia_capensis,Audios/Zonotrichia_capensis/XC671418.mp3,A,call,call,49.97,44100,1,train
+685106,Zonotrichia capensis,Zonotrichia_capensis,Audios/Zonotrichia_capensis/XC685106.mp3,A,song,song,49.5,44100,1,val
+685112,Zonotrichia capensis,Zonotrichia_capensis,Audios/Zonotrichia_capensis/XC685112.mp3,B,call,call,5.47,44100,1,train
+73248,Zonotrichia capensis,Zonotrichia_capensis,Audios/Zonotrichia_capensis/XC73248.mp3,B,"song, short song",song,50.73,44100,1,val
+778786,Zonotrichia capensis,Zonotrichia_capensis,Audios/Zonotrichia_capensis/XC778786.mp3,A,call,call,95.47,44100,1,train
+778822,Zonotrichia capensis,Zonotrichia_capensis,Audios/Zonotrichia_capensis/XC778822.mp3,A,song,song,58.77,44100,1,train
+858794,Zonotrichia capensis,Zonotrichia_capensis,Audios/Zonotrichia_capensis/XC858794.wav,A,call,call,25.38,44100,2,train
+862686,Zonotrichia capensis,Zonotrichia_capensis,Audios/Zonotrichia_capensis/XC862686.wav,B,song,song,27.22,48000,2,train
+988635,Zonotrichia capensis,Zonotrichia_capensis,Audios/Zonotrichia_capensis/XC988635.wav,B,song,song,53.47,44100,2,train
+988637,Zonotrichia capensis,Zonotrichia_capensis,Audios/Zonotrichia_capensis/XC988637.wav,A,song,song,27.44,44100,2,val

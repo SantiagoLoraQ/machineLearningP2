@@ -1,0 +1,35 @@
+{
+  "generated_at": "2026-11-23T03:03:06.774939+00:00",
+  "source_csv": "CSV/manifest_verificado.csv",
+  "output_csv": "data/processed/dataset_limpio.csv",
+  "raw_total_rows": 1000,
+  "clean_total_rows": 972,
+  "species_count": 39,
+  "dropped_columns": [
+    "pais",
+    "localidad",
+    "fecha",
+    "grabador",
+    "duracion",
+    "licencia",
+    "url_audio",
+    "nombre_archivo_origen",
+    "url_ficha",
+    "lat",
+    "lon",
+    "ruta_local"
+  ],
+  "exclusion_summary": {
+    "mystery_mystery": 27,
+    "missing_file": 1
+  },
+  "excluded_non_mystery_records": [
+    {
+      "id": "1630",
+      "especie": "Patagioenas plumbea",
+      "reason": "missing_file",
+      "expected_raw": "/content/aves_bolivia_1000/audios/Patagioenas_plumbea/XC1630.mp3"
+    }
+  ],
+  "duration_updated_vs_manifest_count": 6
+}

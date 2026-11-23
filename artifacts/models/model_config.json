@@ -1,0 +1,37 @@
+{
+  "model_name": "BirdCNN2D",
+  "input_shape": [
+    1,
+    64,
+    173
+  ],
+  "conv_channels": [
+    24,
+    48,
+    96,
+    192
+  ],
+  "classifier_hidden": 128,
+  "num_classes": 39,
+  "dropout": 0.35,
+  "trainable_parameters": 248911,
+  "optimizer": "AdamW",
+  "initial_lr": 0.002,
+  "weight_decay": 0.0001,
+  "label_smoothing": 0.05,
+  "batch_size": 32,
+  "max_epochs": 30,
+  "early_stopping_patience": 8,
+  "random_seed": 42,
+  "device": "cpu",
+  "audio_config": {
+    "sample_rate": 22050,
+    "clip_duration_sec": 4.0,
+    "n_mels": 64,
+    "n_fft": 1024,
+    "hop_length": 512,
+    "fmin": 300,
+    "fmax": 11025,
+    "spec_frames": 173
+  }
+}

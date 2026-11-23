@@ -1,0 +1,1531 @@
+{
+  "by_quality": [
+    {
+      "calidad": "A",
+      "count": 64,
+      "correct": 41,
+      "accuracy": 0.6406,
+      "f1_macro": 0.5527,
+      "avg_confidence": 0.6307
+    },
+    {
+      "calidad": "B",
+      "count": 68,
+      "correct": 48,
+      "accuracy": 0.7059,
+      "f1_macro": 0.6245,
+      "avg_confidence": 0.5294
+    },
+    {
+      "calidad": "C",
+      "count": 13,
+      "correct": 6,
+      "accuracy": 0.4615,
+      "f1_macro": 0.3111,
+      "avg_confidence": 0.5016
+    }
+  ],
+  "by_vocalization": [
+    {
+      "tipo_vocalizacion": "song",
+      "count": 101,
+      "correct": 66,
+      "accuracy": 0.6535,
+      "avg_confidence": 0.5575
+    },
+    {
+      "tipo_vocalizacion": "call",
+      "count": 38,
+      "correct": 25,
+      "accuracy": 0.6579,
+      "avg_confidence": 0.6088
+    },
+    {
+      "tipo_vocalizacion": "duet",
+      "count": 2,
+      "correct": 2,
+      "accuracy": 1.0,
+      "avg_confidence": 0.5773
+    },
+    {
+      "tipo_vocalizacion": "rattles",
+      "count": 1,
+      "correct": 0,
+      "accuracy": 0.0,
+      "avg_confidence": 0.1469
+    },
+    {
+      "tipo_vocalizacion": "scold",
+      "count": 1,
+      "correct": 0,
+      "accuracy": 0.0,
+      "avg_confidence": 0.404
+    },
+    {
+      "tipo_vocalizacion": "stuttersong",
+      "count": 1,
+      "correct": 1,
+      "accuracy": 1.0,
+      "avg_confidence": 0.8487
+    },
+    {
+      "tipo_vocalizacion": "subsong",
+      "count": 1,
+      "correct": 1,
+      "accuracy": 1.0,
+      "avg_confidence": 0.8843
+    }
+  ],
+  "test_predictions": [
+    {
+      "id": "1064603",
+      "true_species": "Phytotoma rutila",
+      "predicted_species": "Phytotoma rutila",
+      "confidence": 0.5777,
+      "correct": true,
+      "calidad": "A",
+      "tipo_vocalizacion_principal": "song",
+      "windows_used": 3
+    },
+    {
+      "id": "1065151",
+      "true_species": "Atlapetes rufinucha",
+      "predicted_species": "Asthenes dorbignyi",
+      "confidence": 0.2353,
+      "correct": false,
+      "calidad": "B",
+      "tipo_vocalizacion_principal": "song",
+      "windows_used": 3
+    },
+    {
+      "id": "1065205",
+      "true_species": "Scytalopus bolivianus",
+      "predicted_species": "Scytalopus bolivianus",
+      "confidence": 0.6191,
+      "correct": true,
+      "calidad": "B",
+      "tipo_vocalizacion_principal": "song",
+      "windows_used": 3
+    },
+    {
+      "id": "1065411",
+      "true_species": "Stigmatura budytoides",
+      "predicted_species": "Stigmatura budytoides",
+      "confidence": 0.9861,
+      "correct": true,
+      "calidad": "A",
+      "tipo_vocalizacion_principal": "song",
+      "windows_used": 3
+    },
+    {
+      "id": "1067425",
+      "true_species": "Scytalopus parvirostris",
+      "predicted_species": "Scytalopus parvirostris",
+      "confidence": 0.9821,
+      "correct": true,
+      "calidad": "A",
+      "tipo_vocalizacion_principal": "song",
+      "windows_used": 3
+    },
+    {
+      "id": "1141944",
+      "true_species": "Scytalopus schulenbergi",
+      "predicted_species": "Scytalopus schulenbergi",
+      "confidence": 0.9879,
+      "correct": true,
+      "calidad": "B",
+      "tipo_vocalizacion_principal": "song",
+      "windows_used": 3
+    },
+    {
+      "id": "1157077",
+      "true_species": "Turdus leucomelas",
+      "predicted_species": "Turdus leucomelas",
+      "confidence": 0.5351,
+      "correct": true,
+      "calidad": "A",
+      "tipo_vocalizacion_principal": "song",
+      "windows_used": 3
+    },
+    {
+      "id": "1180202",
+      "true_species": "Campylorhynchus turdinus",
+      "predicted_species": "Campylorhynchus turdinus",
+      "confidence": 0.9457,
+      "correct": true,
+      "calidad": "A",
+      "tipo_vocalizacion_principal": "call",
+      "windows_used": 3
+    },
+    {
+      "id": "1184429",
+      "true_species": "Scytalopus schulenbergi",
+      "predicted_species": "Cranioleuca albiceps",
+      "confidence": 0.404,
+      "correct": false,
+      "calidad": "B",
+      "tipo_vocalizacion_principal": "scold",
+      "windows_used": 3
+    },
+    {
+      "id": "145051",
+      "true_species": "Thamnophilus caerulescens",
+      "predicted_species": "Thamnophilus caerulescens",
+      "confidence": 0.6333,
+      "correct": true,
+      "calidad": "B",
+      "tipo_vocalizacion_principal": "song",
+      "windows_used": 3
+    },
+    {
+      "id": "146862",
+      "true_species": "Pyrrhura molinae",
+      "predicted_species": "Pyrrhura molinae",
+      "confidence": 0.5667,
+      "correct": true,
+      "calidad": "A",
+      "tipo_vocalizacion_principal": "call",
+      "windows_used": 3
+    },
+    {
+      "id": "149126",
+      "true_species": "Zonotrichia capensis",
+      "predicted_species": "Zonotrichia capensis",
+      "confidence": 0.8054,
+      "correct": true,
+      "calidad": "A",
+      "tipo_vocalizacion_principal": "call",
+      "windows_used": 3
+    },
+    {
+      "id": "149533",
+      "true_species": "Cantorchilus guarayanus",
+      "predicted_species": "Henicorhina leucophrys",
+      "confidence": 0.3848,
+      "correct": false,
+      "calidad": "A",
+      "tipo_vocalizacion_principal": "song",
+      "windows_used": 3
+    },
+    {
+      "id": "149546",
+      "true_species": "Turdus hauxwelli",
+      "predicted_species": "Grallaria erythrotis",
+      "confidence": 0.2114,
+      "correct": false,
+      "calidad": "C",
+      "tipo_vocalizacion_principal": "call",
+      "windows_used": 3
+    },
+    {
+      "id": "149661",
+      "true_species": "Pyrrhura molinae",
+      "predicted_species": "Pyrrhura molinae",
+      "confidence": 0.5493,
+      "correct": true,
+      "calidad": "B",
+      "tipo_vocalizacion_principal": "call",
+      "windows_used": 3
+    },
+    {
+      "id": "149669",
+      "true_species": "Grallaria erythrotis",
+      "predicted_species": "Grallaria erythrotis",
+      "confidence": 0.964,
+      "correct": true,
+      "calidad": "A",
+      "tipo_vocalizacion_principal": "call",
+      "windows_used": 3
+    },
+    {
+      "id": "150484",
+      "true_species": "Scytalopus schulenbergi",
+      "predicted_species": "Scytalopus schulenbergi",
+      "confidence": 0.9931,
+      "correct": true,
+      "calidad": "A",
+      "tipo_vocalizacion_principal": "song",
+      "windows_used": 3
+    },
+    {
+      "id": "1548",
+      "true_species": "Scytalopus bolivianus",
+      "predicted_species": "Patagioenas plumbea",
+      "confidence": 0.2524,
+      "correct": false,
+      "calidad": "A",
+      "tipo_vocalizacion_principal": "song",
+      "windows_used": 3
+    },
+    {
+      "id": "155526",
+      "true_species": "Pyriglena maura",
+      "predicted_species": "Pyriglena maura",
+      "confidence": 0.9868,
+      "correct": true,
+      "calidad": "B",
+      "tipo_vocalizacion_principal": "song",
+      "windows_used": 3
+    },
+    {
+      "id": "155966",
+      "true_species": "Zonotrichia capensis",
+      "predicted_species": "Asthenes dorbignyi",
+      "confidence": 0.5307,
+      "correct": false,
+      "calidad": "B",
+      "tipo_vocalizacion_principal": "call",
+      "windows_used": 3
+    },
+    {
+      "id": "155976",
+      "true_species": "Patagioenas plumbea",
+      "predicted_species": "Asthenes dorbignyi",
+      "confidence": 0.1611,
+      "correct": false,
+      "calidad": "B",
+      "tipo_vocalizacion_principal": "call",
+      "windows_used": 3
+    },
+    {
+      "id": "1604",
+      "true_species": "Psarocolius atrovirens",
+      "predicted_species": "Psarocolius atrovirens",
+      "confidence": 0.157,
+      "correct": true,
+      "calidad": "A",
+      "tipo_vocalizacion_principal": "song",
+      "windows_used": 3
+    },
+    {
+      "id": "1619",
+      "true_species": "Henicorhina leucophrys",
+      "predicted_species": "Scytalopus zimmeri",
+      "confidence": 0.1229,
+      "correct": false,
+      "calidad": "A",
+      "tipo_vocalizacion_principal": "song",
+      "windows_used": 3
+    },
+    {
+      "id": "1624",
+      "true_species": "Henicorhina leucophrys",
+      "predicted_species": "Cranioleuca albiceps",
+      "confidence": 0.765,
+      "correct": false,
+      "calidad": "A",
+      "tipo_vocalizacion_principal": "call",
+      "windows_used": 3
+    },
+    {
+      "id": "1625",
+      "true_species": "Pyriglena maura",
+      "predicted_species": "Pyriglena maura",
+      "confidence": 0.8554,
+      "correct": true,
+      "calidad": "A",
+      "tipo_vocalizacion_principal": "song",
+      "windows_used": 3
+    },
+    {
+      "id": "16302",
+      "true_species": "Scytalopus zimmeri",
+      "predicted_species": "Scytalopus zimmeri",
+      "confidence": 0.8099,
+      "correct": true,
+      "calidad": "B",
+      "tipo_vocalizacion_principal": "call",
+      "windows_used": 3
+    },
+    {
+      "id": "1676",
+      "true_species": "Sittasomus griseicapillus",
+      "predicted_species": "Grallaria erythrotis",
+      "confidence": 0.1469,
+      "correct": false,
+      "calidad": "A",
+      "tipo_vocalizacion_principal": "rattles",
+      "windows_used": 3
+    },
+    {
+      "id": "189900",
+      "true_species": "Stigmatura budytoides",
+      "predicted_species": "Stigmatura budytoides",
+      "confidence": 0.989,
+      "correct": true,
+      "calidad": "A",
+      "tipo_vocalizacion_principal": "song",
+      "windows_used": 3
+    },
+    {
+      "id": "190382",
+      "true_species": "Asthenes harterti",
+      "predicted_species": "Asthenes harterti",
+      "confidence": 0.8728,
+      "correct": true,
+      "calidad": "A",
+      "tipo_vocalizacion_principal": "song",
+      "windows_used": 3
+    },
+    {
+      "id": "2030",
+      "true_species": "Scytalopus parvirostris",
+      "predicted_species": "Scytalopus zimmeri",
+      "confidence": 0.3729,
+      "correct": false,
+      "calidad": "A",
+      "tipo_vocalizacion_principal": "song",
+      "windows_used": 3
+    },
+    {
+      "id": "2053",
+      "true_species": "Troglodytes aedon",
+      "predicted_species": "Stigmatura budytoides",
+      "confidence": 0.3336,
+      "correct": false,
+      "calidad": "B",
+      "tipo_vocalizacion_principal": "call",
+      "windows_used": 3
+    },
+    {
+      "id": "2174",
+      "true_species": "Psittacara mitratus",
+      "predicted_species": "Psittacara mitratus",
+      "confidence": 0.922,
+      "correct": true,
+      "calidad": "A",
+      "tipo_vocalizacion_principal": "call",
+      "windows_used": 3
+    },
+    {
+      "id": "2314",
+      "true_species": "Dendroplex picus",
+      "predicted_species": "Dendroplex picus",
+      "confidence": 0.1958,
+      "correct": true,
+      "calidad": "B",
+      "tipo_vocalizacion_principal": "song",
+      "windows_used": 3
+    },
+    {
+      "id": "2519",
+      "true_species": "Scytalopus parvirostris",
+      "predicted_species": "Scytalopus parvirostris",
+      "confidence": 0.9742,
+      "correct": true,
+      "calidad": "A",
+      "tipo_vocalizacion_principal": "call",
+      "windows_used": 3
+    },
+    {
+      "id": "2627",
+      "true_species": "Cantorchilus guarayanus",
+      "predicted_species": "Henicorhina leucophrys",
+      "confidence": 0.3009,
+      "correct": false,
+      "calidad": "A",
+      "tipo_vocalizacion_principal": "song",
+      "windows_used": 3
+    },
+    {
+      "id": "2659",
+      "true_species": "Sittasomus griseicapillus",
+      "predicted_species": "Sittasomus griseicapillus",
+      "confidence": 0.1812,
+      "correct": true,
+      "calidad": "A",
+      "tipo_vocalizacion_principal": "song",
+      "windows_used": 2
+    },
+    {
+      "id": "2660",
+      "true_species": "Cantorchilus guarayanus",
+      "predicted_species": "Chiroxiphia boliviana",
+      "confidence": 0.5066,
+      "correct": false,
+      "calidad": "A",
+      "tipo_vocalizacion_principal": "call",
+      "windows_used": 3
+    },
+    {
+      "id": "289844",
+      "true_species": "Pyrrhura molinae",
+      "predicted_species": "Pyrrhura molinae",
+      "confidence": 0.3661,
+      "correct": true,
+      "calidad": "B",
+      "tipo_vocalizacion_principal": "call",
+      "windows_used": 3
+    },
+    {
+      "id": "289911",
+      "true_species": "Zonotrichia capensis",
+      "predicted_species": "Zonotrichia capensis",
+      "confidence": 0.2457,
+      "correct": true,
+      "calidad": "B",
+      "tipo_vocalizacion_principal": "call",
+      "windows_used": 3
+    },
+    {
+      "id": "296357",
+      "true_species": "Henicorhina leucophrys",
+      "predicted_species": "Cantorchilus guarayanus",
+      "confidence": 0.2927,
+      "correct": false,
+      "calidad": "A",
+      "tipo_vocalizacion_principal": "song",
+      "windows_used": 3
+    },
+    {
+      "id": "296366",
+      "true_species": "Saltator aurantiirostris",
+      "predicted_species": "Saltator aurantiirostris",
+      "confidence": 0.3901,
+      "correct": true,
+      "calidad": "A",
+      "tipo_vocalizacion_principal": "song",
+      "windows_used": 3
+    },
+    {
+      "id": "296375",
+      "true_species": "Scytalopus schulenbergi",
+      "predicted_species": "Scytalopus schulenbergi",
+      "confidence": 0.6496,
+      "correct": true,
+      "calidad": "A",
+      "tipo_vocalizacion_principal": "call",
+      "windows_used": 3
+    },
+    {
+      "id": "296777",
+      "true_species": "Troglodytes aedon",
+      "predicted_species": "Myrmophylax atrothorax",
+      "confidence": 0.1739,
+      "correct": false,
+      "calidad": "C",
+      "tipo_vocalizacion_principal": "song",
+      "windows_used": 3
+    },
+    {
+      "id": "351107",
+      "true_species": "Chiroxiphia boliviana",
+      "predicted_species": "Chiroxiphia boliviana",
+      "confidence": 0.8959,
+      "correct": true,
+      "calidad": "C",
+      "tipo_vocalizacion_principal": "call",
+      "windows_used": 2
+    },
+    {
+      "id": "351187",
+      "true_species": "Psittacara mitratus",
+      "predicted_species": "Psittacara mitratus",
+      "confidence": 0.8217,
+      "correct": true,
+      "calidad": "B",
+      "tipo_vocalizacion_principal": "call",
+      "windows_used": 3
+    },
+    {
+      "id": "352271",
+      "true_species": "Chiroxiphia boliviana",
+      "predicted_species": "Scytalopus zimmeri",
+      "confidence": 0.1383,
+      "correct": false,
+      "calidad": "B",
+      "tipo_vocalizacion_principal": "call",
+      "windows_used": 3
+    },
+    {
+      "id": "353629",
+      "true_species": "Thamnophilus caerulescens",
+      "predicted_species": "Thamnophilus caerulescens",
+      "confidence": 0.5668,
+      "correct": true,
+      "calidad": "B",
+      "tipo_vocalizacion_principal": "song",
+      "windows_used": 3
+    },
+    {
+      "id": "354375",
+      "true_species": "Asthenes harterti",
+      "predicted_species": "Asthenes dorbignyi",
+      "confidence": 0.2837,
+      "correct": false,
+      "calidad": "B",
+      "tipo_vocalizacion_principal": "song",
+      "windows_used": 3
+    },
+    {
+      "id": "3616",
+      "true_species": "Scytalopus zimmeri",
+      "predicted_species": "Scytalopus zimmeri",
+      "confidence": 0.5377,
+      "correct": true,
+      "calidad": "B",
+      "tipo_vocalizacion_principal": "song",
+      "windows_used": 3
+    },
+    {
+      "id": "3630",
+      "true_species": "Scytalopus zimmeri",
+      "predicted_species": "Scytalopus zimmeri",
+      "confidence": 0.4663,
+      "correct": true,
+      "calidad": "A",
+      "tipo_vocalizacion_principal": "call",
+      "windows_used": 3
+    },
+    {
+      "id": "395780",
+      "true_species": "Sciaphylax hemimelaena",
+      "predicted_species": "Scytalopus parvirostris",
+      "confidence": 0.1658,
+      "correct": false,
+      "calidad": "B",
+      "tipo_vocalizacion_principal": "song",
+      "windows_used": 3
+    },
+    {
+      "id": "395788",
+      "true_species": "Myiothlypis bivittata",
+      "predicted_species": "Myiothlypis bivittata",
+      "confidence": 0.2566,
+      "correct": true,
+      "calidad": "B",
+      "tipo_vocalizacion_principal": "song",
+      "windows_used": 3
+    },
+    {
+      "id": "399422",
+      "true_species": "Xiphorhynchus guttatus",
+      "predicted_species": "Myiothlypis signata",
+      "confidence": 0.2086,
+      "correct": false,
+      "calidad": "A",
+      "tipo_vocalizacion_principal": "call",
+      "windows_used": 3
+    },
+    {
+      "id": "403229",
+      "true_species": "Phytotoma rutila",
+      "predicted_species": "Phytotoma rutila",
+      "confidence": 0.2244,
+      "correct": true,
+      "calidad": "B",
+      "tipo_vocalizacion_principal": "song",
+      "windows_used": 3
+    },
+    {
+      "id": "435483",
+      "true_species": "Taraba major",
+      "predicted_species": "Taraba major",
+      "confidence": 0.7427,
+      "correct": true,
+      "calidad": "A",
+      "tipo_vocalizacion_principal": "song",
+      "windows_used": 3
+    },
+    {
+      "id": "43896",
+      "true_species": "Chiroxiphia boliviana",
+      "predicted_species": "Scytalopus zimmeri",
+      "confidence": 0.2095,
+      "correct": false,
+      "calidad": "B",
+      "tipo_vocalizacion_principal": "call",
+      "windows_used": 3
+    },
+    {
+      "id": "44391",
+      "true_species": "Pheugopedius genibarbis",
+      "predicted_species": "Pheugopedius genibarbis",
+      "confidence": 0.7394,
+      "correct": true,
+      "calidad": "B",
+      "tipo_vocalizacion_principal": "call",
+      "windows_used": 3
+    },
+    {
+      "id": "44404",
+      "true_species": "Patagioenas plumbea",
+      "predicted_species": "Patagioenas plumbea",
+      "confidence": 0.5865,
+      "correct": true,
+      "calidad": "B",
+      "tipo_vocalizacion_principal": "song",
+      "windows_used": 3
+    },
+    {
+      "id": "456902",
+      "true_species": "Pyriglena maura",
+      "predicted_species": "Dendroplex picus",
+      "confidence": 0.8207,
+      "correct": false,
+      "calidad": "A",
+      "tipo_vocalizacion_principal": "song",
+      "windows_used": 3
+    },
+    {
+      "id": "471090",
+      "true_species": "Xiphorhynchus guttatus",
+      "predicted_species": "Xiphorhynchus guttatus",
+      "confidence": 0.4235,
+      "correct": true,
+      "calidad": "B",
+      "tipo_vocalizacion_principal": "song",
+      "windows_used": 3
+    },
+    {
+      "id": "471113",
+      "true_species": "Myiothlypis signata",
+      "predicted_species": "Myiothlypis bivittata",
+      "confidence": 0.5441,
+      "correct": false,
+      "calidad": "B",
+      "tipo_vocalizacion_principal": "song",
+      "windows_used": 3
+    },
+    {
+      "id": "471350",
+      "true_species": "Asthenes harterti",
+      "predicted_species": "Asthenes harterti",
+      "confidence": 0.9245,
+      "correct": true,
+      "calidad": "A",
+      "tipo_vocalizacion_principal": "call",
+      "windows_used": 3
+    },
+    {
+      "id": "471405",
+      "true_species": "Sciaphylax hemimelaena",
+      "predicted_species": "Pyrrhura molinae",
+      "confidence": 0.1722,
+      "correct": false,
+      "calidad": "C",
+      "tipo_vocalizacion_principal": "call",
+      "windows_used": 3
+    },
+    {
+      "id": "471408",
+      "true_species": "Sciaphylax hemimelaena",
+      "predicted_species": "Sciaphylax hemimelaena",
+      "confidence": 0.9537,
+      "correct": true,
+      "calidad": "B",
+      "tipo_vocalizacion_principal": "song",
+      "windows_used": 3
+    },
+    {
+      "id": "471412",
+      "true_species": "Myrmophylax atrothorax",
+      "predicted_species": "Myrmophylax atrothorax",
+      "confidence": 0.8559,
+      "correct": true,
+      "calidad": "A",
+      "tipo_vocalizacion_principal": "song",
+      "windows_used": 3
+    },
+    {
+      "id": "47485",
+      "true_species": "Saltator aurantiirostris",
+      "predicted_species": "Saltator aurantiirostris",
+      "confidence": 0.5795,
+      "correct": true,
+      "calidad": "B",
+      "tipo_vocalizacion_principal": "song",
+      "windows_used": 3
+    },
+    {
+      "id": "47585",
+      "true_species": "Asthenes dorbignyi",
+      "predicted_species": "Asthenes dorbignyi",
+      "confidence": 0.8487,
+      "correct": true,
+      "calidad": "B",
+      "tipo_vocalizacion_principal": "stuttersong",
+      "windows_used": 3
+    },
+    {
+      "id": "497209",
+      "true_species": "Myrmophylax atrothorax",
+      "predicted_species": "Myrmophylax atrothorax",
+      "confidence": 0.3455,
+      "correct": true,
+      "calidad": "A",
+      "tipo_vocalizacion_principal": "song",
+      "windows_used": 3
+    },
+    {
+      "id": "602849",
+      "true_species": "Taraba major",
+      "predicted_species": "Xiphorhynchus guttatus",
+      "confidence": 0.4637,
+      "correct": false,
+      "calidad": "B",
+      "tipo_vocalizacion_principal": "song",
+      "windows_used": 3
+    },
+    {
+      "id": "604010",
+      "true_species": "Campylorhynchus turdinus",
+      "predicted_species": "Psittacara mitratus",
+      "confidence": 0.1351,
+      "correct": false,
+      "calidad": "A",
+      "tipo_vocalizacion_principal": "song",
+      "windows_used": 3
+    },
+    {
+      "id": "606102",
+      "true_species": "Myrmophylax atrothorax",
+      "predicted_species": "Myrmophylax atrothorax",
+      "confidence": 0.7888,
+      "correct": true,
+      "calidad": "A",
+      "tipo_vocalizacion_principal": "song",
+      "windows_used": 3
+    },
+    {
+      "id": "630641",
+      "true_species": "Thamnophilus caerulescens",
+      "predicted_species": "Grallaria erythrotis",
+      "confidence": 0.224,
+      "correct": false,
+      "calidad": "A",
+      "tipo_vocalizacion_principal": "call",
+      "windows_used": 3
+    },
+    {
+      "id": "630658",
+      "true_species": "Sittasomus griseicapillus",
+      "predicted_species": "Myrmoborus myotherinus",
+      "confidence": 0.5806,
+      "correct": false,
+      "calidad": "B",
+      "tipo_vocalizacion_principal": "song",
+      "windows_used": 1
+    },
+    {
+      "id": "63135",
+      "true_species": "Asthenes dorbignyi",
+      "predicted_species": "Stigmatura budytoides",
+      "confidence": 0.6637,
+      "correct": false,
+      "calidad": "B",
+      "tipo_vocalizacion_principal": "call",
+      "windows_used": 3
+    },
+    {
+      "id": "631493",
+      "true_species": "Scytalopus parvirostris",
+      "predicted_species": "Scytalopus parvirostris",
+      "confidence": 0.7095,
+      "correct": true,
+      "calidad": "A",
+      "tipo_vocalizacion_principal": "call",
+      "windows_used": 2
+    },
+    {
+      "id": "631873",
+      "true_species": "Pheugopedius genibarbis",
+      "predicted_species": "Pheugopedius genibarbis",
+      "confidence": 0.262,
+      "correct": true,
+      "calidad": "B",
+      "tipo_vocalizacion_principal": "call",
+      "windows_used": 3
+    },
+    {
+      "id": "631874",
+      "true_species": "Psittacara mitratus",
+      "predicted_species": "Psittacara mitratus",
+      "confidence": 0.9667,
+      "correct": true,
+      "calidad": "B",
+      "tipo_vocalizacion_principal": "call",
+      "windows_used": 3
+    },
+    {
+      "id": "631887",
+      "true_species": "Henicorhina leucophrys",
+      "predicted_species": "Henicorhina leucophrys",
+      "confidence": 0.312,
+      "correct": true,
+      "calidad": "B",
+      "tipo_vocalizacion_principal": "duet",
+      "windows_used": 3
+    },
+    {
+      "id": "635075",
+      "true_species": "Scytalopus bolivianus",
+      "predicted_species": "Scytalopus bolivianus",
+      "confidence": 0.867,
+      "correct": true,
+      "calidad": "B",
+      "tipo_vocalizacion_principal": "song",
+      "windows_used": 3
+    },
+    {
+      "id": "635087",
+      "true_species": "Zonotrichia capensis",
+      "predicted_species": "Asthenes harterti",
+      "confidence": 0.4481,
+      "correct": false,
+      "calidad": "A",
+      "tipo_vocalizacion_principal": "song",
+      "windows_used": 3
+    },
+    {
+      "id": "63701",
+      "true_species": "Myrmophylax atrothorax",
+      "predicted_species": "Myrmophylax atrothorax",
+      "confidence": 0.8688,
+      "correct": true,
+      "calidad": "A",
+      "tipo_vocalizacion_principal": "song",
+      "windows_used": 3
+    },
+    {
+      "id": "63751",
+      "true_species": "Myrmoborus myotherinus",
+      "predicted_species": "Myrmoborus myotherinus",
+      "confidence": 0.7402,
+      "correct": true,
+      "calidad": "B",
+      "tipo_vocalizacion_principal": "song",
+      "windows_used": 3
+    },
+    {
+      "id": "64274",
+      "true_species": "Pheugopedius genibarbis",
+      "predicted_species": "Henicorhina leucophrys",
+      "confidence": 0.2658,
+      "correct": false,
+      "calidad": "A",
+      "tipo_vocalizacion_principal": "song",
+      "windows_used": 3
+    },
+    {
+      "id": "64393",
+      "true_species": "Dendroplex picus",
+      "predicted_species": "Dendroplex picus",
+      "confidence": 0.6243,
+      "correct": true,
+      "calidad": "B",
+      "tipo_vocalizacion_principal": "song",
+      "windows_used": 3
+    },
+    {
+      "id": "650155",
+      "true_species": "Atlapetes rufinucha",
+      "predicted_species": "Myiothlypis signata",
+      "confidence": 0.6889,
+      "correct": false,
+      "calidad": "B",
+      "tipo_vocalizacion_principal": "call",
+      "windows_used": 3
+    },
+    {
+      "id": "655905",
+      "true_species": "Grallaria erythrotis",
+      "predicted_species": "Grallaria erythrotis",
+      "confidence": 0.8596,
+      "correct": true,
+      "calidad": "A",
+      "tipo_vocalizacion_principal": "call",
+      "windows_used": 3
+    },
+    {
+      "id": "655910",
+      "true_species": "Grallaria erythrotis",
+      "predicted_species": "Grallaria erythrotis",
+      "confidence": 0.9709,
+      "correct": true,
+      "calidad": "A",
+      "tipo_vocalizacion_principal": "call",
+      "windows_used": 3
+    },
+    {
+      "id": "663487",
+      "true_species": "Scytalopus zimmeri",
+      "predicted_species": "Scytalopus zimmeri",
+      "confidence": 0.9432,
+      "correct": true,
+      "calidad": "B",
+      "tipo_vocalizacion_principal": "song",
+      "windows_used": 3
+    },
+    {
+      "id": "676371",
+      "true_species": "Thamnophilus aethiops",
+      "predicted_species": "Sittasomus griseicapillus",
+      "confidence": 0.286,
+      "correct": false,
+      "calidad": "A",
+      "tipo_vocalizacion_principal": "song",
+      "windows_used": 3
+    },
+    {
+      "id": "683233",
+      "true_species": "Asthenes harterti",
+      "predicted_species": "Asthenes harterti",
+      "confidence": 0.4867,
+      "correct": true,
+      "calidad": "A",
+      "tipo_vocalizacion_principal": "call",
+      "windows_used": 3
+    },
+    {
+      "id": "684885",
+      "true_species": "Thamnophilus aethiops",
+      "predicted_species": "Thamnophilus aethiops",
+      "confidence": 0.406,
+      "correct": true,
+      "calidad": "B",
+      "tipo_vocalizacion_principal": "song",
+      "windows_used": 3
+    },
+    {
+      "id": "684887",
+      "true_species": "Thamnophilus aethiops",
+      "predicted_species": "Thamnophilus aethiops",
+      "confidence": 0.6268,
+      "correct": true,
+      "calidad": "B",
+      "tipo_vocalizacion_principal": "song",
+      "windows_used": 3
+    },
+    {
+      "id": "685107",
+      "true_species": "Saltator aurantiirostris",
+      "predicted_species": "Saltator aurantiirostris",
+      "confidence": 0.5643,
+      "correct": true,
+      "calidad": "B",
+      "tipo_vocalizacion_principal": "song",
+      "windows_used": 3
+    },
+    {
+      "id": "692590",
+      "true_species": "Taraba major",
+      "predicted_species": "Taraba major",
+      "confidence": 0.9858,
+      "correct": true,
+      "calidad": "A",
+      "tipo_vocalizacion_principal": "song",
+      "windows_used": 3
+    },
+    {
+      "id": "693061",
+      "true_species": "Chiroxiphia boliviana",
+      "predicted_species": "Chiroxiphia boliviana",
+      "confidence": 0.4658,
+      "correct": true,
+      "calidad": "B",
+      "tipo_vocalizacion_principal": "song",
+      "windows_used": 3
+    },
+    {
+      "id": "693585",
+      "true_species": "Turdus leucomelas",
+      "predicted_species": "Turdus hauxwelli",
+      "confidence": 0.3973,
+      "correct": false,
+      "calidad": "B",
+      "tipo_vocalizacion_principal": "song",
+      "windows_used": 3
+    },
+    {
+      "id": "702018",
+      "true_species": "Campylorhynchus turdinus",
+      "predicted_species": "Campylorhynchus turdinus",
+      "confidence": 0.9389,
+      "correct": true,
+      "calidad": "A",
+      "tipo_vocalizacion_principal": "song",
+      "windows_used": 3
+    },
+    {
+      "id": "703813",
+      "true_species": "Elaenia parvirostris",
+      "predicted_species": "Elaenia parvirostris",
+      "confidence": 0.4296,
+      "correct": true,
+      "calidad": "B",
+      "tipo_vocalizacion_principal": "song",
+      "windows_used": 3
+    },
+    {
+      "id": "703818",
+      "true_species": "Elaenia parvirostris",
+      "predicted_species": "Elaenia parvirostris",
+      "confidence": 0.4652,
+      "correct": true,
+      "calidad": "C",
+      "tipo_vocalizacion_principal": "song",
+      "windows_used": 3
+    },
+    {
+      "id": "703821",
+      "true_species": "Elaenia parvirostris",
+      "predicted_species": "Elaenia parvirostris",
+      "confidence": 0.5299,
+      "correct": true,
+      "calidad": "B",
+      "tipo_vocalizacion_principal": "song",
+      "windows_used": 3
+    },
+    {
+      "id": "703825",
+      "true_species": "Elaenia parvirostris",
+      "predicted_species": "Elaenia parvirostris",
+      "confidence": 0.6175,
+      "correct": true,
+      "calidad": "C",
+      "tipo_vocalizacion_principal": "song",
+      "windows_used": 3
+    },
+    {
+      "id": "706723",
+      "true_species": "Psarocolius atrovirens",
+      "predicted_species": "Psarocolius atrovirens",
+      "confidence": 0.8923,
+      "correct": true,
+      "calidad": "A",
+      "tipo_vocalizacion_principal": "song",
+      "windows_used": 3
+    },
+    {
+      "id": "707083",
+      "true_species": "Psittacara mitratus",
+      "predicted_species": "Psittacara mitratus",
+      "confidence": 0.9725,
+      "correct": true,
+      "calidad": "A",
+      "tipo_vocalizacion_principal": "call",
+      "windows_used": 3
+    },
+    {
+      "id": "707149",
+      "true_species": "Cyclarhis gujanensis",
+      "predicted_species": "Turdus leucomelas",
+      "confidence": 0.371,
+      "correct": false,
+      "calidad": "B",
+      "tipo_vocalizacion_principal": "song",
+      "windows_used": 3
+    },
+    {
+      "id": "707522",
+      "true_species": "Cyclarhis gujanensis",
+      "predicted_species": "Cyclarhis gujanensis",
+      "confidence": 0.1735,
+      "correct": true,
+      "calidad": "B",
+      "tipo_vocalizacion_principal": "song",
+      "windows_used": 3
+    },
+    {
+      "id": "707523",
+      "true_species": "Cyclarhis gujanensis",
+      "predicted_species": "Thamnophilus aethiops",
+      "confidence": 0.2474,
+      "correct": false,
+      "calidad": "A",
+      "tipo_vocalizacion_principal": "song",
+      "windows_used": 3
+    },
+    {
+      "id": "707558",
+      "true_species": "Phytotoma rutila",
+      "predicted_species": "Elaenia parvirostris",
+      "confidence": 0.5655,
+      "correct": false,
+      "calidad": "B",
+      "tipo_vocalizacion_principal": "song",
+      "windows_used": 3
+    },
+    {
+      "id": "707730",
+      "true_species": "Saltator aurantiirostris",
+      "predicted_species": "Saltator aurantiirostris",
+      "confidence": 0.5319,
+      "correct": true,
+      "calidad": "A",
+      "tipo_vocalizacion_principal": "song",
+      "windows_used": 3
+    },
+    {
+      "id": "708292",
+      "true_species": "Scytalopus bolivianus",
+      "predicted_species": "Scytalopus bolivianus",
+      "confidence": 0.4744,
+      "correct": true,
+      "calidad": "B",
+      "tipo_vocalizacion_principal": "song",
+      "windows_used": 3
+    },
+    {
+      "id": "708367",
+      "true_species": "Turdus hauxwelli",
+      "predicted_species": "Pheugopedius genibarbis",
+      "confidence": 0.4446,
+      "correct": false,
+      "calidad": "A",
+      "tipo_vocalizacion_principal": "song",
+      "windows_used": 3
+    },
+    {
+      "id": "708470",
+      "true_species": "Turdus leucomelas",
+      "predicted_species": "Turdus leucomelas",
+      "confidence": 0.3827,
+      "correct": true,
+      "calidad": "C",
+      "tipo_vocalizacion_principal": "song",
+      "windows_used": 3
+    },
+    {
+      "id": "708858",
+      "true_species": "Stigmatura budytoides",
+      "predicted_species": "Stigmatura budytoides",
+      "confidence": 0.9939,
+      "correct": true,
+      "calidad": "B",
+      "tipo_vocalizacion_principal": "song",
+      "windows_used": 3
+    },
+    {
+      "id": "708980",
+      "true_species": "Myiothlypis bivittata",
+      "predicted_species": "Myiothlypis bivittata",
+      "confidence": 0.8788,
+      "correct": true,
+      "calidad": "A",
+      "tipo_vocalizacion_principal": "song",
+      "windows_used": 3
+    },
+    {
+      "id": "709003",
+      "true_species": "Xiphorhynchus guttatus",
+      "predicted_species": "Turdus leucomelas",
+      "confidence": 0.6896,
+      "correct": false,
+      "calidad": "A",
+      "tipo_vocalizacion_principal": "song",
+      "windows_used": 3
+    },
+    {
+      "id": "709388",
+      "true_species": "Sittasomus griseicapillus",
+      "predicted_species": "Xiphorhynchus guttatus",
+      "confidence": 0.9244,
+      "correct": false,
+      "calidad": "C",
+      "tipo_vocalizacion_principal": "song",
+      "windows_used": 3
+    },
+    {
+      "id": "709927",
+      "true_species": "Troglodytes aedon",
+      "predicted_species": "Myiothlypis bivittata",
+      "confidence": 0.3614,
+      "correct": false,
+      "calidad": "C",
+      "tipo_vocalizacion_principal": "song",
+      "windows_used": 3
+    },
+    {
+      "id": "73114",
+      "true_species": "Atlapetes rufinucha",
+      "predicted_species": "Myrmophylax atrothorax",
+      "confidence": 0.2038,
+      "correct": false,
+      "calidad": "B",
+      "tipo_vocalizacion_principal": "song",
+      "windows_used": 3
+    },
+    {
+      "id": "73218",
+      "true_species": "Myiothlypis signata",
+      "predicted_species": "Myiothlypis signata",
+      "confidence": 0.4414,
+      "correct": true,
+      "calidad": "B",
+      "tipo_vocalizacion_principal": "song",
+      "windows_used": 3
+    },
+    {
+      "id": "73219",
+      "true_species": "Myiothlypis signata",
+      "predicted_species": "Asthenes dorbignyi",
+      "confidence": 0.4259,
+      "correct": false,
+      "calidad": "B",
+      "tipo_vocalizacion_principal": "song",
+      "windows_used": 3
+    },
+    {
+      "id": "732237",
+      "true_species": "Cyclarhis gujanensis",
+      "predicted_species": "Pheugopedius genibarbis",
+      "confidence": 0.2138,
+      "correct": false,
+      "calidad": "A",
+      "tipo_vocalizacion_principal": "song",
+      "windows_used": 3
+    },
+    {
+      "id": "73463",
+      "true_species": "Cranioleuca albiceps",
+      "predicted_species": "Asthenes harterti",
+      "confidence": 0.5664,
+      "correct": false,
+      "calidad": "A",
+      "tipo_vocalizacion_principal": "song",
+      "windows_used": 3
+    },
+    {
+      "id": "73600",
+      "true_species": "Grallaria erythrotis",
+      "predicted_species": "Grallaria erythrotis",
+      "confidence": 0.9115,
+      "correct": true,
+      "calidad": "B",
+      "tipo_vocalizacion_principal": "song",
+      "windows_used": 3
+    },
+    {
+      "id": "74126",
+      "true_species": "Psarocolius atrovirens",
+      "predicted_species": "Psarocolius atrovirens",
+      "confidence": 0.841,
+      "correct": true,
+      "calidad": "A",
+      "tipo_vocalizacion_principal": "song",
+      "windows_used": 3
+    },
+    {
+      "id": "74208",
+      "true_species": "Taraba major",
+      "predicted_species": "Taraba major",
+      "confidence": 0.967,
+      "correct": true,
+      "calidad": "B",
+      "tipo_vocalizacion_principal": "song",
+      "windows_used": 3
+    },
+    {
+      "id": "74271",
+      "true_species": "Pheugopedius genibarbis",
+      "predicted_species": "Pheugopedius genibarbis",
+      "confidence": 0.3102,
+      "correct": true,
+      "calidad": "B",
+      "tipo_vocalizacion_principal": "song",
+      "windows_used": 3
+    },
+    {
+      "id": "74335",
+      "true_species": "Dendroplex picus",
+      "predicted_species": "Dendroplex picus",
+      "confidence": 0.8783,
+      "correct": true,
+      "calidad": "B",
+      "tipo_vocalizacion_principal": "song",
+      "windows_used": 3
+    },
+    {
+      "id": "750889",
+      "true_species": "Cranioleuca albiceps",
+      "predicted_species": "Cranioleuca albiceps",
+      "confidence": 0.8843,
+      "correct": true,
+      "calidad": "B",
+      "tipo_vocalizacion_principal": "subsong",
+      "windows_used": 3
+    },
+    {
+      "id": "778859",
+      "true_species": "Asthenes dorbignyi",
+      "predicted_species": "Asthenes dorbignyi",
+      "confidence": 0.4565,
+      "correct": true,
+      "calidad": "B",
+      "tipo_vocalizacion_principal": "song",
+      "windows_used": 3
+    },
+    {
+      "id": "778869",
+      "true_species": "Myiothlypis signata",
+      "predicted_species": "Myiothlypis signata",
+      "confidence": 0.8425,
+      "correct": true,
+      "calidad": "A",
+      "tipo_vocalizacion_principal": "duet",
+      "windows_used": 3
+    },
+    {
+      "id": "835102",
+      "true_species": "Turdus hauxwelli",
+      "predicted_species": "Turdus hauxwelli",
+      "confidence": 0.7867,
+      "correct": true,
+      "calidad": "A",
+      "tipo_vocalizacion_principal": "song",
+      "windows_used": 3
+    },
+    {
+      "id": "858642",
+      "true_species": "Myrmoborus myotherinus",
+      "predicted_species": "Myrmoborus myotherinus",
+      "confidence": 0.996,
+      "correct": true,
+      "calidad": "A",
+      "tipo_vocalizacion_principal": "song",
+      "windows_used": 3
+    },
+    {
+      "id": "858651",
+      "true_species": "Myrmoborus myotherinus",
+      "predicted_species": "Myrmoborus myotherinus",
+      "confidence": 0.5155,
+      "correct": true,
+      "calidad": "C",
+      "tipo_vocalizacion_principal": "song",
+      "windows_used": 3
+    },
+    {
+      "id": "858660",
+      "true_species": "Sciaphylax hemimelaena",
+      "predicted_species": "Sciaphylax hemimelaena",
+      "confidence": 0.2855,
+      "correct": true,
+      "calidad": "B",
+      "tipo_vocalizacion_principal": "song",
+      "windows_used": 3
+    },
+    {
+      "id": "858778",
+      "true_species": "Thamnophilus aethiops",
+      "predicted_species": "Thamnophilus aethiops",
+      "confidence": 0.9163,
+      "correct": true,
+      "calidad": "C",
+      "tipo_vocalizacion_principal": "song",
+      "windows_used": 3
+    },
+    {
+      "id": "861211",
+      "true_species": "Pyrrhura molinae",
+      "predicted_species": "Pyrrhura molinae",
+      "confidence": 0.4937,
+      "correct": true,
+      "calidad": "B",
+      "tipo_vocalizacion_principal": "call",
+      "windows_used": 2
+    },
+    {
+      "id": "861518",
+      "true_species": "Patagioenas plumbea",
+      "predicted_species": "Turdus hauxwelli",
+      "confidence": 0.4136,
+      "correct": false,
+      "calidad": "A",
+      "tipo_vocalizacion_principal": "song",
+      "windows_used": 3
+    },
+    {
+      "id": "862912",
+      "true_species": "Turdus leucomelas",
+      "predicted_species": "Turdus leucomelas",
+      "confidence": 0.3615,
+      "correct": true,
+      "calidad": "B",
+      "tipo_vocalizacion_principal": "song",
+      "windows_used": 3
+    },
+    {
+      "id": "864106",
+      "true_species": "Patagioenas plumbea",
+      "predicted_species": "Patagioenas plumbea",
+      "confidence": 0.9201,
+      "correct": true,
+      "calidad": "A",
+      "tipo_vocalizacion_principal": "song",
+      "windows_used": 3
+    },
+    {
+      "id": "864269",
+      "true_species": "Myiothlypis bivittata",
+      "predicted_species": "Myiothlypis bivittata",
+      "confidence": 0.6345,
+      "correct": true,
+      "calidad": "B",
+      "tipo_vocalizacion_principal": "song",
+      "windows_used": 3
+    },
+    {
+      "id": "864424",
+      "true_species": "Xiphorhynchus guttatus",
+      "predicted_species": "Xiphorhynchus guttatus",
+      "confidence": 0.1842,
+      "correct": true,
+      "calidad": "B",
+      "tipo_vocalizacion_principal": "song",
+      "windows_used": 3
+    },
+    {
+      "id": "864489",
+      "true_species": "Dendroplex picus",
+      "predicted_species": "Turdus leucomelas",
+      "confidence": 0.5666,
+      "correct": false,
+      "calidad": "C",
+      "tipo_vocalizacion_principal": "song",
+      "windows_used": 3
+    },
+    {
+      "id": "864693",
+      "true_species": "Cantorchilus guarayanus",
+      "predicted_species": "Myiothlypis bivittata",
+      "confidence": 0.3511,
+      "correct": false,
+      "calidad": "A",
+      "tipo_vocalizacion_principal": "song",
+      "windows_used": 3
+    },
+    {
+      "id": "864696",
+      "true_species": "Troglodytes aedon",
+      "predicted_species": "Myiothlypis bivittata",
+      "confidence": 0.3181,
+      "correct": false,
+      "calidad": "C",
+      "tipo_vocalizacion_principal": "song",
+      "windows_used": 3
+    },
+    {
+      "id": "956988",
+      "true_species": "Cranioleuca albiceps",
+      "predicted_species": "Cranioleuca albiceps",
+      "confidence": 0.9525,
+      "correct": true,
+      "calidad": "A",
+      "tipo_vocalizacion_principal": "call",
+      "windows_used": 3
+    },
+    {
+      "id": "988655",
+      "true_species": "Asthenes dorbignyi",
+      "predicted_species": "Myiothlypis signata",
+      "confidence": 0.5111,
+      "correct": false,
+      "calidad": "B",
+      "tipo_vocalizacion_principal": "song",
+      "windows_used": 3
+    }
+  ]
+}

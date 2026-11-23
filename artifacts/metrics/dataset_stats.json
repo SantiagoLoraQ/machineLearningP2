@@ -1,0 +1,464 @@
+{
+  "generated_at": "2026-11-23T03:03:06.852334+00:00",
+  "total_clean_records": 972,
+  "num_species": 39,
+  "quality_distribution": {
+    "A": 423,
+    "B": 444,
+    "C": 105
+  },
+  "vocalization_distribution": {
+    "song": 615,
+    "call": 319,
+    "duet": 11,
+    "subsong": 10,
+    "stuttersong": 4,
+    "vocalizations": 4,
+    "uncertain": 2,
+    "scold": 2,
+    "daysong": 1,
+    "chattering in top of tree": 1,
+    "long series. alarm?": 1,
+    "rattles": 1,
+    "pair chatter": 1
+  },
+  "audio_format_distribution": {
+    "mp3": 858,
+    "wav": 114
+  },
+  "duration_stats": {
+    "min_sec": 2.48,
+    "p25_sec": 18.61,
+    "median_sec": 35.91,
+    "mean_sec": 55.39,
+    "p75_sec": 65.21,
+    "max_sec": 710.46,
+    "total_hours": 14.95
+  },
+  "duration_histogram": [
+    {
+      "range": "0-10s",
+      "count": 90
+    },
+    {
+      "range": "10-20s",
+      "count": 179
+    },
+    {
+      "range": "20-30s",
+      "count": 145
+    },
+    {
+      "range": "30-45s",
+      "count": 184
+    },
+    {
+      "range": "45-60s",
+      "count": 107
+    },
+    {
+      "range": "60-90s",
+      "count": 118
+    },
+    {
+      "range": "90-120s",
+      "count": 63
+    },
+    {
+      "range": "120-240s",
+      "count": 56
+    },
+    {
+      "range": ">240s",
+      "count": 30
+    }
+  ],
+  "species_breakdown": [
+    {
+      "especie": "Asthenes dorbignyi",
+      "total": 27,
+      "quality_a": 4,
+      "quality_b": 18,
+      "quality_c": 5,
+      "avg_duration_sec": 26.33,
+      "median_duration_sec": 16.93
+    },
+    {
+      "especie": "Asthenes harterti",
+      "total": 27,
+      "quality_a": 17,
+      "quality_b": 10,
+      "quality_c": 0,
+      "avg_duration_sec": 51.92,
+      "median_duration_sec": 46.37
+    },
+    {
+      "especie": "Cantorchilus guarayanus",
+      "total": 27,
+      "quality_a": 27,
+      "quality_b": 0,
+      "quality_c": 0,
+      "avg_duration_sec": 70.14,
+      "median_duration_sec": 30.15
+    },
+    {
+      "especie": "Chiroxiphia boliviana",
+      "total": 27,
+      "quality_a": 10,
+      "quality_b": 16,
+      "quality_c": 1,
+      "avg_duration_sec": 52.08,
+      "median_duration_sec": 37.37
+    },
+    {
+      "especie": "Grallaria erythrotis",
+      "total": 27,
+      "quality_a": 14,
+      "quality_b": 12,
+      "quality_c": 1,
+      "avg_duration_sec": 63.67,
+      "median_duration_sec": 37.91
+    },
+    {
+      "especie": "Myrmophylax atrothorax",
+      "total": 27,
+      "quality_a": 27,
+      "quality_b": 0,
+      "quality_c": 0,
+      "avg_duration_sec": 67.72,
+      "median_duration_sec": 43.53
+    },
+    {
+      "especie": "Pheugopedius genibarbis",
+      "total": 27,
+      "quality_a": 8,
+      "quality_b": 15,
+      "quality_c": 4,
+      "avg_duration_sec": 51.79,
+      "median_duration_sec": 31.4
+    },
+    {
+      "especie": "Psittacara mitratus",
+      "total": 27,
+      "quality_a": 13,
+      "quality_b": 14,
+      "quality_c": 0,
+      "avg_duration_sec": 84.54,
+      "median_duration_sec": 33.18
+    },
+    {
+      "especie": "Pyrrhura molinae",
+      "total": 27,
+      "quality_a": 10,
+      "quality_b": 12,
+      "quality_c": 5,
+      "avg_duration_sec": 34.31,
+      "median_duration_sec": 26.44
+    },
+    {
+      "especie": "Saltator aurantiirostris",
+      "total": 27,
+      "quality_a": 11,
+      "quality_b": 16,
+      "quality_c": 0,
+      "avg_duration_sec": 55.11,
+      "median_duration_sec": 44.19
+    },
+    {
+      "especie": "Sciaphylax hemimelaena",
+      "total": 27,
+      "quality_a": 15,
+      "quality_b": 9,
+      "quality_c": 3,
+      "avg_duration_sec": 57.55,
+      "median_duration_sec": 40.29
+    },
+    {
+      "especie": "Scytalopus parvirostris",
+      "total": 27,
+      "quality_a": 17,
+      "quality_b": 10,
+      "quality_c": 0,
+      "avg_duration_sec": 27.56,
+      "median_duration_sec": 19.11
+    },
+    {
+      "especie": "Scytalopus schulenbergi",
+      "total": 27,
+      "quality_a": 15,
+      "quality_b": 12,
+      "quality_c": 0,
+      "avg_duration_sec": 23.47,
+      "median_duration_sec": 19.51
+    },
+    {
+      "especie": "Patagioenas plumbea",
+      "total": 26,
+      "quality_a": 12,
+      "quality_b": 13,
+      "quality_c": 1,
+      "avg_duration_sec": 79.52,
+      "median_duration_sec": 39.44
+    },
+    {
+      "especie": "Scytalopus zimmeri",
+      "total": 26,
+      "quality_a": 10,
+      "quality_b": 12,
+      "quality_c": 4,
+      "avg_duration_sec": 45.22,
+      "median_duration_sec": 23.62
+    },
+    {
+      "especie": "Taraba major",
+      "total": 26,
+      "quality_a": 10,
+      "quality_b": 14,
+      "quality_c": 2,
+      "avg_duration_sec": 53.67,
+      "median_duration_sec": 45.23
+    },
+    {
+      "especie": "Xiphorhynchus guttatus",
+      "total": 26,
+      "quality_a": 14,
+      "quality_b": 12,
+      "quality_c": 0,
+      "avg_duration_sec": 94.82,
+      "median_duration_sec": 48.86
+    },
+    {
+      "especie": "Zonotrichia capensis",
+      "total": 26,
+      "quality_a": 16,
+      "quality_b": 10,
+      "quality_c": 0,
+      "avg_duration_sec": 35.32,
+      "median_duration_sec": 27.33
+    },
+    {
+      "especie": "Cranioleuca albiceps",
+      "total": 25,
+      "quality_a": 9,
+      "quality_b": 15,
+      "quality_c": 1,
+      "avg_duration_sec": 33.74,
+      "median_duration_sec": 30.48
+    },
+    {
+      "especie": "Dendroplex picus",
+      "total": 25,
+      "quality_a": 5,
+      "quality_b": 17,
+      "quality_c": 3,
+      "avg_duration_sec": 41.17,
+      "median_duration_sec": 33.11
+    },
+    {
+      "especie": "Pyriglena maura",
+      "total": 25,
+      "quality_a": 14,
+      "quality_b": 7,
+      "quality_c": 4,
+      "avg_duration_sec": 58.31,
+      "median_duration_sec": 36.69
+    },
+    {
+      "especie": "Sittasomus griseicapillus",
+      "total": 25,
+      "quality_a": 8,
+      "quality_b": 11,
+      "quality_c": 6,
+      "avg_duration_sec": 41.24,
+      "median_duration_sec": 28.37
+    },
+    {
+      "especie": "Thamnophilus caerulescens",
+      "total": 25,
+      "quality_a": 4,
+      "quality_b": 14,
+      "quality_c": 7,
+      "avg_duration_sec": 33.57,
+      "median_duration_sec": 30.88
+    },
+    {
+      "especie": "Troglodytes aedon",
+      "total": 25,
+      "quality_a": 7,
+      "quality_b": 12,
+      "quality_c": 6,
+      "avg_duration_sec": 49.89,
+      "median_duration_sec": 39.51
+    },
+    {
+      "especie": "Cyclarhis gujanensis",
+      "total": 24,
+      "quality_a": 9,
+      "quality_b": 11,
+      "quality_c": 4,
+      "avg_duration_sec": 66.12,
+      "median_duration_sec": 41.65
+    },
+    {
+      "especie": "Stigmatura budytoides",
+      "total": 24,
+      "quality_a": 5,
+      "quality_b": 17,
+      "quality_c": 2,
+      "avg_duration_sec": 64.29,
+      "median_duration_sec": 21.92
+    },
+    {
+      "especie": "Thamnophilus aethiops",
+      "total": 24,
+      "quality_a": 7,
+      "quality_b": 8,
+      "quality_c": 9,
+      "avg_duration_sec": 55.28,
+      "median_duration_sec": 35.95
+    },
+    {
+      "especie": "Turdus hauxwelli",
+      "total": 24,
+      "quality_a": 9,
+      "quality_b": 10,
+      "quality_c": 5,
+      "avg_duration_sec": 118.1,
+      "median_duration_sec": 67.6
+    },
+    {
+      "especie": "Elaenia parvirostris",
+      "total": 23,
+      "quality_a": 6,
+      "quality_b": 13,
+      "quality_c": 4,
+      "avg_duration_sec": 77.38,
+      "median_duration_sec": 49.92
+    },
+    {
+      "especie": "Myiothlypis bivittata",
+      "total": 23,
+      "quality_a": 8,
+      "quality_b": 14,
+      "quality_c": 1,
+      "avg_duration_sec": 67.5,
+      "median_duration_sec": 41.33
+    },
+    {
+      "especie": "Myiothlypis signata",
+      "total": 23,
+      "quality_a": 10,
+      "quality_b": 12,
+      "quality_c": 1,
+      "avg_duration_sec": 54.97,
+      "median_duration_sec": 39.57
+    },
+    {
+      "especie": "Myrmoborus myotherinus",
+      "total": 23,
+      "quality_a": 11,
+      "quality_b": 8,
+      "quality_c": 4,
+      "avg_duration_sec": 62.3,
+      "median_duration_sec": 45.15
+    },
+    {
+      "especie": "Scytalopus bolivianus",
+      "total": 23,
+      "quality_a": 6,
+      "quality_b": 13,
+      "quality_c": 4,
+      "avg_duration_sec": 53.19,
+      "median_duration_sec": 51.69
+    },
+    {
+      "especie": "Atlapetes rufinucha",
+      "total": 22,
+      "quality_a": 7,
+      "quality_b": 12,
+      "quality_c": 3,
+      "avg_duration_sec": 37.71,
+      "median_duration_sec": 37.33
+    },
+    {
+      "especie": "Henicorhina leucophrys",
+      "total": 22,
+      "quality_a": 10,
+      "quality_b": 10,
+      "quality_c": 2,
+      "avg_duration_sec": 35.29,
+      "median_duration_sec": 21.34
+    },
+    {
+      "especie": "Psarocolius atrovirens",
+      "total": 22,
+      "quality_a": 13,
+      "quality_b": 8,
+      "quality_c": 1,
+      "avg_duration_sec": 53.17,
+      "median_duration_sec": 37.84
+    },
+    {
+      "especie": "Turdus leucomelas",
+      "total": 22,
+      "quality_a": 5,
+      "quality_b": 10,
+      "quality_c": 7,
+      "avg_duration_sec": 80.69,
+      "median_duration_sec": 49.72
+    },
+    {
+      "especie": "Campylorhynchus turdinus",
+      "total": 21,
+      "quality_a": 14,
+      "quality_b": 5,
+      "quality_c": 2,
+      "avg_duration_sec": 51.9,
+      "median_duration_sec": 31.06
+    },
+    {
+      "especie": "Phytotoma rutila",
+      "total": 21,
+      "quality_a": 6,
+      "quality_b": 12,
+      "quality_c": 3,
+      "avg_duration_sec": 56.86,
+      "median_duration_sec": 49.07
+    }
+  ],
+  "cleaning_audit": {
+    "generated_at": "2026-11-23T03:03:06.774939+00:00",
+    "source_csv": "CSV/manifest_verificado.csv",
+    "output_csv": "data/processed/dataset_limpio.csv",
+    "raw_total_rows": 1000,
+    "clean_total_rows": 972,
+    "species_count": 39,
+    "dropped_columns": [
+      "pais",
+      "localidad",
+      "fecha",
+      "grabador",
+      "duracion",
+      "licencia",
+      "url_audio",
+      "nombre_archivo_origen",
+      "url_ficha",
+      "lat",
+      "lon",
+      "ruta_local"
+    ],
+    "exclusion_summary": {
+      "mystery_mystery": 27,
+      "missing_file": 1
+    },
+    "excluded_non_mystery_records": [
+      {
+        "id": "1630",
+        "especie": "Patagioenas plumbea",
+        "reason": "missing_file",
+        "expected_raw": "/content/aves_bolivia_1000/audios/Patagioenas_plumbea/XC1630.mp3"
+      }
+    ],
+    "duration_updated_vs_manifest_count": 6
+  }
+}

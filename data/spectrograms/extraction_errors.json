@@ -1,0 +1,38 @@
+{
+  "generated_at": "2026-11-23T03:07:44.605176+00:00",
+  "total_recordings": 972,
+  "successful_recordings": 968,
+  "total_spectrogram_windows": 2813,
+  "windows_by_split": {
+    "val": 428,
+    "train": 1956,
+    "test": 429
+  },
+  "error_count": 4,
+  "errors": [
+    {
+      "id": "1702",
+      "especie": "Cyclarhis gujanensis",
+      "ruta_relativa": "Audios/Cyclarhis_gujanensis/XC1702.mp3",
+      "error": "Unspecified internal error."
+    },
+    {
+      "id": "2540",
+      "especie": "Myrmoborus myotherinus",
+      "ruta_relativa": "Audios/Myrmoborus_myotherinus/XC2540.mp3",
+      "error": "Unspecified internal error."
+    },
+    {
+      "id": "2541",
+      "especie": "Pheugopedius genibarbis",
+      "ruta_relativa": "Audios/Pheugopedius_genibarbis/XC2541.mp3",
+      "error": "Unspecified internal error."
+    },
+    {
+      "id": "1837",
+      "especie": "Zonotrichia capensis",
+      "ruta_relativa": "Audios/Zonotrichia_capensis/XC1837.mp3",
+      "error": "Unspecified internal error."
+    }
+  ]
+}

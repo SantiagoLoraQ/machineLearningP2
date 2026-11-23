@@ -1,0 +1,275 @@
+[
+  {
+    "especie": "Asthenes dorbignyi",
+    "precision": 0.2857,
+    "recall": 0.5,
+    "f1_score": 0.3636,
+    "support": 4
+  },
+  {
+    "especie": "Asthenes harterti",
+    "precision": 0.6,
+    "recall": 0.75,
+    "f1_score": 0.6667,
+    "support": 4
+  },
+  {
+    "especie": "Atlapetes rufinucha",
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1_score": 0.0,
+    "support": 3
+  },
+  {
+    "especie": "Campylorhynchus turdinus",
+    "precision": 1.0,
+    "recall": 0.6667,
+    "f1_score": 0.8,
+    "support": 3
+  },
+  {
+    "especie": "Cantorchilus guarayanus",
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1_score": 0.0,
+    "support": 4
+  },
+  {
+    "especie": "Chiroxiphia boliviana",
+    "precision": 0.6667,
+    "recall": 0.5,
+    "f1_score": 0.5714,
+    "support": 4
+  },
+  {
+    "especie": "Cranioleuca albiceps",
+    "precision": 0.5,
+    "recall": 0.6667,
+    "f1_score": 0.5714,
+    "support": 3
+  },
+  {
+    "especie": "Cyclarhis gujanensis",
+    "precision": 1.0,
+    "recall": 0.25,
+    "f1_score": 0.4,
+    "support": 4
+  },
+  {
+    "especie": "Dendroplex picus",
+    "precision": 0.75,
+    "recall": 0.75,
+    "f1_score": 0.75,
+    "support": 4
+  },
+  {
+    "especie": "Elaenia parvirostris",
+    "precision": 0.8,
+    "recall": 1.0,
+    "f1_score": 0.8889,
+    "support": 4
+  },
+  {
+    "especie": "Grallaria erythrotis",
+    "precision": 0.5714,
+    "recall": 1.0,
+    "f1_score": 0.7273,
+    "support": 4
+  },
+  {
+    "especie": "Henicorhina leucophrys",
+    "precision": 0.25,
+    "recall": 0.25,
+    "f1_score": 0.25,
+    "support": 4
+  },
+  {
+    "especie": "Myiothlypis bivittata",
+    "precision": 0.4286,
+    "recall": 1.0,
+    "f1_score": 0.6,
+    "support": 3
+  },
+  {
+    "especie": "Myiothlypis signata",
+    "precision": 0.4,
+    "recall": 0.5,
+    "f1_score": 0.4444,
+    "support": 4
+  },
+  {
+    "especie": "Myrmoborus myotherinus",
+    "precision": 0.75,
+    "recall": 1.0,
+    "f1_score": 0.8571,
+    "support": 3
+  },
+  {
+    "especie": "Myrmophylax atrothorax",
+    "precision": 0.6667,
+    "recall": 1.0,
+    "f1_score": 0.8,
+    "support": 4
+  },
+  {
+    "especie": "Patagioenas plumbea",
+    "precision": 0.6667,
+    "recall": 0.5,
+    "f1_score": 0.5714,
+    "support": 4
+  },
+  {
+    "especie": "Pheugopedius genibarbis",
+    "precision": 0.6,
+    "recall": 0.75,
+    "f1_score": 0.6667,
+    "support": 4
+  },
+  {
+    "especie": "Phytotoma rutila",
+    "precision": 1.0,
+    "recall": 0.6667,
+    "f1_score": 0.8,
+    "support": 3
+  },
+  {
+    "especie": "Psarocolius atrovirens",
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1_score": 1.0,
+    "support": 3
+  },
+  {
+    "especie": "Psittacara mitratus",
+    "precision": 0.8,
+    "recall": 1.0,
+    "f1_score": 0.8889,
+    "support": 4
+  },
+  {
+    "especie": "Pyriglena maura",
+    "precision": 1.0,
+    "recall": 0.6667,
+    "f1_score": 0.8,
+    "support": 3
+  },
+  {
+    "especie": "Pyrrhura molinae",
+    "precision": 0.8,
+    "recall": 1.0,
+    "f1_score": 0.8889,
+    "support": 4
+  },
+  {
+    "especie": "Saltator aurantiirostris",
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1_score": 1.0,
+    "support": 4
+  },
+  {
+    "especie": "Sciaphylax hemimelaena",
+    "precision": 1.0,
+    "recall": 0.5,
+    "f1_score": 0.6667,
+    "support": 4
+  },
+  {
+    "especie": "Scytalopus bolivianus",
+    "precision": 1.0,
+    "recall": 0.75,
+    "f1_score": 0.8571,
+    "support": 4
+  },
+  {
+    "especie": "Scytalopus parvirostris",
+    "precision": 0.75,
+    "recall": 0.75,
+    "f1_score": 0.75,
+    "support": 4
+  },
+  {
+    "especie": "Scytalopus schulenbergi",
+    "precision": 1.0,
+    "recall": 0.75,
+    "f1_score": 0.8571,
+    "support": 4
+  },
+  {
+    "especie": "Scytalopus zimmeri",
+    "precision": 0.5,
+    "recall": 1.0,
+    "f1_score": 0.6667,
+    "support": 4
+  },
+  {
+    "especie": "Sittasomus griseicapillus",
+    "precision": 0.5,
+    "recall": 0.25,
+    "f1_score": 0.3333,
+    "support": 4
+  },
+  {
+    "especie": "Stigmatura budytoides",
+    "precision": 0.6,
+    "recall": 1.0,
+    "f1_score": 0.75,
+    "support": 3
+  },
+  {
+    "especie": "Taraba major",
+    "precision": 1.0,
+    "recall": 0.75,
+    "f1_score": 0.8571,
+    "support": 4
+  },
+  {
+    "especie": "Thamnophilus aethiops",
+    "precision": 0.75,
+    "recall": 0.75,
+    "f1_score": 0.75,
+    "support": 4
+  },
+  {
+    "especie": "Thamnophilus caerulescens",
+    "precision": 1.0,
+    "recall": 0.6667,
+    "f1_score": 0.8,
+    "support": 3
+  },
+  {
+    "especie": "Troglodytes aedon",
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1_score": 0.0,
+    "support": 4
+  },
+  {
+    "especie": "Turdus hauxwelli",
+    "precision": 0.3333,
+    "recall": 0.3333,
+    "f1_score": 0.3333,
+    "support": 3
+  },
+  {
+    "especie": "Turdus leucomelas",
+    "precision": 0.5,
+    "recall": 0.75,
+    "f1_score": 0.6,
+    "support": 4
+  },
+  {
+    "especie": "Xiphorhynchus guttatus",
+    "precision": 0.5,
+    "recall": 0.5,
+    "f1_score": 0.5,
+    "support": 4
+  },
+  {
+    "especie": "Zonotrichia capensis",
+    "precision": 1.0,
+    "recall": 0.5,
+    "f1_score": 0.6667,
+    "support": 4
+  }
+]
